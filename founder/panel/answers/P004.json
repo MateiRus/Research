@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "I lose my evenings chasing balance sheets and APIA extracts from 50-odd clients, and 900 EUR plus 50 a month is less than one junior's week; with the setup refunded if the file-completion time does not drop, and no 12-month lock-in, I can afford to test it on one programme's clients.",
+  "objection": "The man builds this 10 hours a week around a day job and I would be his second customer ever; if it breaks in the week before a POR or AFIR deadline, 'next working day' support is useless to me and the WhatsApp messages carry my firm's name, not his.",
+  "would_change_my_mind": "If the first client in Bihor, when I call him after the pilot, tells me it was more work for his people than it saved, I cancel at 30 days and we are done.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

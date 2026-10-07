@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "The document-upload link with automatic reminders is exactly the thing that eats my evenings, and I would pay for that part. But 2,400 EUR plus 140 a month for twelve months is over 4,000 EUR in year one out of a 68,000 EUR firm, most of it for a website I do not need this badly, built by someone doing this after his day job.",
+  "objection": "I am being asked to lock into a 12-month subscription with a one-person side business. If he gets a promotion or loses interest in month five, my client portal and the eligibility checker go dark in the middle of a submission season, and I am the one explaining to a farmer why his documents vanished.",
+  "would_change_my_mind": "Sell me the two automations on their own, plugged into the site I already have, for under 1,000 EUR setup, and show me one Romanian grant consultant who has been using them for six months.",
+  "price_too_cheap": 500,
+  "price_cheap": 1000,
+  "price_expensive": 1800,
+  "price_too_expensive": 2400
+}

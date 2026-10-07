@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Every web guy in Oradea quotes me 400 to 900 EUR for a site, and this is 2,400 plus 140 a month for twelve months, so over 4,000 EUR in the first year for something that openly does not promise me a single new client. The document-chasing automation is the only part that speaks to my real problem, and I am not paying a site-builder's price to get it as a bundle.",
+  "objection": "My clients are farmers and small firm owners who do not open secure links and upload PDFs; I drove 60 km today to pick up a paper because the man does not even scan. I doubt the reminders ever get answered, and then I am locked in for a year with a founder who does this 10 hours a week after his day job.",
+  "would_change_my_mind": "Sell me the document-collection and eligibility pre-check automations on their own, around 800 to 1,000 EUR setup and under 60 a month, month-to-month, and show me one grant consultant whose farmer clients actually use the upload link.",
+  "price_too_cheap": 500,
+  "price_cheap": 1000,
+  "price_expensive": 1500,
+  "price_too_expensive": 2200
+}

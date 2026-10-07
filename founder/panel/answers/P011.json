@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "The problem is real, I spent today driving 60 km for one paper, but I am not paying 900 EUR to a part-time developer whose only client is still in a pilot and cannot even take my phone call yet. My clients are farmers in Bihor; half of them will still call me instead of clicking a WhatsApp link, and the guarantee only covers the setup fee, not the months I spend teaching them.",
+  "objection": "There is nobody in Romania I can call who uses this and got results. 'Available after the 60-day pilot' means the proof does not exist today, and a man doing this 10-12 hours a week next to a day job can disappear the week before a submission deadline.",
+  "would_change_my_mind": "A phone call with the Bihor grant consultant, after his pilot, telling me his farmer clients actually used the link and his chasing time dropped; then I would try it for one submission round.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

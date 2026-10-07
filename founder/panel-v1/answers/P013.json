@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "The eligibility pre-check is the one thing I actually want, because I lost an hour today on exactly that kind of call, but I am not signing a 12-month contract and handing 1,200 EUR up front to a one-person side project with no portfolio, no references and a founder who does this 10 hours a week around a day job. I have been left with a dead site and nobody answering the phone before.",
+  "objection": "Who maintains the automations in a year when the founder gets a promotion or a baby? The launch price for the first two clients tells me nobody is running this yet, and my clients' documents sit on a system I cannot vouch for.",
+  "would_change_my_mind": "Two named consulting firms in Romania who have been live on it for at least six months, that I can call myself, plus a written continuity clause: if support stops, I get the automations handed over in a form my own IT person can run.",
+  "price_too_cheap": 600,
+  "price_cheap": 1500,
+  "price_expensive": 3200,
+  "price_too_expensive": 4500
+}

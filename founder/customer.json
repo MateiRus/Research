@@ -1,0 +1,37 @@
+{
+  "business": "ILLUSTRUS — site-uri și automatizări pentru consultanți în fonduri europene",
+  "target": "the owner of a small consulting firm in Romania (Bihor/Oradea or Bucharest) that writes and manages EU and national grant projects for SMEs and farmers; the income figure above is your FIRM's annual revenue in EUR, not your salary",
+  "where": "Oradea (Bihor) and Bucharest, Romania",
+  "age": [30, 58],
+  "segments": [
+    {"name": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year", "share": 0.45, "income": [25000, 70000]},
+    {"name": "Small consulting firm, 3-8 people, 20-50 active clients", "share": 0.40, "income": [70000, 300000]},
+    {"name": "Established firm, 8-15 people, 50+ clients, several programmes", "share": 0.15, "income": [300000, 1200000]}
+  ],
+  "behaviours": [
+    {"name": "Referral-only", "share": 0.22, "how": "All clients come from recommendations; has never paid for marketing and doubts a website brings clients."},
+    {"name": "Has a cheap site already", "share": 0.20, "how": "Paid 300-500 EUR for a WordPress site years ago; it is outdated but 'works'."},
+    {"name": "Drowning in admin", "share": 0.18, "how": "Spends evenings chasing clients for documents and answering unqualified requests; would pay to get hours back."},
+    {"name": "Price-anchored locally", "share": 0.15, "how": "Knows that sites in Oradea cost 400-900 EUR and compares every quote to that."},
+    {"name": "Tech-curious", "share": 0.12, "how": "Uses ChatGPT, follows AI news, likes to be first; but wants proof it works."},
+    {"name": "Skeptical of newcomers", "share": 0.13, "how": "Burned once by an agency that disappeared; asks for portfolio, references and who will answer the phone in a year."}
+  ],
+  "objections": [
+    "2,400 EUR is a lot for a site plus two automations when my cousin's agency does sites for 500 EUR",
+    "I already get calls and newsletters about new funding calls for free; why would I pay for a radar?",
+    "A student with a day job: who maintains this when he has exams or gets a better job?",
+    "My clients send documents on WhatsApp; they will never use a portal link",
+    "AI pre-checking eligibility will get it wrong and embarrass me with a client",
+    "I don't need more leads; I need fewer bad ones and more hours",
+    "Show me one consultant in Romania who uses this and got results",
+    "140 EUR every month forever adds up; what do I actually get each month?"
+  ],
+  "habits": [
+    "you are closing two grant applications this week and the deadline is Friday",
+    "you drove to a farmer client 60 km away to collect a missing document",
+    "you just read in a newsletter that a guide was amended yesterday and nobody told you",
+    "you spent an hour on the phone with someone who was not eligible for anything",
+    "you are at a business conference in Oradea handing out business cards",
+    "your website still shows the 2019 funding programmes"
+  ]
+}

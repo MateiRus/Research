@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "The problem is real, my people lose whole days chasing farmers for bilant and extras CF, and 900 plus 50 a month is nothing against what we bill. But I am not putting the documents of 50 clients into a tool built nights and weekends by someone whose first client has not even finished the pilot yet.",
+  "objection": "A database developer with a day job, one client every six weeks, a 'backup person' with no name I can call, and the only reference available in two months. Who fixes this at 9 in the evening the day before an AFIR deadline when he has a sprint review the next morning?",
+  "would_change_my_mind": "A phone call with the Bihor consultant after the 60-day pilot saying it worked, and the name and number of the backup person written into the contract before I sign.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

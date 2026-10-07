@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "My firm brings in about 43,000 EUR a year and this is 4,080 EUR in the first year before VAT, nearly a tenth of my revenue, for a site that replaces one that still works. With 5 to 15 clients a year I do not have a flood of unqualified requests to automate away; most of my work comes by phone and recommendation.",
+  "objection": "The 140 EUR every month, forever. Hosting and a backup do not cost that, and '4 hours of support' is something I would use maybe twice a year, so I would be paying 1,680 EUR a year mostly for automations that handle a volume of requests I simply do not have.",
+  "would_change_my_mind": "A one-time price with ordinary hosting of 15 to 20 EUR a month and no 12-month lock-in, or the START package at around 800 EUR plus hosting, so I can finally take the 2019 programmes off my site without a subscription.",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 1500,
+  "price_too_expensive": 2200
+}

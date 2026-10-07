@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Omar",
+  "age": 30,
+  "segment": "Established firm, 8-15 people, 50+ clients, several programmes",
+  "income": 736000,
+  "behaviour": "Has a cheap site already",
+  "behaviour_how": "Paid 300-500 EUR for a WordPress site years ago; it is outdated but 'works'.",
+  "objection": "A student with a day job: who maintains this when he has exams or gets a better job?",
+  "habit": "you just read in a newsletter that a guide was amended yesterday and nobody told you"
+ },
+ {
+  "id": "P002",
+  "name": "Raj",
+  "age": 39,
+  "segment": "Small consulting firm, 3-8 people, 20-50 active clients",
+  "income": 71000,
+  "behaviour": "Skeptical of newcomers",
+  "behaviour_how": "Burned once by an agency that disappeared; asks for portfolio, references and who will answer the phone in a year.",
+  "objection": "Show me one consultant in Romania who uses this and got results",
+  "habit": "you are at a business conference in Oradea handing out business cards"
+ },
+ {
+  "id": "P003",
+  "name": "Emil",
+  "age": 41,
+  "segment": "Small consulting firm, 3-8 people, 20-50 active clients",
+  "income": 210000,
+  "behaviour": "Price-anchored locally",
+  "behaviour_how": "Knows that sites in Oradea cost 400-900 EUR and compares every quote to that.",
+  "objection": "I don't need more leads; I need fewer bad ones and more hours",
+  "habit": "you drove to a farmer client 60 km away to collect a missing document"
+ },
+ {
+  "id": "P004",
+  "name": "Owen",
+  "age": 52,
+  "segment": "Established firm, 8-15 people, 50+ clients, several programmes",
+  "income": 1073000,
+  "behaviour": "Drowning in admin",
+  "behaviour_how": "Spends evenings chasing clients for documents and answering unqualified requests; would pay to get hours back.",
+  "objection": "2,400 EUR is a lot for a site plus two automations when my cousin's agency does sites for 500 EUR",
+  "habit": "you spent an hour on the phone with someone who was not eligible for anything"
+ },
+ {
+  "id": "P005",
+  "name": "Sana",
+  "age": 58,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 64000,
+  "behaviour": "Has a cheap site already",
+  "behaviour_how": "Paid 300-500 EUR for a WordPress site years ago; it is outdated but 'works'.",
+  "objection": "Show me one consultant in Romania who uses this and got results",
+  "habit": "you spent an hour on the phone with someone who was not eligible for anything"
+ },
+ {
+  "id": "P006",
+  "name": "Maya",
+  "age": 42,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 43000,
+  "behaviour": "Has a cheap site already",
+  "behaviour_how": "Paid 300-500 EUR for a WordPress site years ago; it is outdated but 'works'.",
+  "objection": "140 EUR every month forever adds up; what do I actually get each month?",
+  "habit": "your website still shows the 2019 funding programmes"
+ },
+ {
+  "id": "P007",
+  "name": "Selin",
+  "age": 42,
+  "segment": "Established firm, 8-15 people, 50+ clients, several programmes",
+  "income": 356000,
+  "behaviour": "Tech-curious",
+  "behaviour_how": "Uses ChatGPT, follows AI news, likes to be first; but wants proof it works.",
+  "objection": "I already get calls and newsletters about new funding calls for free; why would I pay for a radar?",
+  "habit": "you drove to a farmer client 60 km away to collect a missing document"
+ },
+ {
+  "id": "P008",
+  "name": "Ruby",
+  "age": 44,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 32000,
+  "behaviour": "Price-anchored locally",
+  "behaviour_how": "Knows that sites in Oradea cost 400-900 EUR and compares every quote to that.",
+  "objection": "I don't need more leads; I need fewer bad ones and more hours",
+  "habit": "you are at a business conference in Oradea handing out business cards"
+ },
+ {
+  "id": "P009",
+  "name": "Nora",
+  "age": 31,
+  "segment": "Small consulting firm, 3-8 people, 20-50 active clients",
+  "income": 94000,
+  "behaviour": "Has a cheap site already",
+  "behaviour_how": "Paid 300-500 EUR for a WordPress site years ago; it is outdated but 'works'.",
+  "objection": "A student with a day job: who maintains this when he has exams or gets a better job?",
+  "habit": "you are at a business conference in Oradea handing out business cards"
+ },
+ {
+  "id": "P010",
+  "name": "Fatima",
+  "age": 33,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 68000,
+  "behaviour": "Drowning in admin",
+  "behaviour_how": "Spends evenings chasing clients for documents and answering unqualified requests; would pay to get hours back.",
+  "objection": "2,400 EUR is a lot for a site plus two automations when my cousin's agency does sites for 500 EUR",
+  "habit": "you are closing two grant applications this week and the deadline is Friday"
+ },
+ {
+  "id": "P011",
+  "name": "Tariq",
+  "age": 57,
+  "segment": "Small consulting firm, 3-8 people, 20-50 active clients",
+  "income": 118000,
+  "behaviour": "Referral-only",
+  "behaviour_how": "All clients come from recommendations; has never paid for marketing and doubts a website brings clients.",
+  "objection": "Show me one consultant in Romania who uses this and got results",
+  "habit": "you drove to a farmer client 60 km away to collect a missing document"
+ },
+ {
+  "id": "P012",
+  "name": "Felix",
+  "age": 50,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 36000,
+  "behaviour": "Drowning in admin",
+  "behaviour_how": "Spends evenings chasing clients for documents and answering unqualified requests; would pay to get hours back.",
+  "objection": "I don't need more leads; I need fewer bad ones and more hours",
+  "habit": "you are at a business conference in Oradea handing out business cards"
+ },
+ {
+  "id": "P013",
+  "name": "Zoe",
+  "age": 41,
+  "segment": "Small consulting firm, 3-8 people, 20-50 active clients",
+  "income": 179000,
+  "behaviour": "Skeptical of newcomers",
+  "behaviour_how": "Burned once by an agency that disappeared; asks for portfolio, references and who will answer the phone in a year.",
+  "objection": "I already get calls and newsletters about new funding calls for free; why would I pay for a radar?",
+  "habit": "you spent an hour on the phone with someone who was not eligible for anything"
+ },
+ {
+  "id": "P014",
+  "name": "Dev",
+  "age": 44,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 47000,
+  "behaviour": "Drowning in admin",
+  "behaviour_how": "Spends evenings chasing clients for documents and answering unqualified requests; would pay to get hours back.",
+  "objection": "AI pre-checking eligibility will get it wrong and embarrass me with a client",
+  "habit": "you are closing two grant applications this week and the deadline is Friday"
+ },
+ {
+  "id": "P015",
+  "name": "Yusuf",
+  "age": 34,
+  "segment": "Small consulting firm, 3-8 people, 20-50 active clients",
+  "income": 94000,
+  "behaviour": "Tech-curious",
+  "behaviour_how": "Uses ChatGPT, follows AI news, likes to be first; but wants proof it works.",
+  "objection": "I don't need more leads; I need fewer bad ones and more hours",
+  "habit": "your website still shows the 2019 funding programmes"
+ },
+ {
+  "id": "P016",
+  "name": "Theo",
+  "age": 38,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 47000,
+  "behaviour": "Referral-only",
+  "behaviour_how": "All clients come from recommendations; has never paid for marketing and doubts a website brings clients.",
+  "objection": "A student with a day job: who maintains this when he has exams or gets a better job?",
+  "habit": "you are at a business conference in Oradea handing out business cards"
+ },
+ {
+  "id": "P017",
+  "name": "Alma",
+  "age": 30,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 34000,
+  "behaviour": "Referral-only",
+  "behaviour_how": "All clients come from recommendations; has never paid for marketing and doubts a website brings clients.",
+  "objection": "I don't need more leads; I need fewer bad ones and more hours",
+  "habit": "you drove to a farmer client 60 km away to collect a missing document"
+ },
+ {
+  "id": "P018",
+  "name": "Freya",
+  "age": 52,
+  "segment": "Small consulting firm, 3-8 people, 20-50 active clients",
+  "income": 195000,
+  "behaviour": "Price-anchored locally",
+  "behaviour_how": "Knows that sites in Oradea cost 400-900 EUR and compares every quote to that.",
+  "objection": "2,400 EUR is a lot for a site plus two automations when my cousin's agency does sites for 500 EUR",
+  "habit": "you are at a business conference in Oradea handing out business cards"
+ },
+ {
+  "id": "P019",
+  "name": "Harper",
+  "age": 39,
+  "segment": "Solo consultant / PFA-style firm, 1-2 people, 5-15 clients a year",
+  "income": 69000,
+  "behaviour": "Skeptical of newcomers",
+  "behaviour_how": "Burned once by an agency that disappeared; asks for portfolio, references and who will answer the phone in a year.",
+  "objection": "I already get calls and newsletters about new funding calls for free; why would I pay for a radar?",
+  "habit": "your website still shows the 2019 funding programmes"
+ },
+ {
+  "id": "P020",
+  "name": "Emma",
+  "age": 57,
+  "segment": "Small consulting firm, 3-8 people, 20-50 active clients",
+  "income": 130000,
+  "behaviour": "Referral-only",
+  "behaviour_how": "All clients come from recommendations; has never paid for marketing and doubts a website brings clients.",
+  "objection": "I don't need more leads; I need fewer bad ones and more hours",
+  "habit": "you drove to a farmer client 60 km away to collect a missing document"
+ }
+]

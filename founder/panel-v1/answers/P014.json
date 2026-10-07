@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My clients come from referrals and from the agricultural directorate, not from Google; the only part I would actually pay for is the document upload link with automatic reminders, and I cannot buy that without a 2,400 EUR website and a 12-month contract on top. Right now I have two applications due Friday, so this goes in the pile.",
+  "objection": "The AI telling a farmer he is eligible for a measure when he is not, with 'a stated reason', and me having to explain it. Eligibility in these programs changes with every guide revision, and the founder does this 10 to 12 hours a week next to a day job, so who keeps the rules current for the next 12 months?",
+  "would_change_my_mind": "Sell me the document collection and reminders automation on its own for a few hundred euro plus a small monthly fee, with the AI eligibility check switched off or at most flagging missing data, and let me talk to one Romanian grant consultant who has used it for a full application season.",
+  "price_too_cheap": 600,
+  "price_cheap": 1200,
+  "price_expensive": 2400,
+  "price_too_expensive": 3500
+}

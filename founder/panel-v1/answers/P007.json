@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "The document-upload automation hits a nerve, I spent this morning driving 120 km round trip for one missing paper, but I run 50-plus clients on several programmes and I will not hang that process on a one-man side project done 10 hours a week, with no customer yet and a 7-week build. And I already have a website; two thirds of this package is something I do not need to rebuy.",
+  "objection": "Who fixes it when the upload link or the calendar automation breaks on the day before a submission deadline, and the founder is at his database job until evening? 'Within one working day' is too slow for my business, and 'first two clients' means nobody has tested this on a firm like mine.",
+  "would_change_my_mind": "Sell me the two automations without the website, show me a live demo on my own intake form, and give me one reference from a consultancy that has run the document-chasing flow with real farmers for at least three months.",
+  "price_too_cheap": 500,
+  "price_cheap": 1500,
+  "price_expensive": 3500,
+  "price_too_expensive": 6000
+}

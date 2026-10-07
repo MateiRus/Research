@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "2,400 EUR plus 140 a month is over 4,000 EUR in the first year, more than an eighth of what my whole firm brings in, for a site when I know people in Oradea who do one for 600-900. My clients come from cards like the ones I'm handing out today and from farmers recommending me to their neighbours, not from a contact form.",
+  "objection": "With 5-15 clients a year I get maybe two or three bad requests a month; paying 140 EUR every month so a robot tells me why they're not eligible doesn't give me back real hours. The document chasing is the only part that actually hurts, and it's bundled with a website I'm not sure I need.",
+  "would_change_my_mind": "Sell me the document-upload link with the automatic reminders on its own, around 500-700 EUR setup and 30-40 a month, without the website; that I'd try, because chasing attachments is where my hours really go.",
+  "price_too_cheap": 400,
+  "price_cheap": 800,
+  "price_expensive": 1500,
+  "price_too_expensive": 2400
+}

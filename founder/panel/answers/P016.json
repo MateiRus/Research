@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I have ten, maybe twelve clients a year and I already chase their papers on WhatsApp myself; 900 EUR plus 50 a month to automate something I do in a few hours a month is money I would rather keep. The part that actually hurts me is not collecting files, it is that my whole pipeline is a stack of business cards from conferences like this one.",
+  "objection": "A database developer doing this 10-12 hours a week around a day job: when a submission deadline lands in his busy week, or he gets a better offer, I am left with a 'backup person' I have never met. The handover document sounds nice on paper, but I cannot run an automation server myself.",
+  "would_change_my_mind": "If the Bihor consultant, after the 60-day pilot, tells me on the phone that it worked through a real deadline week without the founder being around, and the setup fee came down to something like 400 EUR, I would try it for a season.",
+  "price_too_cheap": 150,
+  "price_cheap": 350,
+  "price_expensive": 600,
+  "price_too_expensive": 900
+}

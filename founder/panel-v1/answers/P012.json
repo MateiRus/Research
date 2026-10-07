@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "The document-chasing part is exactly my evening problem, but 2,400 plus 140 a month is over 4,000 EUR in the first year, more than a tenth of what the whole firm bills, and half of it is paying for a website I don't need because my clients come from people I meet at things like this conference, not from Google.",
+  "objection": "I'm being asked to lock in for 12 months with a man who does this 10-12 hours a week next to a day job, and I don't believe an AI can pre-check eligibility for grant calls whose criteria change with every new session and every ministry order; one wrong 'eligible' sent to a farmer and I'm the one who looks like a fool.",
+  "would_change_my_mind": "Sell me only the two automations, without the site, for a few hundred euros setup and under 60 a month, and let me call one consultant in Bihor who has used the document-upload link with actual farmers for at least three months.",
+  "price_too_cheap": 400,
+  "price_cheap": 900,
+  "price_expensive": 1500,
+  "price_too_expensive": 2200
+}

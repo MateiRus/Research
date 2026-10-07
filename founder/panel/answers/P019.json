@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Chasing clients for papers is genuinely my worst time sink, so this is not the 'free radar' thing I feared, but I am being asked for 900 EUR up front by a part-time developer whose only client is still in a pilot and cannot be called yet. I got burned once by people who vanished; I do not pay a newcomer before I can talk to someone who has used it.",
+  "objection": "There is no reference I can phone today, the founder does this 10-12 hours a week around a day job, and a 'named backup person' on a contract is a line of text, not someone I have met. What happens in March when a deadline hits and the automation breaks?",
+  "would_change_my_mind": "Let me phone the Bihor consultant after their 60 days and hear that it actually worked, then let me pay the setup in two parts, half after I see my own first 10 clients upload through it.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 900,
+  "price_too_expensive": 1500
+}

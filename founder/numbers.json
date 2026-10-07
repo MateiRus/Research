@@ -1,0 +1,27 @@
+{
+  "business": "ILLUSTRUS — contract PRO (setup + 12 luni abonament), EUR fara TVA",
+  "unit": "PRO contract (setup + 12 months)",
+  "price": 4080,
+  "variable": [
+    {"label": "Hosting 12 months (5 EUR/month)", "cost": 60},
+    {"label": "LLM API + automation running costs 12 months (10 EUR/month)", "cost": 120},
+    {"label": "Theme/plugins/domain for the client", "cost": 80},
+    {"label": "Travel for kickoff (one Oradea trip share)", "cost": 40},
+    {"label": "Launch discount reserve (20% on 2 of 5 contracts, averaged)", "cost": 192}
+  ],
+  "fixed_monthly": [
+    {"label": "VPS + n8n + tools", "cost": 15},
+    {"label": "Extra bookkeeping volume", "cost": 30},
+    {"label": "Phone, software, misc", "cost": 20},
+    {"label": "Travel not tied to a client (prospecting trips, averaged)", "cost": 40}
+  ],
+  "startup": [
+    {"label": "Own domain + theme + licences", "cost": 100},
+    {"label": "Event tickets (CFO Conference Oradea etc.)", "cost": 150},
+    {"label": "Printed materials, business cards", "cost": 50}
+  ],
+  "days_per_month": 30,
+  "capacity_per_day": 0.0222,
+  "plan_per_day": 0.0139,
+  "ramp_per_day": [0, 0, 0, 0.0333, 0, 0, 0.0333, 0, 0, 0.0333, 0, 0]
+}

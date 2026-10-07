@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Chasing clients for documents is genuinely my biggest time sink, and 900 plus 50 a month is nothing against what we bill, so the problem and the price are not the issue. The issue is that I would be client number two of a part-time developer whose only reference is still inside his own 60-day pilot, and I have already lived through one supplier vanishing with half my workflow in his hands.",
+  "objection": "Ten to twelve hours a week and a 'named backup person' I have never met is not someone who answers the phone when a client's file is half-uploaded three days before an AFIR deadline; the handover document is nice on paper, but my team cannot maintain an automation server themselves either.",
+  "would_change_my_mind": "A phone call with the Bihor consultant after his 60 days are up, with his before-and-after numbers in hand, and the name and a conversation with the backup person before I sign anything.",
+  "price_too_cheap": 200,
+  "price_cheap": 500,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

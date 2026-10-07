@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "The problem is real, I lost half a day today for one paper, but 900 EUR is what a whole website costs in Oradea and I'd be paying it to a man who does this evenings and weekends, with a reference I can't call for another two months. I'll wait and see what the Bihor colleague says after his pilot.",
+  "objection": "My farmer clients don't upload PDFs from a phone; they hand me a folder when I show up. A WhatsApp link and automatic reminders will be ignored by exactly the clients who cost me the hours, and then I've paid a website's price for a form my secretary could have chased by phone.",
+  "would_change_my_mind": "A phone call with the Bihor consultant after his 60 days, telling me his farmer and small-SME clients actually used the link and his time to a complete file really dropped.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 700,
+  "price_too_expensive": 1200
+}
