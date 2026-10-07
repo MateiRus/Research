@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "I have been telling clients we 'do automation' for a year with nobody to actually build it, and a 150 EUR form-to-CRM I can resell at 500 is exactly the gap. The free first task costs me nothing but an afternoon, so I will try it on one real job and see if the work and the deadline hold.",
+  "objection": "One person, 10-12 hours a week, a day job, university exams, 'two tasks at a time' - that is the profile of the freelancer who vanished on me two days before launch. If he gets a busy month at the Oracle job, my client's deadline is the thing that slips, under my brand. And honestly the grant-funded angle is not the draw; those clients pay late and bury you in paperwork, I would rather use him for normal SME automation.",
+  "would_change_my_mind": "A named backup person or a written guarantee of what happens when a deadline is missed (refund plus who finishes the work). Without that it stays a 150 EUR experiment, never a service I put on my price list.",
+  "price_too_cheap": 80,
+  "price_cheap": 200,
+  "price_expensive": 700,
+  "price_too_expensive": 1200
+}

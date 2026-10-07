@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "I literally have a PNRR client asking for a funding page this week and I had to google what one is; 120 EUR cost against the 400-500 I can bill for it is a margin I don't get anywhere else, and the first task is free so I risk nothing except my own time writing the scope.",
+  "objection": "He's one person doing this 10-12 hours a week at night, no phone, 24-hour replies, and two weeks a year off for exams. Grant deadlines don't wait, and when the client's consultant calls me at 11 on a Tuesday saying the visibility page is wrong, I'm the one with no answer until tomorrow.",
+  "would_change_my_mind": "If the free funding page slips past the agreed deadline or needs more than one round of fixes, I'm out; I won't put a client's grant reporting on someone I can't reach.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 350,
+  "price_too_expensive": 700
+}

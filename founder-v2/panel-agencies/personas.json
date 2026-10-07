@@ -1,0 +1,112 @@
+[
+ {
+  "id": "P001",
+  "name": "Keisha",
+  "age": 37,
+  "segment": "Micro agency, 2-4 people, sites at 400-1,000 EUR, 20-40 projects a year",
+  "income": 106000,
+  "behaviour": "Already uses freelancers",
+  "behaviour_how": "Has 2-3 freelancers on Upwork or locally; has been let down by one before a deadline.",
+  "objection": "I can get an n8n freelancer on Upwork for 20-25 EUR/h; why you?",
+  "habit": "you just lost a client who wanted a booking system you couldn't deliver"
+ },
+ {
+  "id": "P002",
+  "name": "Elena",
+  "age": 34,
+  "segment": "Small agency, 5-12 people, sites at 1,000-3,000 EUR, retainers, some custom work",
+  "income": 425000,
+  "behaviour": "Margin-driven owner",
+  "behaviour_how": "Asks 'what do I bill the client and what do you cost me' before anything else.",
+  "objection": "If he does it under my brand and it breaks, I take the blame",
+  "habit": "you just lost a client who wanted a booking system you couldn't deliver"
+ },
+ {
+  "id": "P003",
+  "name": "Emil",
+  "age": 47,
+  "segment": "Micro agency, 2-4 people, sites at 400-1,000 EUR, 20-40 projects a year",
+  "income": 104000,
+  "behaviour": "Already uses freelancers",
+  "behaviour_how": "Has 2-3 freelancers on Upwork or locally; has been let down by one before a deadline.",
+  "objection": "I would rather hire a junior than depend on an outsider",
+  "habit": "a client with a PNRR digitalisation grant asked you for a 'funding page' and you googled what that is"
+ },
+ {
+  "id": "P004",
+  "name": "Sana",
+  "age": 46,
+  "segment": "Micro agency, 2-4 people, sites at 400-1,000 EUR, 20-40 projects a year",
+  "income": 118000,
+  "behaviour": "Has in-house WordPress devs, no automation",
+  "behaviour_how": "Turns down or hand-waves requests for integrations; has never sold an automation.",
+  "objection": "My clients don't ask for automations; they ask for cheaper sites",
+  "habit": "your one developer is on holiday for two weeks"
+ },
+ {
+  "id": "P005",
+  "name": "Emma",
+  "age": 33,
+  "segment": "Small agency, 5-12 people, sites at 1,000-3,000 EUR, retainers, some custom work",
+  "income": 443000,
+  "behaviour": "Margin-driven owner",
+  "behaviour_how": "Asks 'what do I bill the client and what do you cost me' before anything else.",
+  "objection": "I need someone available on the phone during business hours, not evenings",
+  "habit": "a client with a PNRR digitalisation grant asked you for a 'funding page' and you googled what that is"
+ },
+ {
+  "id": "P006",
+  "name": "Ines",
+  "age": 47,
+  "segment": "Micro agency, 2-4 people, sites at 400-1,000 EUR, 20-40 projects a year",
+  "income": 90000,
+  "behaviour": "Burned by subcontractors",
+  "behaviour_how": "A subcontractor once went silent mid-project; now insists on seeing work before paying.",
+  "objection": "If he does it under my brand and it breaks, I take the blame",
+  "habit": "a client with a PNRR digitalisation grant asked you for a 'funding page' and you googled what that is"
+ },
+ {
+  "id": "P007",
+  "name": "Yara",
+  "age": 48,
+  "segment": "Micro agency, 2-4 people, sites at 400-1,000 EUR, 20-40 projects a year",
+  "income": 173000,
+  "behaviour": "Already uses freelancers",
+  "behaviour_how": "Has 2-3 freelancers on Upwork or locally; has been let down by one before a deadline.",
+  "objection": "If he does it under my brand and it breaks, I take the blame",
+  "habit": "your one developer is on holiday for two weeks"
+ },
+ {
+  "id": "P008",
+  "name": "Sam",
+  "age": 43,
+  "segment": "Agency with a dev team, 12+ people, builds its own integrations",
+  "income": 1445000,
+  "behaviour": "Has in-house WordPress devs, no automation",
+  "behaviour_how": "Turns down or hand-waves requests for integrations; has never sold an automation.",
+  "objection": "Grant-funded clients are a pain: paperwork, delays, they pay late",
+  "habit": "you just lost a client who wanted a booking system you couldn't deliver"
+ },
+ {
+  "id": "P009",
+  "name": "Yusuf",
+  "age": 31,
+  "segment": "Small agency, 5-12 people, sites at 1,000-3,000 EUR, retainers, some custom work",
+  "income": 226000,
+  "behaviour": "Has in-house WordPress devs, no automation",
+  "behaviour_how": "Turns down or hand-waves requests for integrations; has never sold an automation.",
+  "objection": "I need someone available on the phone during business hours, not evenings",
+  "habit": "a client with a PNRR digitalisation grant asked you for a 'funding page' and you googled what that is"
+ },
+ {
+  "id": "P010",
+  "name": "Kofi",
+  "age": 50,
+  "segment": "Small agency, 5-12 people, sites at 1,000-3,000 EUR, retainers, some custom work",
+  "income": 344000,
+  "behaviour": "Curious about AI/automation offers",
+  "behaviour_how": "Wants to add 'automation' to the service list but has no one to deliver it.",
+  "objection": "Grant-funded clients are a pain: paperwork, delays, they pay late",
+  "habit": "a freelancer disappeared on you last spring, two days before launch"
+ }
+]

@@ -27,3 +27,15 @@
 **Calendar:** 10.000 EUR în luna 13 (interval 12–15), 440 h + 66 h rezervă.
 
 **Ce rămâne după:** 3 studii de caz, kitul licențiabil, ~250–400 EUR/lună recurent, o decizie scrisă în luna 12.
+
+---
+
+## Amendament după a doua evaluare founder-skill (board 4,7/10 FUND IF; panel 9/10 beneficiari, 8/10 agenții; verdict calculat „Profitable”)
+
+1. **Produs principal: B** — „site-ul de proiect care trece la decont”. A și C devin uși spre B și upsell-uri, nu linii egale. **Regula „nicio sursă peste 40%” se elimină.**
+2. **Vânzarea reală se face la consultanți și GAL-uri**, nu la beneficiari: 7 din 9 cumpărători-beneficiari au condiționat semnarea de confirmarea consultantului că factura și procesul-verbal trec la decont. Prima acțiune: consultantul tău validează modelele de documente; GAL-ul dă numărul de beneficiari contractați.
+3. **Un site complet, cu dosarul de livrare, înainte de pagina de prețuri** (poate fi al unui coleg de apel, la preț de pilot).
+4. **Meniul pentru agenții devine scurt și ieftin**: pagina de vizibilitate 120, formular → CRM 150, link documente 300; dashboard-ul iese; task-ul gratuit plafonat la 6 h; orice acord white-label include dreptul la studiu de caz.
+5. **Kitul nu se licențiază agențiilor** până la 4 instalări plătite și un pilot măsurat; garanția se rescrie pe ce controlează kitul (reminderele pleacă, lista de lipsuri e corectă), nu pe comportamentul clienților finali.
+6. **Garanție pentru cumpărătorul de site**: documentele de livrare refăcute gratuit în 48 h dacă sunt respinse pe formă; 50% returnat dacă tot nu trec.
+7. Contractul de muncă verificat în săptămâna 1 (neschimbat). Răspuns scris la „copycat în luna 6”: nimic în afară de referințe și de a fi primul la GAL-uri; de aceea cele 3 studii de caz sunt prioritatea anului.

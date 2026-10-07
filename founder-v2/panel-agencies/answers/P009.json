@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "I have a PNRR client asking me for a funding page right now and I had to google what that even is, so a 120 EUR page from someone who has actually done the paperwork, with the first one free, solves a problem I have this week. I would not touch the integrations menu though, I don't sell that stuff and I'm not going to start because a subcontractor exists.",
+  "objection": "One guy with a day job, 10 hours a week, two tasks at a time, no phone, and two weeks a year he's gone for exams. If my client's grant reporting deadline lands in his exam week or his Oracle job gets busy, it's my name on the invoice and I'm the one explaining it.",
+  "would_change_my_mind": "A phone number I can actually call during business hours when something is on fire, even if that costs extra, or a named backup person who covers the unavailable weeks.",
+  "price_too_cheap": 40,
+  "price_cheap": 100,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

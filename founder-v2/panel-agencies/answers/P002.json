@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "I pay 150-600 and bill 300-1,500 under my own name, and the first small task costs me nothing, so the math works and I have grant-funded clients asking for exactly this. I'd take the free task, and if it lands clean I'd put one paid task through, not more, until I see how he behaves when something goes wrong.",
+  "objection": "He's one person, 10-12 hours a week, with exam weeks and a day job, and the offer says nothing about what happens when the integration breaks three months after delivery. The client calls me, not him, and I'm the one explaining it under my brand.",
+  "would_change_my_mind": "A written maintenance clause: bugs in his work fixed free for 6-12 months, with a 24-48 hour response on breakages, plus a named backup person for his unavailable weeks. Then I'd route every funded-project integration to him.",
+  "price_too_cheap": 80,
+  "price_cheap": 200,
+  "price_expensive": 600,
+  "price_too_expensive": 1000
+}

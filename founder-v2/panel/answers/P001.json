@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "I have to spend this line anyway and what scares me is not the site, it is the file. He has filled in the same AFIR reports, he gives me the proces-verbal, dated screenshots and an invoice worded like my contract, and the funding page in the required format, so I am paying 800 for the paperwork being right more than for the pages. My cousin would do it for 300 but I am not sure his invoice and a handwritten 'reception' would pass the check, and I cannot afford a rejected expense.",
+  "objection": "One man, part-time, 10 to 12 hours a week, and I pay 400 EUR up front from grant money. If he gets sick or takes another client first, I have an advance invoice with no site and my reporting deadline does not move. I also do not know yet if 800 plus VAT fits the amount my consultant wrote on the 'site web' line.",
+  "would_change_my_mind": "If my consultant tells me the cousin's 300 EUR invoice and a simple reception report would pass AFIR just the same, I take the cousin and keep the difference for something else in the plan.",
+  "price_too_cheap": 250,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

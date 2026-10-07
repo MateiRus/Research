@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I run twelve people and 1.4 million a year; I am not going to hang a client deliverable on one guy doing 10 hours a week on the side who disappears for exams twice a year and takes two tasks at a time. If my own devs can't do it, I need a partner with capacity, not a hobbyist with a menu.",
+  "objection": "He's a one-man side project. The day my client's grant deadline lands in his 'unavailable week' or he already has his two tasks, I'm the one holding the bag, and I can't even call him during business hours.",
+  "would_change_my_mind": "A booking system on the menu and proof he has delivered for two or three agencies my size without missing a deadline; I'd take the free 10-hour task to check, but I'd only pay after that.",
+  "price_too_cheap": 80,
+  "price_cheap": 200,
+  "price_expensive": 700,
+  "price_too_expensive": 1500
+}

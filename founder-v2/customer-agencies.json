@@ -1,0 +1,35 @@
+{
+  "business": "ILLUSTRUS v4 — integrări și pagini pentru clienții finanțați ai agențiilor (sursa A)",
+  "target": "the owner or project lead of a small web/digital agency in Oradea or Bucharest, Romania (2-12 people), that builds WordPress sites and does SEO/social for SMEs, some of whom have grant-funded projects; the income figure above is your AGENCY's annual revenue in EUR",
+  "where": "Oradea (Bihor) and Bucharest, Romania",
+  "age": [28, 50],
+  "segments": [
+    {"name": "Micro agency, 2-4 people, sites at 400-1,000 EUR, 20-40 projects a year", "share": 0.5, "income": [60000, 180000]},
+    {"name": "Small agency, 5-12 people, sites at 1,000-3,000 EUR, retainers, some custom work", "share": 0.4, "income": [180000, 600000]},
+    {"name": "Agency with a dev team, 12+ people, builds its own integrations", "share": 0.1, "income": [600000, 2000000]}
+  ],
+  "behaviours": [
+    {"name": "Has in-house WordPress devs, no automation", "share": 0.3, "how": "Turns down or hand-waves requests for integrations; has never sold an automation."},
+    {"name": "Already uses freelancers", "share": 0.25, "how": "Has 2-3 freelancers on Upwork or locally; has been let down by one before a deadline."},
+    {"name": "Margin-driven owner", "share": 0.2, "how": "Asks 'what do I bill the client and what do you cost me' before anything else."},
+    {"name": "Burned by subcontractors", "share": 0.15, "how": "A subcontractor once went silent mid-project; now insists on seeing work before paying."},
+    {"name": "Curious about AI/automation offers", "share": 0.1, "how": "Wants to add 'automation' to the service list but has no one to deliver it."}
+  ],
+  "objections": [
+    "A student with a day job: what happens to my client's deadline during his exams?",
+    "I can get an n8n freelancer on Upwork for 20-25 EUR/h; why you?",
+    "My clients don't ask for automations; they ask for cheaper sites",
+    "If he does it under my brand and it breaks, I take the blame",
+    "I need someone available on the phone during business hours, not evenings",
+    "Fixed prices per task sound fine until the task scope creeps",
+    "Grant-funded clients are a pain: paperwork, delays, they pay late",
+    "I would rather hire a junior than depend on an outsider"
+  ],
+  "habits": [
+    "you just lost a client who wanted a booking system you couldn't deliver",
+    "a client with a PNRR digitalisation grant asked you for a 'funding page' and you googled what that is",
+    "you are quoting three sites this week at 600-900 EUR each",
+    "your one developer is on holiday for two weeks",
+    "a freelancer disappeared on you last spring, two days before launch"
+  ]
+}

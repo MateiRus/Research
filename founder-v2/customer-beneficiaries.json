@@ -1,0 +1,35 @@
+{
+  "business": "ILLUSTRUS v4 — site de proiect pentru beneficiari de granturi (sursa B)",
+  "target": "the owner of a newly funded small business in Bihor county, Romania: a LEADER/DR36 rural start-up already contracted, or a Start-Up Nation 2026 / SME digitalisation beneficiary who must buy a presentation website as an eligible expense and document it for reimbursement; the income figure above is your GRANT amount in EUR",
+  "where": "Bihor county (rural communes around Oradea) and Oradea, Romania",
+  "age": [24, 55],
+  "segments": [
+    {"name": "LEADER/DR36 rural start-up, already contracted, must spend and report now", "share": 0.45, "income": [30000, 70000]},
+    {"name": "Start-Up Nation 2026 beneficiary, contract signed, first tranche coming", "share": 0.35, "income": [40000, 50000]},
+    {"name": "SME digitalisation grant (PR Nord-Vest / PNRR) beneficiary", "share": 0.2, "income": [20000, 100000]}
+  ],
+  "behaviours": [
+    {"name": "Cheapest compliant option", "share": 0.3, "how": "Wants the invoice and the site to pass the reimbursement check; price matters less than hassle."},
+    {"name": "Cousin does websites", "share": 0.2, "how": "Has a relative or friend who 'can make a site for 300 EUR'."},
+    {"name": "Overwhelmed by paperwork", "share": 0.25, "how": "Runs the actual business (guesthouse, workshop, service); the grant reports eat evenings."},
+    {"name": "Wants a real website for customers", "share": 0.15, "how": "Cares about Google and bookings, not just the grant."},
+    {"name": "Follows the consultant's advice", "share": 0.1, "how": "Buys whatever the grant consultant recommends."}
+  ],
+  "objections": [
+    "800 EUR? Agencies in Oradea do sites for 389 EUR and my cousin for 300",
+    "Will the invoice and documents pass the reimbursement check or will AFIR/the ministry reject it?",
+    "I don't have texts or photos and no time to write them",
+    "I only need the site because the grant says so; nobody will visit it",
+    "Who do I call in a year when it breaks or the hosting expires?",
+    "I'd rather wait until the money actually arrives",
+    "Can he also do the funding page / logos / the report screenshots the consultant asked for?",
+    "Is it a template that looks like everyone else's?"
+  ],
+  "habits": [
+    "your consultant sent you a list of eligible expenses with 'site web' on it",
+    "the GAL info day is next week and you have a list of questions",
+    "you are opening a guesthouse / car service / workshop and the equipment arrives next month",
+    "your first progress report is due in 6 weeks",
+    "a friend's grant expense was rejected because the invoice description was wrong"
+  ]
+}

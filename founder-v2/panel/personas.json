@@ -1,0 +1,112 @@
+[
+ {
+  "id": "P001",
+  "name": "Keisha",
+  "age": 42,
+  "segment": "LEADER/DR36 rural start-up, already contracted, must spend and report now",
+  "income": 45000,
+  "behaviour": "Cousin does websites",
+  "behaviour_how": "Has a relative or friend who 'can make a site for 300 EUR'.",
+  "objection": "Will the invoice and documents pass the reimbursement check or will AFIR/the ministry reject it?",
+  "habit": "your consultant sent you a list of eligible expenses with 'site web' on it"
+ },
+ {
+  "id": "P002",
+  "name": "Elena",
+  "age": 37,
+  "segment": "Start-Up Nation 2026 beneficiary, contract signed, first tranche coming",
+  "income": 46000,
+  "behaviour": "Overwhelmed by paperwork",
+  "behaviour_how": "Runs the actual business (guesthouse, workshop, service); the grant reports eat evenings.",
+  "objection": "I only need the site because the grant says so; nobody will visit it",
+  "habit": "your consultant sent you a list of eligible expenses with 'site web' on it"
+ },
+ {
+  "id": "P003",
+  "name": "Emil",
+  "age": 47,
+  "segment": "LEADER/DR36 rural start-up, already contracted, must spend and report now",
+  "income": 45000,
+  "behaviour": "Overwhelmed by paperwork",
+  "behaviour_how": "Runs the actual business (guesthouse, workshop, service); the grant reports eat evenings.",
+  "objection": "Is it a template that looks like everyone else's?",
+  "habit": "the GAL info day is next week and you have a list of questions"
+ },
+ {
+  "id": "P004",
+  "name": "Sana",
+  "age": 54,
+  "segment": "LEADER/DR36 rural start-up, already contracted, must spend and report now",
+  "income": 63000,
+  "behaviour": "Cheapest compliant option",
+  "behaviour_how": "Wants the invoice and the site to pass the reimbursement check; price matters less than hassle.",
+  "objection": "I don't have texts or photos and no time to write them",
+  "habit": "your first progress report is due in 6 weeks"
+ },
+ {
+  "id": "P005",
+  "name": "Emma",
+  "age": 35,
+  "segment": "Start-Up Nation 2026 beneficiary, contract signed, first tranche coming",
+  "income": 46000,
+  "behaviour": "Overwhelmed by paperwork",
+  "behaviour_how": "Runs the actual business (guesthouse, workshop, service); the grant reports eat evenings.",
+  "objection": "Who do I call in a year when it breaks or the hosting expires?",
+  "habit": "the GAL info day is next week and you have a list of questions"
+ },
+ {
+  "id": "P006",
+  "name": "Ines",
+  "age": 39,
+  "segment": "LEADER/DR36 rural start-up, already contracted, must spend and report now",
+  "income": 59000,
+  "behaviour": "Wants a real website for customers",
+  "behaviour_how": "Cares about Google and bookings, not just the grant.",
+  "objection": "I don't have texts or photos and no time to write them",
+  "habit": "a friend's grant expense was rejected because the invoice description was wrong"
+ },
+ {
+  "id": "P007",
+  "name": "Yara",
+  "age": 36,
+  "segment": "LEADER/DR36 rural start-up, already contracted, must spend and report now",
+  "income": 57000,
+  "behaviour": "Cousin does websites",
+  "behaviour_how": "Has a relative or friend who 'can make a site for 300 EUR'.",
+  "objection": "Can he also do the funding page / logos / the report screenshots the consultant asked for?",
+  "habit": "your first progress report is due in 6 weeks"
+ },
+ {
+  "id": "P008",
+  "name": "Sam",
+  "age": 29,
+  "segment": "SME digitalisation grant (PR Nord-Vest / PNRR) beneficiary",
+  "income": 54000,
+  "behaviour": "Cheapest compliant option",
+  "behaviour_how": "Wants the invoice and the site to pass the reimbursement check; price matters less than hassle.",
+  "objection": "Will the invoice and documents pass the reimbursement check or will AFIR/the ministry reject it?",
+  "habit": "your consultant sent you a list of eligible expenses with 'site web' on it"
+ },
+ {
+  "id": "P009",
+  "name": "Yusuf",
+  "age": 26,
+  "segment": "SME digitalisation grant (PR Nord-Vest / PNRR) beneficiary",
+  "income": 61000,
+  "behaviour": "Cheapest compliant option",
+  "behaviour_how": "Wants the invoice and the site to pass the reimbursement check; price matters less than hassle.",
+  "objection": "Who do I call in a year when it breaks or the hosting expires?",
+  "habit": "the GAL info day is next week and you have a list of questions"
+ },
+ {
+  "id": "P010",
+  "name": "Kofi",
+  "age": 49,
+  "segment": "Start-Up Nation 2026 beneficiary, contract signed, first tranche coming",
+  "income": 43000,
+  "behaviour": "Follows the consultant's advice",
+  "behaviour_how": "Buys whatever the grant consultant recommends.",
+  "objection": "Is it a template that looks like everyone else's?",
+  "habit": "you are opening a guesthouse / car service / workshop and the equipment arrives next month"
+ }
+]

@@ -1,0 +1,27 @@
+{
+  "business": "ILLUSTRUS v4 — livrare medie (task agenție / site beneficiar / kit), EUR fără TVA",
+  "unit": "delivery",
+  "price": 526,
+  "variable": [
+    {"label": "Hosting 12 months on sites, averaged over all deliveries", "cost": 16},
+    {"label": "Domain/theme/licences on sites, averaged", "cost": 12},
+    {"label": "WhatsApp/API running costs on kits and tasks, averaged", "cost": 6},
+    {"label": "Travel share per delivery (kickoffs in Bihor)", "cost": 25},
+    {"label": "Free proof task + referrer commission (10% on B via consultant), averaged", "cost": 45}
+  ],
+  "fixed_monthly": [
+    {"label": "VPS + n8n + tools", "cost": 15},
+    {"label": "Extra bookkeeping volume", "cost": 30},
+    {"label": "Phone, software, misc", "cost": 20},
+    {"label": "Prospecting travel not tied to a client", "cost": 40}
+  ],
+  "startup": [
+    {"label": "Own domain, price page, theme", "cost": 100},
+    {"label": "Event tickets and GAL info days", "cost": 150},
+    {"label": "Printed materials", "cost": 50}
+  ],
+  "days_per_month": 30,
+  "capacity_per_day": 0.0667,
+  "plan_per_day": 0.0422,
+  "ramp_per_day": [0, 0.0333, 0.0333, 0.0667, 0.0333, 0.0333, 0.0667, 0.0667, 0.0333, 0.0333, 0.0667, 0.0333]
+}

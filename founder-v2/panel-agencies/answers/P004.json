@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My clients come to me for a 600 EUR site and then ask if I can do it for 450; nobody has ever asked me for a CRM integration or a WhatsApp document link. I have no one to resell this to, so even a nice menu with fair prices is a solution to a problem I do not have.",
+  "objection": "If I put a 150 EUR integration on top of a 500 EUR site, the client simply says no, and I have spent an afternoon writing scope and chasing an outside person for nothing. And right now, with my developer on holiday, what I actually need is someone to finish two WordPress sites, which you say you are not.",
+  "would_change_my_mind": "A client with a grant-funded project asking me, in writing, for the visibility page or a reporting dashboard that they are obliged to have and will pay for; then the free first task would make it a no-risk try.",
+  "price_too_cheap": 50,
+  "price_cheap": 100,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

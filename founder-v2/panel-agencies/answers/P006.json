@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "I have a client asking me this week for a PNRR funding page and I had to google what that even is; he says he owns a grant-funded firm and does the first small job for free, so I lose nothing by handing him that one page and seeing what comes back. If it is correct and on time, the next grant client gets the 120 EUR page from him, billed at 400 to the client.",
+  "objection": "He is one person doing this 10 hours a week around a day job and university exams. I have had a subcontractor go silent mid-project before, and if a funding page or integration goes down six months later it is my name on the invoice and my client with the grant auditor, and I see nothing in the offer about who fixes it then.",
+  "would_change_my_mind": "A written guarantee of fixes for a set period after delivery (for example 6 or 12 months, at no cost), and a named backup person if he is unreachable.",
+  "price_too_cheap": 30,
+  "price_cheap": 80,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

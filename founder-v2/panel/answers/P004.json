@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "I have to spend this line and show it in my report in six weeks, and I have no texts and no photos. Someone who writes the texts from a phone call, takes the website off my plate in 10 days and hands me the acceptance report and a matching invoice is exactly the hassle I want gone.",
+  "objection": "It is one man working 10-12 hours a week, one site at a time. If he already has someone in the queue or his day job gets busy, my 10 days become 30 and I am the one explaining a missing deliverable to the agency.",
+  "would_change_my_mind": "If my consultant looks at the 800 EUR plus VAT and the invoice wording and says it does not fit my budget line, or if he cannot confirm a start date this week, I go to whoever the consultant usually uses.",
+  "price_too_cheap": 250,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

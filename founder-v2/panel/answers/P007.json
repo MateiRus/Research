@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "My first progress report is due in six weeks and the website line has to be spent and proven by then; 10 days, the funding page in the programme format, dated screenshots and an invoice worded like my contract is exactly the pile of paper my consultant keeps asking me for. My cousin would do it for 300 but he cannot give me an acceptance report or an invoice from a firm that passes the file check.",
+  "objection": "He is one man with a day job, 10-12 hours a week, and I pay 400 EUR before I see anything. If he gets sick or takes another client, my report deadline does not move, and the 5-working-day silent acceptance rule means I could end up with something I did not really look at.",
+  "would_change_my_mind": "If my consultant told me a 300 EUR invoice from my cousin's PFA with a simple handover note would pass the reimbursement check just the same, I would keep the 500 EUR difference.",
+  "price_too_cheap": 300,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

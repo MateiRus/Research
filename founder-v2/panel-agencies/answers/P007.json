@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "My developer is away for two weeks and I have a grant client who needs the form wired into their CRM now, so a free first task under NDA costs me nothing to try. If that lands on time I would pay for one more small one, not more, because at 400-1,000 EUR per site I cannot bury 600 EUR of subcontracting in a project.",
+  "objection": "He has a day job and takes two tasks at a time; if his Oracle work spikes or he is simply full, I am the one standing in front of the client with a broken integration under my name, and I have already been burned by a freelancer a week before a deadline.",
+  "would_change_my_mind": "A written penalty or refund if the deadline slips, and a named backup person who picks up the task when he is unavailable, so the risk is his and not mine.",
+  "price_too_cheap": 40,
+  "price_cheap": 100,
+  "price_expensive": 300,
+  "price_too_expensive": 500
+}

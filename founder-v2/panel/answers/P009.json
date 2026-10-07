@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "I have to buy a presentation site anyway and the part I dread is the paperwork, not the price; someone who already filed the same reports and hands me the acceptance report, dated screenshots and an invoice worded to match the contract takes most of the hassle off my desk. 800 EUR against a 61,000 EUR grant is not where I lose sleep.",
+  "objection": "You are one person doing this 10-12 hours a week around a day job. When the hosting lapses in month 13 or the contact form stops working, do you still pick up the phone, and does 30 EUR a month actually cover that or do I end up hunting for someone else?",
+  "would_change_my_mind": "If at the info day they tell me the digitalisation programme requires things this template does not have (specific accessibility, GDPR or functionality criteria) and you cannot show me it passes, I would go elsewhere.",
+  "price_too_cheap": 250,
+  "price_cheap": 500,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

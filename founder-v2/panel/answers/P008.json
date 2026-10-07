@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "I have 'site web' on my eligible list and I have to buy one anyway; this is the first offer that talks about the acceptance report, dated screenshots and an invoice wording that matches the contract instead of talking about design. 800 EUR out of a 54,000 grant is nothing, what I am paying for is not having to chase someone for paperwork.",
+  "objection": "He is one person with a day job and 10-12 hours a week; if the ministry comes back with a clarification request on the file in month 8 and he is busy or gone, the 'proof of delivery' is my problem, not his. And I do not know that his invoice wording actually passed a PNRR digitalisation check, only that it passed a LEADER one.",
+  "would_change_my_mind": "If my consultant looked at a sample of his acceptance report and invoice and said it does not match what the PNRR digitalisation guide asks for, I would go with whoever the consultant already knows.",
+  "price_too_cheap": 300,
+  "price_cheap": 600,
+  "price_expensive": 1500,
+  "price_too_expensive": 2500
+}

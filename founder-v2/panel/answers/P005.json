@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "I have to buy a website anyway to close that line in my project, and this is the first offer where someone else writes the texts and hands me the acceptance report and screenshots instead of asking me to chase them. 800 EUR out of the grant is fine; my evenings are not.",
+  "objection": "He is one person doing this 10 hours a week around a day job. If he gets sick or busy, or disappears in year two, I am the one holding a domain and a hosting expiry notice I do not understand, and the 5-day silent-acceptance rule worries me because I miss emails for a week when the guesthouse is full.",
+  "would_change_my_mind": "If my consultant says the invoice description or the acceptance report is not what the reimbursement file actually accepts, or that I need to submit comparative offers first, I would put it on hold and go with whoever my consultant already works with.",
+  "price_too_cheap": 300,
+  "price_cheap": 500,
+  "price_expensive": 1200,
+  "price_too_expensive": 2000
+}

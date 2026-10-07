@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "I have a PNRR client asking for a funding page right now and I had to google what that even is; 120 EUR for someone who knows the programme's required format, with the first small task free so I risk nothing, is cheaper than my own afternoon of guessing. One task, that is it, and I keep the junior idea on the table.",
+  "objection": "One person, 10-12 hours a week, two tasks at a time, two weeks off a year, and 24 hours to get a reply. I have already been left hanging by a freelancer before a deadline; if he goes dark with a grant deadline on my client's calendar, it is my agency's name that burns, not his.",
+  "would_change_my_mind": "If the free funding page comes back late or needs rework, I never pay him a cent; if it comes back clean and on time, I would send him the contact-form-to-CRM jobs too.",
+  "price_too_cheap": 40,
+  "price_cheap": 80,
+  "price_expensive": 200,
+  "price_too_expensive": 350
+}
