@@ -1,0 +1,13 @@
+{
+ "id": "P005",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Nu vreau să încarc pe o platformă externă lista a mii de angajați ai clienților mei, după ce am citit despre amenzile ANSPDCP. Pe deasupra, asistenta mea își face treaba în Excel, iar angajatorii nu plătesc în plus, că deja mă negociază la 80 de lei pe angajat.",
+ "objection": "Dacă are loc o scurgere de date sau o problemă GDPR cu datele angajaților clienților mei, răspund eu în fața lor și a autorității. Un contract de persoană împuternicită nu mă scutește de răspundere, iar beneficiul față de Excel nu justifică riscul.",
+ "would_change_my_mind": "Dacă l-aș vedea funcționând la un cabinet de medicina muncii pe care îl cunosc, cu un audit de securitate sau o certificare verificabilă, și dacă s-ar putea rula doar cu date minime (fără CNP), cu import din Excel și fără portal pentru clienți. Aș mai fi convins dacă angajatorii ar accepta să plătească ei portalul.",
+ "price_too_cheap": 15,
+ "price_cheap": 30,
+ "price_expensive": 80,
+ "price_too_expensive": 150
+}

@@ -1,0 +1,14 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Programul nostru trimite deja SMS de reminder și nu vreau să mai dau date de pacienți unui furnizor nou. Văd în presă amenzi GDPR și nu am consimțământ pentru SMS de la pacienții vechi, deci riscul îmi pare mai mare decât câștigul.",
+  "objection": "Nu am consimțământ pentru SMS de la pacienții vechi, iar o listă cu pacienți cronici scoasă din program, chiar și pseudonimizată, mă expune la GDPR. Nu știu ce se întâmplă dacă ceva scapă, iar un SRL mic din Oradea nu îmi dă încredere că răspunde în fața unei amenzi.",
+  "would_change_my_mic": "",
+  "would_change_my_mind": "Un aviz scris de la un jurist sau de la responsabilul meu GDPR că procesul e conform fără consimțământ nou, plus o clinică similară din zonă care îl folosește de un an și confirmă că nu a avut probleme.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 90,
+  "price_too_expensive": 150
+}

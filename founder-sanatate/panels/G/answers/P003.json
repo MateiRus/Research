@@ -1,0 +1,13 @@
+{
+ "id": "P003",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Prețul nu e problema, 129 € e mărunțiș pentru clinica mea. Dar ca să fac auditul ar trebui să dau unui SRL necunoscut exportul cu pacienți cu diabet și cardiologie din ultimele 6 luni, iar la o amendă GDPR răspund eu, nu ei. Nu fac asta pe baza unei reclame.",
+ "objection": "Cine e de vină dacă sistemul nu trimite un mesaj și pacientul pățește ceva? Și cine răspunde dacă un SMS e înțeles greșit sau datele pacienților ajung unde nu trebuie? Nu vreau să cred că sistemul acoperă toți pacienții și să mă bazez pe el în loc de asistentă.",
+ "would_change_my_mind": "Un contract de prelucrare a datelor (DPA) semnat, date găzduite în UE, un audit făcut pe date anonimizate sau pseudonimizate, o clauză clară că responsabilitatea medicală rămâne la clinică, plus referințe de la alte două clinici din Cluj sau Oradea cu contract CAS.",
+ "price_too_cheap": 30,
+ "price_cheap": 70,
+ "price_expensive": 200,
+ "price_too_expensive": 400
+}

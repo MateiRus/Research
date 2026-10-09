@@ -1,0 +1,13 @@
+{
+ "id": "P008",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Nu vreau un SMS automat către pacient legat de un rezultat în afara intervalului, pentru că dacă sperie pe cineva sau ajunge la persoana greșită, răspund eu. Asistentele sună oricum pacienții când au timp și nimeni nu măsoară cine a revenit, așa că nu simt o durere care să justifice un abonament și încă un sistem de urmărit.",
+ "objection": "Răspunderea. Un mesaj trimis pacientului despre un rezultat marcat, fără ca medicul să-l fi văzut sau explicat, mă expune. Mă mai îngrijorează și datele pacienților (GDPR, consimțământ) date unui SRL pe care nu-l cunosc, plus munca în plus pentru exportul zilnic din program.",
+ "would_change_my_mind": "Un aviz scris de la un jurist sau de la DPO că mesajele neutre sunt în regulă, plus mesaje aprobate de medicul clinicii înainte să plece. Aș mai vrea referințe de la 2-3 clinici cu contract CAS din Cluj sau Timișoara și un audit care să-mi arate pe datele mele, fără pacienți identificabili, câte controale scadente au rămas neprogramate.",
+ "price_too_cheap": 29,
+ "price_cheap": 69,
+ "price_expensive": 180,
+ "price_too_expensive": 350
+}

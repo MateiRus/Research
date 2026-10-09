@@ -1,0 +1,13 @@
+{
+ "id": "P017",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Prețul nu mă deranjează deloc, la volumul meu 129 € pe lună e mărunțiș. Dar nu bag datele a 10.000 de angajați într-un SRL mic din Oradea doar pentru că sună bine, și nu am timp să mă ocup de încă un sistem.",
+ "objection": "Un SRL mic: mai există peste doi ani? Ce fac cu datele și cu clienții mei dacă dispare sau dacă greșește ceva și un angajator vede ce nu trebuie? Răspunderea pentru datele medicale rămâne la mine.",
+ "would_change_my_mind": "Asistenta sau contabila să-mi spună că a testat și că e ușor, un pilot gratuit pe 2-3 firme-client mici, și în contract o clauză clară de preluare a datelor și de răspundere (sau un partener mai solid în spate).",
+ "price_too_cheap": 15,
+ "price_cheap": 60,
+ "price_expensive": 250,
+ "price_too_expensive": 600
+}

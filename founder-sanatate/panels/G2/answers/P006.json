@@ -1,0 +1,13 @@
+{
+ "id": "P006",
+ "buys": true,
+ "purchases_first_month": 1,
+ "reason_code": "need",
+ "reason": "Un control uitat înseamnă o consultație pierdută, iar la 69 € pe lună, cu garanția de 15 controale, riscul e mic. Fac întâi auditul gratuit și, dacă îmi arată pacienți reali neprogramați, plătesc.",
+ "objection": "Exportul din programul nostru e problema. Nimeni de la noi nu știe să-l facă, iar firma care ne-a vândut programul poate să nu permită accesul sau să ceceară bani. Mă mai îngrijorează și GDPR-ul, chiar dacă datele sunt pseudonimizate.",
+ "would_change_my_mind": "Dacă auditul arată sub câteva zeci de controale pierdute în 6 luni, sau dacă nu pot scoate datele din program fără acordul furnizorului și fără costuri suplimentare.",
+ "price_too_cheap": 15,
+ "price_cheap": 40,
+ "price_expensive": 120,
+ "price_too_expensive": 250
+}

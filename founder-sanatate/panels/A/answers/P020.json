@@ -1,0 +1,13 @@
+{
+ "id": "P020",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Folosesc deja programul meu de MM, care emite fișa de aptitudine și mi se pare că acoperă și scadențele. Nu am timp să mai țin încă un instrument alături, cu import din Excel și încă un portal de explicat clienților.",
+ "objection": "SMS-urile către angajați cer consimțământ și nu vreau probleme cu GDPR. Dacă un angajat se plânge sau un client îmi spune că a primit un mesaj greșit, răspund eu, nu SRL-ul din Oradea. Mai am și datele clienților mei într-un sistem în plus.",
+ "would_change_my_mind": "Dacă s-ar integra direct cu programul meu actual, fără import manual, și mi-ar da modelul de consimțământ gata făcut și verificat de un jurist, l-aș încerca în luna gratuită.",
+ "price_too_cheap": 15,
+ "price_cheap": 30,
+ "price_expensive": 70,
+ "price_too_expensive": 120
+}

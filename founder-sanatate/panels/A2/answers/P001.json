@@ -1,0 +1,13 @@
+{
+ "id": "P001",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "timing",
+ "reason": "Concurez pe preț și tai orice abonament care nu aduce bani imediat, iar clienții mei nu mi-au cerut un portal. Nu am timp să mă ocup de exporturi și curățat de date, chiar dacă vin ei să configureze.",
+ "objection": "Nu am timp să importăm și să curățăm datele, iar eu rămân cu încă 35 € pe lună fără să știu dacă vreun client plătește ceva în plus pentru asta.",
+ "would_change_my_mind": "Dacă doi-trei dintre clienții mei mari ar cere în scris portalul și ar accepta să-l plătească ei direct, iar configurarea ar fi făcută complet de voi, fără ca eu sau asistenta să pierdem timp.",
+ "price_too_cheap": 8,
+ "price_cheap": 15,
+ "price_expensive": 35,
+ "price_too_expensive": 60
+}

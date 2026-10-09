@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Țin scadențele în Excel și pe hârtie, iar asistenta sună angajatorii când își amintește, deci pierd controlul pe peste 300 de firme. Prima lună e gratuită și fără contract, așa că încerc cu câțiva clienți. Dacă merge, banii sunt mici pe lângă cifra mea de afaceri.",
+  "objection": "Angajatorul nu are voie să vadă nimic medical. Dacă portalul arată ceva ce nu trebuie sau scapă un nume cu un «apt condiționat», eu răspund în fața clientului și a ANSPDCP, nu un SRL din Oradea. Mai am și peste 10.000 de angajați, deci mă întreb ce preț ar fi peste pragul de 6.000 și cât îmi ia importul din programul meu.",
+  "would_change_my_mind": "Să-mi arate clar ce vede exact HR-ul clientului în portal (doar termen și apt/inapt, fără recomandări medicale), să am un contract de împuternicit și o clauză de răspundere scrisă, plus un preț fix pentru peste 10.000 de angajați.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 250,
+  "price_too_expensive": 500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Laboratorul nu stabilește controale, le stabilește medicul, iar pacienții mă sună oricum pe telefon când au nevoie. Nu am timp să pun asistenta să sune după oameni care nu au revenit.",
+  "objection": "Pacientul e responsabil să revină, nu e treaba noastră să-l alergăm. Plus, 69 € pe fiecare punct de recoltare se adună, iar asistentele nu ar suna lista, așa că nu aș vedea niciun efect.",
+  "would_change_my_mind": "Dacă aș vedea în audit, pe datele mele, o sută de pacienți pierduți care ar aduce analize plătite de CAS, și dacă lista ar fi trimisă automat, fără ca asistenta să facă ceva.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 80,
+  "price_too_expensive": 150
+}

@@ -1,0 +1,13 @@
+{
+ "id": "P004",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "Clienții mei sunt IMM-uri care mă negociază deja la 80 de lei pe angajat și nu plătesc în plus pentru un portal. Asistenta ține scadențele în Excel și merge, așa că nu văd de ce aș adăuga o platformă, un contract de împuternicit și SMS-uri în plus.",
+ "objection": "Nu mă plătește nimeni pentru el. Dacă îl bag în ofertă, mă taie angajatorii la preț, iar dacă îl factureze separat, nu îl vor. Mai am și bătaia de cap cu GDPR și cu o firmă pe care n-o cunosc, care ar vedea lista clienților mei.",
+ "would_change_my_mind": "Dacă doi-trei dintre clienții mari ar cere ei înșiși portalul și ar accepta să-l plătească direct, iar asistenta mi-ar spune că durează o oră și nu îi adaugă muncă.",
+ "price_too_cheap": 5,
+ "price_cheap": 12,
+ "price_expensive": 35,
+ "price_too_expensive": 60
+}

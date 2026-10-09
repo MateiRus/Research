@@ -1,0 +1,13 @@
+{
+ "id": "P013",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "Programul meu de medicina muncii îmi arată deja scadențele, iar clienții mari nu mi-au cerut un portal. Nu văd de ce aș adăuga încă un sistem și un export săptămânal de care să am grijă.",
+ "objection": "Nu am o problemă de scadențe pe care s-o rezolve portalul, iar o firmă mică din Oradea îmi va ține datele angajaților clienților mei. Dacă dispare sau greșește, răspund eu în fața angajatorilor și a GDPR.",
+ "would_change_my_mind": "Dacă doi-trei angajatori mari mi-ar cere scris accesul online la scadențe, sau dacă la renegocierea anuală aș putea cere un tarif mai mare pentru portal.",
+ "price_too_cheap": 10,
+ "price_cheap": 25,
+ "price_expensive": 70,
+ "price_too_expensive": 140
+}

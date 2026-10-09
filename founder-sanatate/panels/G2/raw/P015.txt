@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Programul pe care îl folosesc trimite deja SMS-uri, iar pacienții mă sună oricum direct. Nu risc o integrare nouă cu datele pacienților pentru o listă pe care, în mare parte, o pot scoate singur din program.",
+  "objection": "Mi-e teamă de GDPR și de un export automat din programul meu către un SRL extern. Dacă un SMS sau un apel e înțeles greșit sau un pacient se plânge, răspund eu, nu ei. În plus, sunt cabinet de familie, nu clinică de cronici, și nu sunt sigur că 69 € pe lună își merită bătaia de cap.",
+  "would_change_my_mind": "Dacă auditul gratuit pe export pseudonimizat mi-ar arăta clar zeci de controale pierdute pe care programul meu nu le prinde, iar compania ar avea avizul scris al unui consultant GDPR și ar funcționa fără SMS, doar cu lista pentru asistentă.",
+  "price_too_cheap": 15,
+  "price_cheap": 29,
+  "price_expensive": 69,
+  "price_too_expensive": 120
+}

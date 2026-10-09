@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Programul nostru trimite deja SMS-uri de reminder și sunt mulțumită de el. Laboratorul nu are control scadent de programat, iar rezultatele în afara intervalului merg la medicul trimițător, nu la noi.",
+  "objection": "Mă tem de GDPR: export zilnic cu date de pacienți către un SRL din afară, plus mesaje către pacienți despre rezultate, chiar dacă sunt neutre. Am văzut amenzi în presă și nu îmi asum riscul pentru ceva de care nu am nevoie.",
+  "would_change_my_mind": "Dacă s-ar integra direct în programul meu, fără export manual, cu acord de prelucrare a datelor (DPA) clar, date găzduite în UE și dovada că prinde bucle reale la laboratorul meu în auditul gratuit.",
+  "price_too_cheap": 25,
+  "price_cheap": 49,
+  "price_expensive": 99,
+  "price_too_expensive": 150
+}

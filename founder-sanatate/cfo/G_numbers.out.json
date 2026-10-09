@@ -1,0 +1,145 @@
+{
+ "business": "G \u00b7 Controale pierdute (clinici independente de boli cronice) \u2014 anul 1",
+ "unit": "client-lun\u0103",
+ "price": 89.0,
+ "variable_per_unit": 4.5,
+ "contribution": 84.5,
+ "contribution_pct": 0.949438202247191,
+ "fixed_monthly": 230.0,
+ "startup": 3900.0,
+ "plan_per_day": 12.0,
+ "margin_at_plan": 0.7340823970037452,
+ "breakeven_per_day": 2.7218934911242605,
+ "capacity_per_day": 13,
+ "year1_revenue": 1780.0,
+ "year1_profit": -1070.0,
+ "year1_after_startup": -4970.0,
+ "payback_month": null,
+ "cash_needed": 5233.0,
+ "months": [
+  {
+   "month": 1,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -4130.0
+  },
+  {
+   "month": 2,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -4360.0
+  },
+  {
+   "month": 3,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -4590.0
+  },
+  {
+   "month": 4,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -4820.0
+  },
+  {
+   "month": 5,
+   "per_day": 1.0,
+   "units": 1.0,
+   "revenue": 89.0,
+   "variable": 4.5,
+   "fixed": 230.0,
+   "profit": -145.5,
+   "cumulative": -4965.5
+  },
+  {
+   "month": 6,
+   "per_day": 1.0,
+   "units": 1.0,
+   "revenue": 89.0,
+   "variable": 4.5,
+   "fixed": 230.0,
+   "profit": -145.5,
+   "cumulative": -5111.0
+  },
+  {
+   "month": 7,
+   "per_day": 2.0,
+   "units": 2.0,
+   "revenue": 178.0,
+   "variable": 9.0,
+   "fixed": 230.0,
+   "profit": -61.0,
+   "cumulative": -5172.0
+  },
+  {
+   "month": 8,
+   "per_day": 2.0,
+   "units": 2.0,
+   "revenue": 178.0,
+   "variable": 9.0,
+   "fixed": 230.0,
+   "profit": -61.0,
+   "cumulative": -5233.0
+  },
+  {
+   "month": 9,
+   "per_day": 3.0,
+   "units": 3.0,
+   "revenue": 267.0,
+   "variable": 13.5,
+   "fixed": 230.0,
+   "profit": 23.5,
+   "cumulative": -5209.5
+  },
+  {
+   "month": 10,
+   "per_day": 3.0,
+   "units": 3.0,
+   "revenue": 267.0,
+   "variable": 13.5,
+   "fixed": 230.0,
+   "profit": 23.5,
+   "cumulative": -5186.0
+  },
+  {
+   "month": 11,
+   "per_day": 4.0,
+   "units": 4.0,
+   "revenue": 356.0,
+   "variable": 18.0,
+   "fixed": 230.0,
+   "profit": 108.0,
+   "cumulative": -5078.0
+  },
+  {
+   "month": 12,
+   "per_day": 4.0,
+   "units": 4.0,
+   "revenue": 356.0,
+   "variable": 18.0,
+   "fixed": 230.0,
+   "profit": 108.0,
+   "cumulative": -4970.0
+  }
+ ],
+ "flags": [
+  "Year 1 loses money on operations (-$1,070).",
+  "The startup spend is not earned back within year 1."
+ ]
+}

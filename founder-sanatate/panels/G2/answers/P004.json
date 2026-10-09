@@ -1,0 +1,13 @@
+{
+ "id": "P004",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Programul nostru de gestiune trimite deja SMS-uri și avem deja destule de făcut cu raportările CNAS și e-Sănătatea. Nu vreau încă un furnizor, încă un export și încă o listă pe care să o verifice cineva.",
+ "objection": "Nu văd ce aduce în plus față de ce are deja programul, iar orice proiect nou înseamnă timp pierdut cu IT-ul și cu personalul. Mă îngrijorează și GDPR: oricât ar fi pseudonimizat, nu vreau să dau date de pacienți unui SRL pe care nu îl cunosc.",
+ "would_change_my_mind": "Dacă furnizorul programului meu ar integra lista direct, fără export separat și fără alt contract, sau dacă un coleg de la o clinică similară mi-ar arăta că a recuperat pacienți fără bătaie de cap.",
+ "price_too_cheap": 15,
+ "price_cheap": 35,
+ "price_expensive": 90,
+ "price_too_expensive": 200
+}

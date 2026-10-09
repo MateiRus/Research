@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Am deja platforma de HR/salarizare și vreau să țin totul acolo, nu încă un abonament și încă o parolă. Scadențele fișelor le urmăresc acum într-un Excel și prin furnizorul de medicina muncii, iar 39 €/lună plus SMS-uri pentru ceva ce fac în 10 minute pe lună nu mă convinge.",
+  "objection": "Încă un instrument separat de platforma mea de HR, cu încă un cont de administrat și date de încărcat manual în Excel. Nu văd ce face în plus față de ce am deja și nu știu dacă furnizorul meu de medicina muncii nu oferă gratuit alertele astea.",
+  "would_change_my_mind": "Dacă s-ar integra direct cu platforma mea de HR/salarizare, fără reîncărcare de Excel și fără conturi noi, sau dacă ar fi inclus gratuit în platforma pe care o plătesc deja.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 40,
+  "price_too_expensive": 80
+}

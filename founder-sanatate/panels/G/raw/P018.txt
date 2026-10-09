@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Programul nostru trimite deja SMS-uri, iar lista cu controale scadente și rezultate fără programare o scot și singură dacă e nevoie. Nu dau exporturi cu date de pacienți unui SRL nou, după ce un furnizor a dispărut și m-a lăsat fără date.",
+  "objection": "Date de pacienți la o firmă mică, necunoscută, într-o cutie neagră. Dacă dispare sau are o problemă cu GDPR, răspund eu, nu ei. În plus, 129 € pe lună e mult pentru ce mi-ar face în plus față de programul actual.",
+  "would_change_my_mind": "Dacă furnizorul de program mi-ar integra funcția direct, fără export de date în afara lui, sau dacă ar exista un contract clar cu garanții GDPR și returnarea datelor, plus un preț sub 50 €/lună și referințe de la alte cabinete din Oradea.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 70,
+  "price_too_expensive": 120
+}

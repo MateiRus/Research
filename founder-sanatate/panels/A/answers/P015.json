@@ -1,0 +1,13 @@
+{
+ "id": "P015",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "Angajatorii nu plătesc în plus pentru așa ceva, iar eu concurez deja pe 80 de lei pe angajat. Tai abonamentele care nu aduc bani imediat, iar remindere pot face și cu Excel-ul și programul pe care le am.",
+ "objection": "Nu văd bani noi din asta. Costul de 59-99 € pe lună îl iau din marjă, iar clientul nu-mi dă un leu în plus pentru portal sau remindere.",
+ "would_change_my_mind": "Dacă mi-ar demonstra cu cifre, pe cabinete ca al meu, că remindere automate aduc mai multe examene reprogramate și facturate la timp, sau dacă angajatorii ar accepta să plătească portalul separat.",
+ "price_too_cheap": 15,
+ "price_cheap": 30,
+ "price_expensive": 70,
+ "price_too_expensive": 120
+}

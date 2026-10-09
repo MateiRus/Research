@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Ideea de a recupera controalele neprogramate îmi place, dar exportul zilnic din programul nostru e o problemă și nimeni de la noi nu știe să-l facă. Nu plătesc pentru ceva care îmi mai adaugă o sarcină asistentelor.",
+  "objection": "Nu știu dacă programul nostru poate scoate un CSV curat în fiecare zi, fără să depind de furnizor. Mă îngrijorează și datele pacienților și consimțământul GDPR trimise unui SRL pe care nu-l cunosc.",
+  "would_change_my_mind": "Să-mi arate pe datele noastre, fără ca eu să fac nimic, un număr concret de pacienți pierduți, și să se conecteze singuri la programul nostru, cu un contract clar de prelucrare a datelor.",
+  "price_too_cheap": 29,
+  "price_cheap": 69,
+  "price_expensive": 200,
+  "price_too_expensive": 400
+}

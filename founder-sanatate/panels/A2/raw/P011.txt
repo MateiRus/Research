@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Nu am timp să mă ocup de export, curățat date și de un furnizor nou, iar cu Excelul și cu asistenta care sună angajatorii merge cât de cât acum. Aș vrea să văd întâi portalul la un alt cabinet.",
+  "objection": "Datele angajaților mei ajung la un SRL din Oradea pe care nu-l cunosc, iar dacă greșește ceva la GDPR răspund eu față de clienți. Și nu știu dacă angajatorii chiar ar intra în portal, ca să merite efortul meu.",
+  "would_change_my_mind": "Să văd portalul funcționând la un cabinet de medicina muncii pe care îl cunosc, cu referințe reale, și să mi se arate că fac configurarea fără să-mi ocupe timpul mie sau asistentei.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 120
+}

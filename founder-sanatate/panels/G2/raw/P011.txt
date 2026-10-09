@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Prețul nu e problema, 69 € e mărunțiș pentru noi. Dar nu las un SRL necunoscut să intre în programul clinicii și să tragă date de pacienți, iar asistentele sună deja când au timp. Nu cred că o listă în plus schimbă obiceiul.",
+  "objection": "Exportul din programul nostru e o problemă și nu am încredere că un SRL mic îl face la sediu fără să strice ceva sau să ne bage în probleme cu datele pacienților. Chiar dacă îl face, nu știu dacă asistentele vor suna mai mult din lista asta, pentru că nimeni nu măsoară cine a revenit.",
+  "would_change_my_mind": "Auditul gratuit pe export pseudonimizat să arate un număr mare de controale pierdute, iar furnizorul să-mi confirme în scris că știe programul nostru și că exportul nu atinge baza de date. Aș vrea și o clinică din Oradea sau Cluj care să-l folosească deja și să-mi spună că merge.",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 120,
+  "price_too_expensive": 250
+}

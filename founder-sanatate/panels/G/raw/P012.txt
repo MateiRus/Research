@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Sunt laborator, nu clinică: eu nu programez controale și nu dau consultații, așa că două din trei liste nu mi se potrivesc. Și mai am un proiect în plus lângă raportarea CNAS, pe care nu am timp să-l duc.",
+  "objection": "Exportul din programul nostru e o problemă și nimeni nu știe să-l facă zilnic. Dacă trebuie să stau eu să scot CSV-uri în fiecare zi, e încă o muncă pe capul meu, nu o ușurare.",
+  "would_change_my_mind": "Să se conecteze ei singuri la programul nostru, fără ca eu sau asistentele să facem vreun export, și să fie utilă pentru un laborator, nu doar pentru clinici cu consultații.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 120,
+  "price_too_expensive": 250
+}

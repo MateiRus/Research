@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Programul meu actual emite fișa și, din ce știu, îmi ține și scadențele, deci nu simt o problemă de rezolvat. Nu leg 300 de firme-client de un portal făcut de un SRL mic din Oradea.",
+  "objection": "Mai există firma asta peste doi ani? Dacă dispare, rămân eu cu clienții în fața unui portal mort, iar datele angajaților lor sunt la ea. Mai am și o persoană împuternicită în plus de răspuns la ANSPDCP.",
+  "would_change_my_mind": "Dacă 2-3 cabinete mari, cunoscute, îl folosesc de ani de zile, dacă are integrare directă cu programul meu MM (nu export săptămânal) și dacă am în contract o clauză de predare a codului și a datelor în caz de închidere.",
+  "price_too_cheap": 15,
+  "price_cheap": 60,
+  "price_expensive": 200,
+  "price_too_expensive": 450
+}

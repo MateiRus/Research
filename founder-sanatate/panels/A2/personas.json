@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Mason",
+  "age": 59,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 95000,
+  "behaviour": "Foarte atent la costuri",
+  "behaviour_how": "Concurează pe preț (80-110 lei pe angajat pe an) și taie orice abonament care nu aduce bani imediat.",
+  "objection": "Nu am timp să importăm și să curățăm datele.",
+  "habit": "vorbești des cu responsabilii SSM și HR ai clienților"
+ },
+ {
+  "id": "P002",
+  "name": "Elle",
+  "age": 39,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 41000,
+  "behaviour": "Mulțumit de programul MM actual",
+  "behaviour_how": "Folosește deja BizMedica MM, MedExam sau alt program care emite fișa de aptitudine și crede că acoperă și scadențele.",
+  "objection": "SMS-urile către angajați cer consimțământ; nu vreau probleme.",
+  "habit": "asistenta ține un tabel Excel cu toate firmele-client"
+ },
+ {
+  "id": "P003",
+  "name": "Dana",
+  "age": 53,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 117000,
+  "behaviour": "Foarte atent la costuri",
+  "behaviour_how": "Concurează pe preț (80-110 lei pe angajat pe an) și taie orice abonament care nu aduce bani imediat.",
+  "objection": "Ce câștig concret: mai mulți clienți sau doar mai multă muncă?",
+  "habit": "o dată pe an renegociezi contractele cu angajatorii mari"
+ },
+ {
+  "id": "P004",
+  "name": "Noah",
+  "age": 57,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 112000,
+  "behaviour": "Medic ocupat care delegă",
+  "behaviour_how": "Nu are timp de demonstrații; decide după ce asistenta sau contabila spune că e ușor și ieftin.",
+  "objection": "Angajatorii nu plătesc în plus; deja mă negociază la 80 de lei pe angajat.",
+  "habit": "asistenta ține un tabel Excel cu toate firmele-client"
+ },
+ {
+  "id": "P005",
+  "name": "Ana",
+  "age": 42,
+  "segment": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți",
+  "income": 363000,
+  "behaviour": "Prudent cu datele",
+  "behaviour_how": "A citit despre amenzile ANSPDCP din domeniul medical și se teme de orice platformă externă cu date ale angajaților.",
+  "objection": "Angajatorii nu plătesc în plus; deja mă negociază la 80 de lei pe angajat.",
+  "habit": "asistenta ține un tabel Excel cu toate firmele-client"
+ },
+ {
+  "id": "P006",
+  "name": "Nadia",
+  "age": 63,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 109000,
+  "behaviour": "Sub presiunea rețelelor",
+  "behaviour_how": "A pierdut cel puțin un client mare în fața MedLife sau Regina Maria în ultimii doi ani și caută ceva care să-l diferențieze.",
+  "objection": "Nu am timp să importăm și să curățăm datele.",
+  "habit": "mergi la sediul angajatorilor de două-trei ori pe săptămână cu echipa mobilă"
+ },
+ {
+  "id": "P007",
+  "name": "Isla",
+  "age": 48,
+  "segment": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți",
+  "income": 451000,
+  "behaviour": "Mulțumit de programul MM actual",
+  "behaviour_how": "Folosește deja BizMedica MM, MedExam sau alt program care emite fișa de aptitudine și crede că acoperă și scadențele.",
+  "objection": "Angajatorii nu plătesc în plus; deja mă negociază la 80 de lei pe angajat.",
+  "habit": "asistenta ține un tabel Excel cu toate firmele-client"
+ },
+ {
+  "id": "P008",
+  "name": "Tariq",
+  "age": 44,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 91000,
+  "behaviour": "Excel și hârtie",
+  "behaviour_how": "Ține scadențele în Excel și pe hârtie; asistenta sună angajatorii când își amintește.",
+  "objection": "Angajatorul nu are voie să vadă nimic medical. Cine răspunde dacă scapă ceva?",
+  "habit": "îți petreci serile completând fișe și facturi"
+ },
+ {
+  "id": "P009",
+  "name": "Caleb",
+  "age": 51,
+  "segment": "Furnizor MM regional independent mare: peste 10.000 de angajați pe an și peste 300 de firme-client",
+  "income": 1730000,
+  "behaviour": "Excel și hârtie",
+  "behaviour_how": "Ține scadențele în Excel și pe hârtie; asistenta sună angajatorii când își amintește.",
+  "objection": "Angajatorul nu are voie să vadă nimic medical. Cine răspunde dacă scapă ceva?",
+  "habit": "mergi la sediul angajatorilor de două-trei ori pe săptămână cu echipa mobilă"
+ },
+ {
+  "id": "P010",
+  "name": "Freya",
+  "age": 65,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 51000,
+  "behaviour": "Prudent cu datele",
+  "behaviour_how": "A citit despre amenzile ANSPDCP din domeniul medical și se teme de orice platformă externă cu date ale angajaților.",
+  "objection": "Programul meu de medicina muncii îmi arată deja când expiră fișele.",
+  "habit": "mergi la sediul angajatorilor de două-trei ori pe săptămână cu echipa mobilă"
+ },
+ {
+  "id": "P011",
+  "name": "Sara",
+  "age": 61,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 75000,
+  "behaviour": "Excel și hârtie",
+  "behaviour_how": "Ține scadențele în Excel și pe hârtie; asistenta sună angajatorii când își amintește.",
+  "objection": "Nu am timp să importăm și să curățăm datele.",
+  "habit": "mergi la sediul angajatorilor de două-trei ori pe săptămână cu echipa mobilă"
+ },
+ {
+  "id": "P012",
+  "name": "Aria",
+  "age": 35,
+  "segment": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți",
+  "income": 380000,
+  "behaviour": "Medic ocupat care delegă",
+  "behaviour_how": "Nu are timp de demonstrații; decide după ce asistenta sau contabila spune că e ușor și ieftin.",
+  "objection": "Nu am timp să importăm și să curățăm datele.",
+  "habit": "vorbești des cu responsabilii SSM și HR ai clienților"
+ },
+ {
+  "id": "P013",
+  "name": "Jordan",
+  "age": 49,
+  "segment": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți",
+  "income": 297000,
+  "behaviour": "Excel și hârtie",
+  "behaviour_how": "Ține scadențele în Excel și pe hârtie; asistenta sună angajatorii când își amintește.",
+  "objection": "Programul meu de medicina muncii îmi arată deja când expiră fișele.",
+  "habit": "o dată pe an renegociezi contractele cu angajatorii mari"
+ },
+ {
+  "id": "P014",
+  "name": "Rafael",
+  "age": 65,
+  "segment": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți",
+  "income": 360000,
+  "behaviour": "Sub presiunea rețelelor",
+  "behaviour_how": "A pierdut cel puțin un client mare în fața MedLife sau Regina Maria în ultimii doi ani și caută ceva care să-l diferențieze.",
+  "objection": "Un SRL mic din Oradea: mai există peste doi ani? Ce fac cu datele dacă dispare?",
+  "habit": "îți petreci serile completând fișe și facturi"
+ },
+ {
+  "id": "P015",
+  "name": "Liam",
+  "age": 39,
+  "segment": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți",
+  "income": 416000,
+  "behaviour": "Foarte atent la costuri",
+  "behaviour_how": "Concurează pe preț (80-110 lei pe angajat pe an) și taie orice abonament care nu aduce bani imediat.",
+  "objection": "Angajatorii nu plătesc în plus; deja mă negociază la 80 de lei pe angajat.",
+  "habit": "o dată pe an renegociezi contractele cu angajatorii mari"
+ },
+ {
+  "id": "P016",
+  "name": "Sofia",
+  "age": 54,
+  "segment": "Furnizor MM regional independent mare: peste 10.000 de angajați pe an și peste 300 de firme-client",
+  "income": 1071000,
+  "behaviour": "Mulțumit de programul MM actual",
+  "behaviour_how": "Folosește deja BizMedica MM, MedExam sau alt program care emite fișa de aptitudine și crede că acoperă și scadențele.",
+  "objection": "Un SRL mic din Oradea: mai există peste doi ani? Ce fac cu datele dacă dispare?",
+  "habit": "îți petreci serile completând fișe și facturi"
+ },
+ {
+  "id": "P017",
+  "name": "Poppy",
+  "age": 56,
+  "segment": "Furnizor MM regional independent mare: peste 10.000 de angajați pe an și peste 300 de firme-client",
+  "income": 1595000,
+  "behaviour": "Medic ocupat care delegă",
+  "behaviour_how": "Nu are timp de demonstrații; decide după ce asistenta sau contabila spune că e ușor și ieftin.",
+  "objection": "Un SRL mic din Oradea: mai există peste doi ani? Ce fac cu datele dacă dispare?",
+  "habit": "o dată pe an renegociezi contractele cu angajatorii mari"
+ },
+ {
+  "id": "P018",
+  "name": "Yara",
+  "age": 36,
+  "segment": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți",
+  "income": 238000,
+  "behaviour": "Caută noutăți",
+  "behaviour_how": "Încearcă unelte noi dacă un coleg i le recomandă.",
+  "objection": "Angajatorii nu plătesc în plus; deja mă negociază la 80 de lei pe angajat.",
+  "habit": "mergi la sediul angajatorilor de două-trei ori pe săptămână cu echipa mobilă"
+ },
+ {
+  "id": "P019",
+  "name": "Lena",
+  "age": 55,
+  "segment": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți",
+  "income": 395000,
+  "behaviour": "Sub presiunea rețelelor",
+  "behaviour_how": "A pierdut cel puțin un client mare în fața MedLife sau Regina Maria în ultimii doi ani și caută ceva care să-l diferențieze.",
+  "objection": "Ce câștig concret: mai mulți clienți sau doar mai multă muncă?",
+  "habit": "mergi la sediul angajatorilor de două-trei ori pe săptămână cu echipa mobilă"
+ },
+ {
+  "id": "P020",
+  "name": "Pablo",
+  "age": 49,
+  "segment": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale",
+  "income": 127000,
+  "behaviour": "Mulțumit de programul MM actual",
+  "behaviour_how": "Folosește deja BizMedica MM, MedExam sau alt program care emite fișa de aptitudine și crede că acoperă și scadențele.",
+  "objection": "SMS-urile către angajați cer consimțământ; nu vreau probleme.",
+  "habit": "îți petreci serile completând fișe și facturi"
+ }
+]

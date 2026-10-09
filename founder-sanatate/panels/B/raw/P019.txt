@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "După amenda de la ITM nu mai vreau să țin scadențele fișelor de aptitudine în Excel și în capul meu, iar 39 € pe lună e puțin față de o amendă. Dacă doar încarc datele de scadență și concluzia, fără diagnostice, și prima lună e gratis și fără contract, pot să încerc.",
+  "objection": "Încarc lista angajaților și concluzia apt/inapt într-o aplicație externă. Nu știu unde stau datele, cine are acces și ce mă fac dacă se scurg, pentru că răspund eu în fața angajaților și a ITM.",
+  "would_change_my_mind": "Dacă nu îmi arată clar un acord de prelucrare a datelor (GDPR), servere în UE și posibilitatea să șterg tot cu un click, nu îl iau. Dacă pot să încarc doar inițialele sau un cod intern în loc de numele întreg, îl iau mai ușor.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 110
+}

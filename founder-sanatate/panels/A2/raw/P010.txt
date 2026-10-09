@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Programul meu de medicina muncii îmi arată deja când expiră fișele, iar eu nu vreau să trimit date despre angajații clienților mei pe o platformă externă a unui SRL pe care nu îl cunosc. Cu amenzile ANSPDCP din domeniul medical, riscul mi se pare mai mare decât ce câștig.",
+  "objection": "Datele angajaților (nume, post, concluzia de pe fișă) ajung la o firmă externă și, dacă se scurge ceva, răspund eu față de clienți și față de ANSPDCP. Nici nu văd ce îmi aduce în plus față de programul pe care îl am deja.",
+  "would_change_my_mind": "Dacă programul meu actual nu ar putea deloc să trimită angajatorilor alerte de scadență și un client important mi-ar cere explicit un portal, iar firma mi-ar arăta un audit de securitate independent și referințe de la alte cabinete din zonă.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

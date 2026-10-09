@@ -1,0 +1,142 @@
+{
+ "business": "A \u00b7 scenariul \u201espre 3k\u201d \u2014 anul 3",
+ "unit": "client-lun\u0103",
+ "price": 65.0,
+ "variable_per_unit": 4.0,
+ "contribution": 61.0,
+ "contribution_pct": 0.9384615384615385,
+ "fixed_monthly": 310.0,
+ "startup": 0.0,
+ "plan_per_day": 47.0,
+ "margin_at_plan": 0.8369885433715221,
+ "breakeven_per_day": 5.081967213114754,
+ "capacity_per_day": 50,
+ "year1_revenue": 35360.0,
+ "year1_profit": 29464.0,
+ "year1_after_startup": 29464.0,
+ "payback_month": 1,
+ "cash_needed": 0.0,
+ "months": [
+  {
+   "month": 1,
+   "per_day": 36.0,
+   "units": 36.0,
+   "revenue": 2340.0,
+   "variable": 144.0,
+   "fixed": 310.0,
+   "profit": 1886.0,
+   "cumulative": 1886.0
+  },
+  {
+   "month": 2,
+   "per_day": 38.0,
+   "units": 38.0,
+   "revenue": 2470.0,
+   "variable": 152.0,
+   "fixed": 310.0,
+   "profit": 2008.0,
+   "cumulative": 3894.0
+  },
+  {
+   "month": 3,
+   "per_day": 40.0,
+   "units": 40.0,
+   "revenue": 2600.0,
+   "variable": 160.0,
+   "fixed": 310.0,
+   "profit": 2130.0,
+   "cumulative": 6024.0
+  },
+  {
+   "month": 4,
+   "per_day": 42.0,
+   "units": 42.0,
+   "revenue": 2730.0,
+   "variable": 168.0,
+   "fixed": 310.0,
+   "profit": 2252.0,
+   "cumulative": 8276.0
+  },
+  {
+   "month": 5,
+   "per_day": 44.0,
+   "units": 44.0,
+   "revenue": 2860.0,
+   "variable": 176.0,
+   "fixed": 310.0,
+   "profit": 2374.0,
+   "cumulative": 10650.0
+  },
+  {
+   "month": 6,
+   "per_day": 46.0,
+   "units": 46.0,
+   "revenue": 2990.0,
+   "variable": 184.0,
+   "fixed": 310.0,
+   "profit": 2496.0,
+   "cumulative": 13146.0
+  },
+  {
+   "month": 7,
+   "per_day": 48.0,
+   "units": 48.0,
+   "revenue": 3120.0,
+   "variable": 192.0,
+   "fixed": 310.0,
+   "profit": 2618.0,
+   "cumulative": 15764.0
+  },
+  {
+   "month": 8,
+   "per_day": 50.0,
+   "units": 50.0,
+   "revenue": 3250.0,
+   "variable": 200.0,
+   "fixed": 310.0,
+   "profit": 2740.0,
+   "cumulative": 18504.0
+  },
+  {
+   "month": 9,
+   "per_day": 50.0,
+   "units": 50.0,
+   "revenue": 3250.0,
+   "variable": 200.0,
+   "fixed": 310.0,
+   "profit": 2740.0,
+   "cumulative": 21244.0
+  },
+  {
+   "month": 10,
+   "per_day": 50.0,
+   "units": 50.0,
+   "revenue": 3250.0,
+   "variable": 200.0,
+   "fixed": 310.0,
+   "profit": 2740.0,
+   "cumulative": 23984.0
+  },
+  {
+   "month": 11,
+   "per_day": 50.0,
+   "units": 50.0,
+   "revenue": 3250.0,
+   "variable": 200.0,
+   "fixed": 310.0,
+   "profit": 2740.0,
+   "cumulative": 26724.0
+  },
+  {
+   "month": 12,
+   "per_day": 50.0,
+   "units": 50.0,
+   "revenue": 3250.0,
+   "variable": 200.0,
+   "fixed": 310.0,
+   "profit": 2740.0,
+   "cumulative": 29464.0
+  }
+ ],
+ "flags": []
+}

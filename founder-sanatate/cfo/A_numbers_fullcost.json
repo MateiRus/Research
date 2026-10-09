@@ -1,0 +1,92 @@
+{
+ "business": "A · cost complet (timpul fondatorului inclus) — anul 1",
+ "unit": "client-lună",
+ "price": 65,
+ "variable": [
+  {
+   "label": "API LLM (maparea importurilor)",
+   "cost": 2
+  },
+  {
+   "label": "Găzduire și stocare incrementală",
+   "cost": 1
+  },
+  {
+   "label": "E-mailuri tranzacționale",
+   "cost": 0.5
+  },
+  {
+   "label": "Comisioane de plată și facturare",
+   "cost": 0.5
+  },
+  {
+   "label": "Timpul fondatorului pentru suport (1 h × 20 €/h, cost de oportunitate)",
+   "cost": 20
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Găzduire UE (VM + backup + monitorizare)",
+   "cost": 45
+  },
+  {
+   "label": "Domeniu, e-mail tranzacțional, unelte",
+   "cost": 25
+  },
+  {
+   "label": "Asigurare RC profesională + cyber (600 €/an)",
+   "cost": 50
+  },
+  {
+   "label": "Contabilitate suplimentară",
+   "cost": 30
+  },
+  {
+   "label": "Deplasări de vânzare în Nord-Vest",
+   "cost": 80
+  }
+ ],
+ "startup": [
+  {
+   "label": "Avocat: DPA, termeni, politici, model DPIA, model consimțământ",
+   "cost": 1200
+  },
+  {
+   "label": "Revizie de securitate externă",
+   "cost": 800
+  },
+  {
+   "label": "Materiale de vânzare și pagină de prezentare",
+   "cost": 400
+  },
+  {
+   "label": "Găzduire în timpul construcției",
+   "cost": 180
+  },
+  {
+   "label": "Deplasări de descoperire și pre-vânzări",
+   "cost": 300
+  },
+  {
+   "label": "Credit SMS și teste",
+   "cost": 100
+  }
+ ],
+ "days_per_month": 1,
+ "capacity_per_day": 25,
+ "plan_per_day": 16,
+ "ramp_per_day": [
+  0,
+  0,
+  0,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ]
+}

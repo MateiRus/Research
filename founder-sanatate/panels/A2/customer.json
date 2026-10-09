@@ -1,0 +1,36 @@
+{
+  "business": "A · Scadențar MM + portal pentru angajator (add-on pentru cabinete independente de medicina muncii)",
+  "target": "Proprietari sau medici-coordonatori ai unor cabinete sau firme independente de medicina muncii din Oradea, restul Bihorului și Nord-Vest (Cluj, Satu Mare, Arad), care nu aparțin MedLife, Regina Maria sau Medicover",
+  "where": "Oradea și Nord-Vest, vânzare la sediul cabinetului",
+  "age": [35, 65],
+  "segments": [
+    {"name": "Cabinet MM mic: 1 medic de medicina muncii și 1 asistentă, aprox. 800-2.500 de angajați urmăriți, clienți IMM-uri locale", "share": 0.45, "income": [40000, 140000]},
+    {"name": "Firmă MM medie: 2-5 medici, echipă mobilă care face examene la sediul angajatorilor, 3.000-10.000 de angajați urmăriți", "share": 0.40, "income": [150000, 600000]},
+    {"name": "Furnizor MM regional independent mare: peste 10.000 de angajați pe an și peste 300 de firme-client", "share": 0.15, "income": [600000, 2000000]}
+  ],
+  "behaviours": [
+    {"name": "Mulțumit de programul MM actual", "share": 0.20, "how": "Folosește deja BizMedica MM, MedExam sau alt program care emite fișa de aptitudine și crede că acoperă și scadențele."},
+    {"name": "Excel și hârtie", "share": 0.20, "how": "Ține scadențele în Excel și pe hârtie; asistenta sună angajatorii când își amintește."},
+    {"name": "Sub presiunea rețelelor", "share": 0.15, "how": "A pierdut cel puțin un client mare în fața MedLife sau Regina Maria în ultimii doi ani și caută ceva care să-l diferențieze."},
+    {"name": "Foarte atent la costuri", "share": 0.15, "how": "Concurează pe preț (80-110 lei pe angajat pe an) și taie orice abonament care nu aduce bani imediat."},
+    {"name": "Medic ocupat care delegă", "share": 0.15, "how": "Nu are timp de demonstrații; decide după ce asistenta sau contabila spune că e ușor și ieftin."},
+    {"name": "Prudent cu datele", "share": 0.10, "how": "A citit despre amenzile ANSPDCP din domeniul medical și se teme de orice platformă externă cu date ale angajaților."},
+    {"name": "Caută noutăți", "share": 0.05, "how": "Încearcă unelte noi dacă un coleg i le recomandă."}
+  ],
+  "objections": [
+    "Programul meu de medicina muncii îmi arată deja când expiră fișele.",
+    "Angajatorii nu plătesc în plus; deja mă negociază la 80 de lei pe angajat.",
+    "Nu am timp să importăm și să curățăm datele.",
+    "Angajatorul nu are voie să vadă nimic medical. Cine răspunde dacă scapă ceva?",
+    "Un SRL mic din Oradea: mai există peste doi ani? Ce fac cu datele dacă dispare?",
+    "SMS-urile către angajați cer consimțământ; nu vreau probleme.",
+    "Ce câștig concret: mai mulți clienți sau doar mai multă muncă?"
+  ],
+  "habits": [
+    "mergi la sediul angajatorilor de două-trei ori pe săptămână cu echipa mobilă",
+    "îți petreci serile completând fișe și facturi",
+    "vorbești des cu responsabilii SSM și HR ai clienților",
+    "o dată pe an renegociezi contractele cu angajatorii mari",
+    "asistenta ține un tabel Excel cu toate firmele-client"
+  ]
+}

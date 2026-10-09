@@ -1,0 +1,13 @@
+{
+ "id": "P014",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "La un cabinet de familie cu contract CNAS banii vin mai ales din capitație, deci câteva controale în plus nu îmi aduc suficient cât să plătesc 69 € pe lună. Pacienții cronici îi chem oricum eu din dosar, iar asistenta mai dă un telefon când are timp.",
+ "objection": "Nu văd cât câștig concret dintr-o programare în plus. Garanția de 15 controale nu îmi spune nimic despre bani, și mai am o taxă lunară, un program de configurat și o firmă nouă care umblă la datele pacienților.",
+ "would_change_my_mind": "Dacă auditul gratuit îmi arată în cifre clare sute de controale pierdute la lista mea, cu valoarea lor în consultații și analize decontate, și prețul ar fi sub 30 € pe lună, fără contract pe termen lung.",
+ "price_too_cheap": 15,
+ "price_cheap": 29,
+ "price_expensive": 59,
+ "price_too_expensive": 99
+}

@@ -1,0 +1,13 @@
+{
+ "id": "P001",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "Bugetul e strâns, iar un abonament nou trebuie aprobat de director, care preferă gratuitul. Cred că platforma noastră de HR/salarizare sau un Excel cu formule pot ține scadențele, iar furnizorul de medicina muncii ne anunță oricum când vine la sediu.",
+ "objection": "Nu văd de ce aș plăti lunar pentru ceva ce probabil face deja platforma noastră de HR sau un Excel cu alertă. Mai e și grija consimțământului angajaților pentru SMS și GDPR, plus încă o aplicație de ținut la zi.",
+ "would_change_my_mind": "Dacă aș vedea că platforma noastră de HR nu are deloc scadențar de fișe, iar aplicația ar fi gratuită sau sub 20 €/lună și directorul ar accepta-o. Ar conta și o demonstrație care arată că economisește timp la controlul ITM.",
+ "price_too_cheap": 8,
+ "price_cheap": 18,
+ "price_expensive": 40,
+ "price_too_expensive": 70
+}

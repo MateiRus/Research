@@ -1,0 +1,13 @@
+{
+ "id": "P018",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "Angajatorii nu plătesc în plus, deja mă negociază la 80 de lei pe angajat, așa că portalul ar fi un cost doar pentru mine. Nu mi-a cerut nimeni așa ceva și nu l-a recomandat niciun coleg.",
+ "objection": "Nu văd cine îl plătește și ce câștig concret. Nu am niciun client care să ceară portal, iar eu aș fi cel care răspunde în fața angajatorilor și a ANSPDCP dacă un SRL necunoscut din Oradea greșește ceva cu datele angajaților lor.",
+ "would_change_my_mind": "Dacă doi-trei angajatori de-ai mei mi-ar cere explicit portalul și ar accepta să-l plătească separat, sau dacă un coleg din medicina muncii mi-ar spune că îl folosește de câteva luni fără probleme.",
+ "price_too_cheap": 15,
+ "price_cheap": 40,
+ "price_expensive": 100,
+ "price_too_expensive": 200
+}

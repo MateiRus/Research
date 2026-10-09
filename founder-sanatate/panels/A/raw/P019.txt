@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Am pierdut clienți în fața rețelelor și un portal cu marca cabinetului, cu scadențe și remindere automate, ar fi ceva concret de arătat HR-ului. Costă puțin față de un client pierdut, prima lună e gratuită și nu am contract lung, așa că încerc.",
+  "objection": "Nu știu dacă se leagă bine de programul meu de medicina muncii și dacă importul nu devine muncă în plus pentru echipa mea. Mă întreb și dacă angajatorii chiar vor folosi portalul sau mă aleg doar cu o factură în plus.",
+  "would_change_my_mind": "Dacă importul din programul meu ar merge prost în perioada gratuită sau dacă HR-urile clienților mei nu l-ar folosi, aș renunța după prima lună.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

@@ -1,0 +1,93 @@
+{
+ "n": 20,
+ "seed": 2026,
+ "customer": {
+  "business": "G · Bucle deschise: listă de lucru pentru controale scadente, rezultate anormale fără programare și trimiteri neînchise",
+  "target": "Proprietari, manageri sau medici-coordonatori ai unor clinici independente de boli cronice (diabet, cardiologie, endocrinologie), laboratoare independente de analize și cabinete de medicină de familie cu contract CNAS, din Oradea, Cluj și Timișoara",
+  "where": "Oradea, apoi Cluj și Timișoara; vânzare la sediu",
+  "age": [
+   35,
+   65
+  ],
+  "segments": [
+   {
+    "name": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+    "share": 0.45,
+    "income": [
+     300000,
+     2000000
+    ]
+   },
+   {
+    "name": "Laborator independent de analize medicale, cu contract CAS și 2-6 puncte de recoltare proprii",
+    "share": 0.2,
+    "income": [
+     200000,
+     1200000
+    ]
+   },
+   {
+    "name": "Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți",
+    "share": 0.35,
+    "income": [
+     60000,
+     200000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Mulțumit de programul de cabinet",
+    "share": 0.2,
+    "how": "Programul actual trimite deja SMS de reminder pentru programări."
+   },
+   {
+    "name": "Asistenta sună",
+    "share": 0.2,
+    "how": "Asistentele sună pacienții când au timp; nimeni nu măsoară cine a revenit."
+   },
+   {
+    "name": "Orientat pe venit",
+    "share": 0.15,
+    "how": "Cumpără doar ce arată clar consultații sau analize în plus."
+   },
+   {
+    "name": "Prudent cu datele",
+    "share": 0.15,
+    "how": "Se teme de amenzi GDPR și de orice mesaj către pacient care poate fi înțeles greșit."
+   },
+   {
+    "name": "Copleșit de CNAS",
+    "share": 0.15,
+    "how": "Timpul lui merge pe raportări CNAS, e-SănătateaMea și hârtii; orice proiect nou e o povară."
+   },
+   {
+    "name": "Interesat de calitate",
+    "share": 0.1,
+    "how": "Vrea să arate pacienților că are grijă de ei și citește despre prevenție."
+   },
+   {
+    "name": "Sceptic față de startup-uri",
+    "share": 0.05,
+    "how": "A avut un furnizor de software care a dispărut și l-a lăsat fără date."
+   }
+  ],
+  "objections": [
+   "Pacientul e responsabil să revină; nu e treaba noastră să-l alergăm.",
+   "Programul nostru trimite deja SMS-uri.",
+   "Exportul din programul nostru e o problemă; nimeni nu știe să-l facă.",
+   "Nu vreau ca un mesaj despre un rezultat anormal să sperie pacientul sau să mă facă răspunzător.",
+   "129 de euro pe lună pentru câteva programări în plus?",
+   "Nu am consimțământ pentru SMS de la pacienții vechi.",
+   "Cine e de vină dacă sistemul nu trimite un mesaj și pacientul pățește ceva?"
+  ],
+  "habits": [
+   "dimineața verifici lista de programări și rezultatele sosite peste noapte",
+   "lucrezi cu două-trei laboratoare și primești PDF-uri pe e-mail",
+   "o dată pe lună te chinui cu raportarea CNAS",
+   "pacienții te sună pe telefonul personal",
+   "ai văzut în presă amenzi GDPR pentru rezultate trimise pe WhatsApp"
+  ]
+ },
+ "pitch": "„Bucle deschise”: o listă de lucru pentru clinici, laboratoare și cabinete independente, de la un SRL din Oradea.\nDin exportul zilnic al programului dumneavoastră (CSV/Excel) arată trei liste: pacienții cu control scadent stabilit de medic și neprogramat; pacienții cu rezultate marcate de laborator în afara intervalului, fără consultație programată; trimiterile emise fără răspuns.\nPacientul primește un SMS sau e-mail neutru (doar dacă și-a dat consimțământul), cu link de programare. Asistenta vede pe cine trebuie să sune. Fiecare pas e jurnalizat.\nNu interpretează rezultate și nu face recomandări medicale: termenele sunt ale medicului, marcajele sunt ale laboratorului.\nRaport lunar: câte bucle s-au închis și câte consultații și analize au rezultat.\nPreț: 129 €/lună + TVA pe locație, SMS la cost (aprox. 0,05-0,07 €). Prima lună: audit gratuit pe datele dumneavoastră din ultimele 6 luni, ca să vedeți câte bucle sunt deschise acum."
+}

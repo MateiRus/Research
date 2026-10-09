@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nu vreau liste cu angajați și concluzii de la medicina muncii într-o aplicație externă a unui SRL din Oradea. Mai am și platforma de HR/salarizare și vreau să țin totul acolo, nu să mai încarc Excel-uri în încă un loc.",
+  "objection": "Chiar dacă nu sunt diagnostice, «apt condiționat» sau «inapt» legat de un nume tot date despre sănătate sunt. Dacă ies la iveală, răspund eu în fața GDPR și a angajaților. Nu știu cine e firma, unde stau datele și ce se întâmplă cu ele.",
+  "would_change_my_mind": "Dacă funcția ar fi inclusă în platforma de HR/salarizare pe care o folosesc deja, sau dacă aș avea un contract de prelucrare a datelor clar, servere în UE și referințe de la alți angajatori din zonă.",
+  "price_too_cheap": 9,
+  "price_cheap": 25,
+  "price_expensive": 55,
+  "price_too_expensive": 110
+}

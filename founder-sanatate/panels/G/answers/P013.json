@@ -1,0 +1,13 @@
+{
+ "id": "P013",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "La laborator nu avem consultații de programat, noi facem recoltarea și dăm rezultatele. Pacientul e responsabil să revină, iar asistentele sună când au timp. Nu plătesc lunar ca să alerg pacienții.",
+ "objection": "Nu văd cine ar folosi lista zilnic. Asistentele nu o vor lucra, deci plătesc pentru ceva ce nu se închide. Mă tem și de datele pacienților (GDPR) și de exportul din program, pe care ar trebui să-l fac eu în fiecare zi. Prețul se înmulțește cu punctele de recoltare.",
+ "would_change_my_mind": "Dacă auditul gratuit ar arăta un număr mare de pacienți cu rezultate în afara intervalului care au revenit după SMS, cu venit clar pentru mine, și dacă prețul ar fi unul pentru tot laboratorul, nu pe punct de recoltare.",
+ "price_too_cheap": 15,
+ "price_cheap": 40,
+ "price_expensive": 90,
+ "price_too_expensive": 160
+}

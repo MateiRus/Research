@@ -1,0 +1,13 @@
+{
+ "id": "P017",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "La un cabinet de familie cu contract CNAS banii vin pe listă de pacienți, nu pe programare, deci câteva controale în plus nu-mi aduc venit. Și oricum nu am timp de încă un proiect, cu raportările CNAS și e-Sănătate mă ocup deja destul.",
+ "objection": "Plătesc 69 € pe lună pentru o listă pe care asistenta tot ar trebui s-o sune, deci tot e muncă în plus la noi. În plus, nu văd cu ce mă ajută la capitație, mai ales că oferta pare făcută pentru clinici de cronici, nu pentru medicină de familie.",
+ "would_change_my_mind": "Dacă ar fi gratuit sau foarte ieftin, dacă s-ar lega singur de programul meu fără să mă încurce, și dacă mi-ar sună pacienții în locul asistentei, fără niciun efort din partea noastră.",
+ "price_too_cheap": 15,
+ "price_cheap": 25,
+ "price_expensive": 50,
+ "price_too_expensive": 80
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Am un Excel cu scadențele fișelor și merge. Nu vreau încă un abonament și încă o parolă pentru oamenii mei, mai ales cu rotația mare de la noi din ture.",
+  "objection": "Rezolv deja cu Excel-ul și un reminder în calendar. Aplicația mi-ar cere să țin datele în două locuri, iar 39 € pe lună plus SMS-uri pentru ceva ce fac gratis nu mi se pare justificat. Nu știu nici ce se întâmplă cu datele angajaților mei.",
+  "would_change_my_mind": "Dacă ar prelua automat lista din Excel-ul meu, fără să trebuiască să o reîncarc și fără conturi pentru șefii de tură (doar remindere pe e-mail sau SMS), la un preț de maximum 15-20 € pe lună. Ar conta și dacă mi-ar demonstra că mă scapă de o amendă de la ITM.",
+  "price_too_cheap": 5,
+  "price_cheap": 12,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

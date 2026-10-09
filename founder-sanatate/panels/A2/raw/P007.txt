@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Programul pe care îl folosesc deja emite fișa și îmi arată scadențele, iar asistenta ține tabelul Excel cu firmele-client, așa că nu simt o problemă pe care s-o plătesc. Angajatorii mă negociază deja la 80 de lei pe angajat și nu vor plăti în plus pentru un portal.",
+  "objection": "Cu 3.000-10.000 de angajați aș ajunge pe treapta de 69 sau 129 € pe lună, bani scoși din marja mea, fiindcă clienții nu acceptă un cost în plus. În plus, mai am o actualizare săptămânală de ținut și o răspundere GDPR față de angajatori, pentru ceva ce nu mi-a cerut nimeni.",
+  "would_change_my_mind": "Dacă doi-trei clienți mari mi-ar cere explicit un portal de scadențe și ar accepta să-l plătească ei direct, separat de tariful pe angajat.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 80,
+  "price_too_expensive": 130
+}

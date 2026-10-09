@@ -1,0 +1,13 @@
+{
+ "id": "P007",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Am un tabel în Excel cu scadențele și furnizorul de medicina muncii mă anunță oricum când expiră fișele. Nu văd de ce aș plăti lunar pentru ceva ce fac deja, iar încă o platformă înseamnă încă o parolă și încă un lucru de ținut la zi.",
+ "objection": "Excel-ul și furnizorul îmi acoperă deja nevoia. Ar trebui să încarc și să actualizez datele în două locuri, iar 39 € pe lună mi se pare mult pentru un tabel cu date.",
+ "would_change_my_mind": "Dacă aș vedea că ia datele direct de la furnizorul meu de medicina muncii, fără reintroducere manuală, sau dacă ar fi mult mai ieftin. Sau dacă aș avea o amendă ITM pentru fișe expirate.",
+ "price_too_cheap": 5,
+ "price_cheap": 12,
+ "price_expensive": 30,
+ "price_too_expensive": 50
+}

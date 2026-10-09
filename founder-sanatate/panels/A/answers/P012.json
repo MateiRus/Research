@@ -1,0 +1,13 @@
+{
+ "id": "P012",
+ "buys": true,
+ "purchases_first_month": 1,
+ "reason_code": "convenience",
+ "reason": "Importul îl fac ei, prima lună e gratis și nu am contract pe termen lung, deci nu pierd nimic dacă asistenta spune că nu merge. Dacă HR-urile clienților primesc remindere fără să mă mai sune pe mine, 99 € pe lună la cifra mea de afaceri nu mă doare.",
+ "objection": "Nu am timp să import și să curăț datele, iar dacă asistenta trebuie să se ocupe săptămânal de el, renunț. Mai ales mă îngrijorează dacă se leagă de programul pe care îl folosim deja și dacă SMS-urile către angajați sunt legale fără bătăi de cap cu consimțământul.",
+ "would_change_my_mind": "Dacă asistenta sau contabila ar spune după două săptămâni că cere muncă în plus, sau dacă importul din exportul programului nostru MM iese greșit și nu poate fi reparat repede.",
+ "price_too_cheap": 25,
+ "price_cheap": 60,
+ "price_expensive": 150,
+ "price_too_expensive": 250
+}

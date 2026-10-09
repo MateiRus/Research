@@ -1,0 +1,13 @@
+{
+ "id": "P002",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Programul meu trimite deja SMS de reminder și nu am consimțământ de la pacienții vechi, iar după amenzile GDPR din presă nu risc să contactez oameni fără acord. Nu văd de ce aș plăti 129 € pe lună pentru ceva ce asistentele pot face din lista programului.",
+ "objection": "Consimțământul: dacă majoritatea pacienților vechi nu și-au dat acordul pentru SMS sau e-mail, tot ce rămâne e o listă de sunat, iar riscul GDPR cu datele de sănătate exportate la un SRL extern rămâne la mine.",
+ "would_change_my_mind": "Dovada că firma nu primește date de sănătate identificabile sau are un contract de prelucrare clar, plus un audit gratuit care arată concret câți dintre pacienții mei au deja consimțământ valid și câte consultații s-ar recupera.",
+ "price_too_cheap": 15,
+ "price_cheap": 40,
+ "price_expensive": 90,
+ "price_too_expensive": 140
+}

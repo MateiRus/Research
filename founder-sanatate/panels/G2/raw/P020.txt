@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Programul de cabinet îmi trimite deja SMS de reminder și lucrez cu el de ani de zile, nu simt nevoia unei liste separate. Nu vreau să bag încă un furnizor extern lângă datele pacienților cronici.",
+  "objection": "Nu am consimțământ pentru SMS de la pacienții vechi, iar un SRL din afară care umblă în exportul din programul meu, chiar și pseudonimizat, îmi aduce risc GDPR și bătaie de cap cu furnizorul programului. Nu știu dacă asistentele ar suna efectiv lista în plus față de ce fac acum.",
+  "would_change_my_mind": "Dacă auditul gratuit ar arăta un număr mare de controale pierdute în clinica mea și dacă furnizorul programului meu ar confirma în scris că integrarea nu afectează contractul sau datele.",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 120,
+  "price_too_expensive": 250
+}

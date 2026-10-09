@@ -1,0 +1,165 @@
+{
+ "business": "B · Scadențar MM pentru angajatori (HR), indiferent de furnizorul de medicina muncii",
+ "seed": 2026,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 2,
+ "passes": 18,
+ "buy_rate": 0.1,
+ "by_segment": [
+  [
+   "HR sau administrator la un IMM din Bihor, 50-150 de angajați",
+   6,
+   0.16666666666666666
+  ],
+  [
+   "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+   10,
+   0.1
+  ],
+  [
+   "Manager de beneficii la un angajator cu mai multe locații, 500-1.000 de angajați",
+   4,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Speriat de ITM",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Buget strâns",
+   3,
+   0.0
+  ],
+  [
+   "Excel-ul merge",
+   5,
+   0.0
+  ],
+  [
+   "Totul într-o platformă",
+   2,
+   0.0
+  ],
+  [
+   "Gândește în beneficii",
+   2,
+   0.0
+  ],
+  [
+   "Lasă furnizorul MM să urmărească",
+   4,
+   0.0
+  ],
+  [
+   "Prudent GDPR",
+   1,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "under $8,268,000",
+   6,
+   0.16666666666666666
+  ],
+  [
+   "$8,268,000 to $26,292,000",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "$26,292,000 and up",
+   7,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   10,
+   [
+    "Am un tabel în Excel cu scadențele fișelor și mi se pare suficient. Presupun că platforma noastră de HR/salarizare poate oferi deja asta, iar încă un abonament lunar nu mi se pare justificat.",
+    "Furnizorul de medicina muncii ne anunță deja când expiră fișele și vine la sediu o dată pe trimestru, iar eu țin o listă în Excel. Nu văd de ce aș plăti 39 € pe lună pentru încă o aplicație, când ar trebui să fie inclusă în ce plătim deja furnizorului."
+   ],
+   [
+    "P002",
+    "P005"
+   ]
+  ],
+  [
+   "need",
+   5,
+   [
+    "Nu e o problemă reală la noi: n-am luat niciodată amendă pentru fișe expirate, iar furnizorul de medicina muncii mă anunță când expiră. Nu plătesc lunar pentru încă o aplicație pe lângă ce primesc deja.",
+    "Furnizorul de medicina muncii mă anunță deja când expiră fișele și vine la sediu o dată pe trimestru, deci nu am o problemă pentru care să plătesc încă o aplicație. Și nu vreau liste cu angajați și concluzii apt/inapt într-un tool extern făcut de un SRL pe care nu îl cunosc."
+   ],
+   [
+    "P006",
+    "P009"
+   ]
+  ],
+  [
+   "price",
+   2,
+   [
+    "Bugetul e strâns, iar un abonament nou trebuie aprobat de director, care preferă gratuitul. Cred că platforma noastră de HR/salarizare sau un Excel cu formule pot ține scadențele, iar furnizorul de medicina muncii ne anunță oricum când vine la sediu.",
+    "Cu 500-1.000 de angajați aș fi la 79 €/lună plus TVA, plus SMS-uri, și orice abonament nou trebuie să treacă de director, care întreabă de ce nu e inclus la furnizorul de medicina muncii. Pentru scadențe țin deja un Excel, deci nu simt încă o durere care să justifice o cheltuială nouă."
+   ],
+   [
+    "P001",
+    "P017"
+   ]
+  ],
+  [
+   "trust",
+   1,
+   [
+    "Nu vreau liste cu angajați și concluzii de la medicina muncii într-o aplicație externă a unui SRL din Oradea. Mai am și platforma de HR/salarizare și vreau să țin totul acolo, nu să mai încarc Excel-uri în încă un loc."
+   ],
+   [
+    "P004"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   2,
+   [
+    "După controlul ITM mi-e frică să nu mai pierd o scadență la fișele de aptitudine, iar cu trei ture și plecări dese, Excelul meu nu ține pasul. Dacă într-adevăr nu intră date medicale, doar scadențe și apt/inapt, 39 € pe lună e puțin față de o amendă, și prima lună e gratis fără contract.",
+    "După amenda de la ITM nu mai vreau să țin scadențele fișelor de aptitudine în Excel și în capul meu, iar 39 € pe lună e puțin față de o amendă. Dacă doar încarc datele de scadență și concluzia, fără diagnostice, și prima lună e gratis și fără contract, pot să încerc."
+   ],
+   [
+    "P003",
+    "P019"
+   ]
+  ]
+ ],
+ "flip": [
+  "Dacă aș vedea că platforma noastră de HR nu are deloc scadențar de fișe, iar aplicația ar fi gratuită sau sub 20 €/lună și directorul ar accepta-o. Ar conta și o demonstrație care arată că economisește timp la controlul ITM.",
+  "Dacă mi-ar arăta că platforma mea de HR nu poate face remindere automate către șefii de tură și că am avut o amendă sau o problemă la un control ITM din cauza fișelor expirate. Sau dacă mi-ar da un preț foarte mic, sub 15 € pe lună.",
+  "Dacă funcția ar fi inclusă în platforma de HR/salarizare pe care o folosesc deja, sau dacă aș avea un contract de prelucrare a datelor clar, servere în UE și referințe de la alți angajatori din zonă.",
+  "Dacă l-ar oferi gratuit sau inclus în contractul furnizorului meu de medicina muncii, sau dacă ar prelua singur lista și programările fără muncă de la mine.",
+  "Dacă ar prelua singură lista de angajați din programul de salarizare, fără să încarc Excel în fiecare lună, și ar fi gratuită sau foarte ieftină.",
+  "Dacă aș vedea că ia datele direct de la furnizorul meu de medicina muncii, fără reintroducere manuală, sau dacă ar fi mult mai ieftin. Sau dacă aș avea o amendă ITM pentru fișe expirate.",
+  "Dacă aș vedea că nu trebuie să mai țin deloc Excel-ul, că șefii de tură primesc singuri alertele fără conturi noi, iar furnizorul de medicina muncii ar lucra direct cu lista generată. Și dacă un alt HR din zonă mi-ar confirma că l-a folosit la un control ITM.",
+  "Dacă furnizorul meu de medicina muncii ar folosi chiar el aplicația și mi-ar da un acord de prelucrare a datelor clar, cu servere în UE, sau dacă am avea un control ITM cu amenzi pentru fișe expirate.",
+  "Dacă furnizorul meu de medicina muncii nu ne-ar mai anunța, sau dacă am avea un control ITM și am rămâne fără istoric clar. Ar ajuta și o legătură directă cu programările la clinică, fără încărcat Excel în fiecare lună.",
+  "Dacă aș primi o amendă ITM sau am avea un control serios pentru fișe expirate, sau dacă aplicația s-ar sincroniza singură cu evidența de personal și cu furnizorul, fără să încarc nimic manual.",
+  "Dacă s-ar integra direct cu platforma mea de HR/salarizare, fără reîncărcare de Excel și fără conturi noi, sau dacă ar fi inclus gratuit în platforma pe care o plătesc deja.",
+  "Dacă am avea un control ITM cu amenzi pentru fișe expirate sau schimbăm furnizorul și acesta nu ne mai anunță, aș reconsidera. Ar conta și ca aplicația să preia singură datele de la furnizor, fără încărcat Excel manual.",
+  "Dacă aș primi o amendă ITM sau o observație în control chiar pentru fișe expirate, sau dacă aplicația s-ar lega direct de furnizorul meu de medicina muncii și de pontaj, fără reintroducere manuală.",
+  "Dacă mi-ar arăta că platforma mea de HR nu poate face remindere pe SMS către angajați și șefii de tură, și dacă ar exista un plan gratuit sau foarte ieftin (sub 15 €) pentru firme de dimensiunea mea, cu import automat din Excel.",
+  "Dacă s-ar sincroniza direct cu lista de personal din HR/pontaj, fără reintroducere manuală, și dacă ar prinde automat angajații noi și pe cei care pleacă. Aș vrea și o referință de la un angajator cunoscut din Bihor.",
+  "Dacă furnizorul meu de medicina muncii l-ar include în contract, sau dacă aș avea o variantă gratuită ori foarte ieftină care importă singură lista din Excel și m-ar scuti de muncă de două ori.",
+  "Dacă furnizorul meu de medicina muncii ar oferi aplicația inclusă, cu acord de prelucrare clar, servere în UE și fără nume complete (doar cod intern), sau dacă am primi o amendă ITM pentru fișe expirate.",
+  "Dacă ar prelua automat lista din Excel-ul meu, fără să trebuiască să o reîncarc și fără conturi pentru șefii de tură (doar remindere pe e-mail sau SMS), la un preț de maximum 15-20 € pe lună. Ar conta și dacă mi-ar demonstra că mă scapă de o amendă de la ITM."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

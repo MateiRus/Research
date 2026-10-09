@@ -1,0 +1,13 @@
+{
+ "id": "P014",
+ "buys": true,
+ "purchases_first_month": 1,
+ "reason_code": "need",
+ "reason": "Am pierdut un client mare în fața rețelelor și am nevoie de ceva care să mă diferențieze. Dacă nu retastez nimic, ci lucrez din exportul pe care îl am deja, iar garanția de 90 de zile mă acoperă, merită încercat la prețul ăsta.",
+ "objection": "Un SRL mic din Oradea: mai există peste doi ani? Dacă dispare, ce fac cu datele și cu portalul pe care l-am pus în fața clienților mei, sub marca mea?",
+ "would_change_my_mind": "Un angajament scris că datele și exportul rămân la mine, plus acces la o copie completă a datelor oricând, chiar dacă firma dispare. Și două-trei cabinete de medicina muncii care îl folosesc deja și pot da referințe.",
+ "price_too_cheap": 15,
+ "price_cheap": 45,
+ "price_expensive": 150,
+ "price_too_expensive": 300
+}

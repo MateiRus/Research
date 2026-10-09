@@ -1,0 +1,13 @@
+{
+ "id": "P015",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "Cu 3.000-10.000 de angajați aș ajunge la 69-129 €/lună, iar angajatorii nu plătesc în plus, deja mă negociază la 80 de lei pe angajat. Tai abonamentele care nu aduc bani imediat și acesta nu aduce.",
+ "objection": "Nu pot să-l pun în prețul către angajatori și nici nu îl pot factura separat fără să pierd contracte. Ar fi un cost fix în plus pe care îl plătesc eu, pentru un avantaj pe care clientul nu l-a cerut.",
+ "would_change_my_mind": "Dacă un angajator mare mi-ar cere portalul în scris și ar accepta să-l plătească separat, sau dacă prețul ar fi în jur de 30 €/lună pentru toți angajații urmăriți.",
+ "price_too_cheap": 15,
+ "price_cheap": 30,
+ "price_expensive": 60,
+ "price_too_expensive": 100
+}

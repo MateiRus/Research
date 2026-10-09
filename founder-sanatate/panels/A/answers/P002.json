@@ -1,0 +1,13 @@
+{
+ "id": "P002",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Folosesc deja programul MM care emite fișa de aptitudine, iar asistenta ține scadențele într-un Excel care merge. Nu simt nevoia să mai plătesc pentru încă o unealtă și încă un import de date.",
+ "objection": "SMS-urile către angajați cer consimțământ și nu vreau probleme cu GDPR. Mai mult, ar fi încă un sistem lângă programul MM, cu date duplicate, iar eu răspund de ele față de clienți.",
+ "would_change_my_mind": "Dacă s-ar integra direct cu programul meu MM, fără import manual, și dacă mi-ar da un model gata făcut de consimțământ și un acord de împuternicit clar, aș testa luna gratuită.",
+ "price_too_cheap": 15,
+ "price_cheap": 30,
+ "price_expensive": 60,
+ "price_too_expensive": 100
+}

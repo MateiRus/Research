@@ -1,0 +1,13 @@
+{
+ "id": "P011",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "convenience",
+ "reason": "Prețul nu e problema, 129 € pe lună nu mă sperie. Dar totul pornește de la un export zilnic din programul nostru, iar la noi nimeni nu știe să-l facă. Dacă nu merge singur, rămâne încă o listă pe care asistentele n-au timp s-o sune.",
+ "objection": "Exportul zilnic CSV din programul nostru nu-l face nimeni, iar dacă depinde de mine sau de o asistentă, se oprește în două săptămâni. Și chiar dacă am lista, asistentele sună când au timp, iar nimeni nu urmărește cine a revenit. Nu văd cine ar lucra efectiv pe liste. Mai e și grija cu datele pacienților trimise unui SRL din afară.",
+ "would_change_my_mind": "Să se conecteze ei direct la programul nostru sau să-mi facă ei exportul o dată, să meargă automat, fără ca eu sau asistentele să facem ceva. Plus un acord GDPR clar și un audit gratuit care să-mi arate pe datele noastre câți pacienți chiar nu au revenit.",
+ "price_too_cheap": 25,
+ "price_cheap": 60,
+ "price_expensive": 150,
+ "price_too_expensive": 300
+}

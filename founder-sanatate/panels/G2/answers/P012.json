@@ -1,0 +1,13 @@
+{
+ "id": "P012",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "Laboratorul meu face analize, nu stabilește controale de boli cronice, deci nu am o listă de pacienți cu control depășit. Și așa sunt copleșită de raportările CNAS, nu îmi mai trebuie un proiect nou.",
+ "objection": "Exportul din programul nostru e o problemă și nimeni nu știe să-l facă. Nu cred că îl rezolvă cineva din afară fără să mă încurce, iar eu nici nu am controale stabilite de medici în sistemul meu.",
+ "would_change_my_mind": "Să văd că există un tip de listă utilă pentru un laborator, cum ar fi pacienți cronici care nu mai revin la analizele periodice. Și să mi se demonstreze pe programul meu, fără nicio muncă de la mine, că exportul funcționează.",
+ "price_too_cheap": 15,
+ "price_cheap": 30,
+ "price_expensive": 80,
+ "price_too_expensive": 150
+}

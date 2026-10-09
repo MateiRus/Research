@@ -1,0 +1,13 @@
+{
+ "id": "P009",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Nu vreau să trimit exporturi cu datele pacienților unui SRL pe care nu îl cunosc, iar un SMS despre un rezultat anormal poate speria pacientul sau mă poate face răspunzător. Asistenta sună oricum pacienții când are timp, așa că nu simt o durere care să justifice 129 € pe lună.",
+ "objection": "Răspunderea și GDPR: cine are datele pacienților, ce scrie exact în mesaj și cine răspunde dacă un pacient înțelege greșit un SMS despre rezultate. În plus, asistenta tot n-ar avea timp să sune lista.",
+ "would_change_my_mind": "Un contract clar de prelucrare a datelor (GDPR), mesaje aprobate de mine care nu pomenesc rezultate, și referințe de la alte cabinete de familie din Oradea sau Cluj care l-au folosit. Prețul ar trebui să fie și sub 50 € pe lună.",
+ "price_too_cheap": 15,
+ "price_cheap": 35,
+ "price_expensive": 80,
+ "price_too_expensive": 130
+}

@@ -1,0 +1,142 @@
+{
+ "business": "G \u00b7 Controale pierdute (clinici independente de boli cronice) \u2014 anul 2",
+ "unit": "client-lun\u0103",
+ "price": 89.0,
+ "variable_per_unit": 4.5,
+ "contribution": 84.5,
+ "contribution_pct": 0.949438202247191,
+ "fixed_monthly": 230.0,
+ "startup": 0.0,
+ "plan_per_day": 12.0,
+ "margin_at_plan": 0.7340823970037452,
+ "breakeven_per_day": 2.7218934911242605,
+ "capacity_per_day": 13,
+ "year1_revenue": 8010.0,
+ "year1_profit": 4845.0,
+ "year1_after_startup": 4845.0,
+ "payback_month": 1,
+ "cash_needed": 0.0,
+ "months": [
+  {
+   "month": 1,
+   "per_day": 5.0,
+   "units": 5.0,
+   "revenue": 445.0,
+   "variable": 22.5,
+   "fixed": 230.0,
+   "profit": 192.5,
+   "cumulative": 192.5
+  },
+  {
+   "month": 2,
+   "per_day": 5.0,
+   "units": 5.0,
+   "revenue": 445.0,
+   "variable": 22.5,
+   "fixed": 230.0,
+   "profit": 192.5,
+   "cumulative": 385.0
+  },
+  {
+   "month": 3,
+   "per_day": 6.0,
+   "units": 6.0,
+   "revenue": 534.0,
+   "variable": 27.0,
+   "fixed": 230.0,
+   "profit": 277.0,
+   "cumulative": 662.0
+  },
+  {
+   "month": 4,
+   "per_day": 6.0,
+   "units": 6.0,
+   "revenue": 534.0,
+   "variable": 27.0,
+   "fixed": 230.0,
+   "profit": 277.0,
+   "cumulative": 939.0
+  },
+  {
+   "month": 5,
+   "per_day": 7.0,
+   "units": 7.0,
+   "revenue": 623.0,
+   "variable": 31.5,
+   "fixed": 230.0,
+   "profit": 361.5,
+   "cumulative": 1300.5
+  },
+  {
+   "month": 6,
+   "per_day": 7.0,
+   "units": 7.0,
+   "revenue": 623.0,
+   "variable": 31.5,
+   "fixed": 230.0,
+   "profit": 361.5,
+   "cumulative": 1662.0
+  },
+  {
+   "month": 7,
+   "per_day": 8.0,
+   "units": 8.0,
+   "revenue": 712.0,
+   "variable": 36.0,
+   "fixed": 230.0,
+   "profit": 446.0,
+   "cumulative": 2108.0
+  },
+  {
+   "month": 8,
+   "per_day": 8.0,
+   "units": 8.0,
+   "revenue": 712.0,
+   "variable": 36.0,
+   "fixed": 230.0,
+   "profit": 446.0,
+   "cumulative": 2554.0
+  },
+  {
+   "month": 9,
+   "per_day": 9.0,
+   "units": 9.0,
+   "revenue": 801.0,
+   "variable": 40.5,
+   "fixed": 230.0,
+   "profit": 530.5,
+   "cumulative": 3084.5
+  },
+  {
+   "month": 10,
+   "per_day": 9.0,
+   "units": 9.0,
+   "revenue": 801.0,
+   "variable": 40.5,
+   "fixed": 230.0,
+   "profit": 530.5,
+   "cumulative": 3615.0
+  },
+  {
+   "month": 11,
+   "per_day": 10.0,
+   "units": 10.0,
+   "revenue": 890.0,
+   "variable": 45.0,
+   "fixed": 230.0,
+   "profit": 615.0,
+   "cumulative": 4230.0
+  },
+  {
+   "month": 12,
+   "per_day": 10.0,
+   "units": 10.0,
+   "revenue": 890.0,
+   "variable": 45.0,
+   "fixed": 230.0,
+   "profit": 615.0,
+   "cumulative": 4845.0
+  }
+ ],
+ "flags": []
+}

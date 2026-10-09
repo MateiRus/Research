@@ -1,0 +1,13 @@
+{
+ "id": "P013",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Programul meu de medicina muncii îmi arată deja când expiră fișele, iar restul merge cum a mers mereu, cu Excel și asistenta care sună angajatorii. Nu am timp să mut datele și să învăț încă un sistem pentru ceva ce cred că rezolv și acum.",
+ "objection": "Nu am chef de încă o unealtă lângă programul meu. Mă tem că import, consimțăminte SMS și încă un portal înseamnă muncă în plus pentru echipă, iar de la un SRL mic din Oradea nu știu dacă mai există suport peste doi ani. Datele angajaților clienților mei sunt sensibile, iar clienții mari ar întreba cine e acest furnizor.",
+ "would_change_my_mind": "Să-mi arate pe datele mele reale, fără efort din partea mea, că se leagă direct de exportul programului meu și trimite singur remindere la HR-urile clienților, astfel încât asistenta să nu mai sune. Ar ajuta și o referință de la un alt cabinet independent din zonă.",
+ "price_too_cheap": 15,
+ "price_cheap": 40,
+ "price_expensive": 120,
+ "price_too_expensive": 250
+}

@@ -1,0 +1,96 @@
+{
+ "business": "G · SMS absorbit de fondator (nu refacturat) — anul 1",
+ "unit": "client-lună",
+ "price": 89,
+ "variable": [
+  {
+   "label": "API LLM (maparea exporturilor)",
+   "cost": 2
+  },
+  {
+   "label": "Găzduire și stocare incrementală",
+   "cost": 1.5
+  },
+  {
+   "label": "E-mailuri tranzacționale",
+   "cost": 0.5
+  },
+  {
+   "label": "Comisioane de plată și facturare",
+   "cost": 0.5
+  },
+  {
+   "label": "SMS absorbit: ~150 SMS × 0,06 € (clinică, controale depășite, doar cu consimțământ)",
+   "cost": 9
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Găzduire UE (VM + backup + monitorizare)",
+   "cost": 45
+  },
+  {
+   "label": "Domeniu, e-mail tranzacțional, unelte",
+   "cost": 25
+  },
+  {
+   "label": "Asigurare RC profesională + cyber (600 €/an)",
+   "cost": 50
+  },
+  {
+   "label": "Contabilitate suplimentară",
+   "cost": 30
+  },
+  {
+   "label": "Deplasări de vânzare în Nord-Vest",
+   "cost": 80
+  }
+ ],
+ "startup": [
+  {
+   "label": "Avocat: DPA, termeni, politici, model DPIA, model consimțământ",
+   "cost": 1200
+  },
+  {
+   "label": "Opinie scrisă de calificare MDR (consultant)",
+   "cost": 800
+  },
+  {
+   "label": "Revizie de securitate externă",
+   "cost": 800
+  },
+  {
+   "label": "Materiale de vânzare și pagină de prezentare",
+   "cost": 400
+  },
+  {
+   "label": "Găzduire în timpul construcției",
+   "cost": 200
+  },
+  {
+   "label": "Deplasări (Oradea, Cluj, Timișoara)",
+   "cost": 400
+  },
+  {
+   "label": "Credit SMS și teste",
+   "cost": 100
+  }
+ ],
+ "days_per_month": 1,
+ "capacity_per_day": 13,
+ "plan_per_day": 12,
+ "ramp_per_day": [
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  2,
+  2,
+  3,
+  3,
+  4,
+  4
+ ]
+}

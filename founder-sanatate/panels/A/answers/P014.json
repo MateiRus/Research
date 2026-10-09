@@ -1,0 +1,13 @@
+{
+ "id": "P014",
+ "buys": true,
+ "purchases_first_month": 1,
+ "reason_code": "need",
+ "reason": "Am pierdut clienți în fața rețelelor și un portal cu marca cabinetului, cu scadențe și remindere către HR, mă ajută să arăt ceva ce ei nu fac așa. Prima lună e gratuită și nu am contract lung, deci risc puțin, iar 59 € e mărunțiș pentru cifra mea de afaceri.",
+ "objection": "Un SRL mic din Oradea: mai există peste doi ani? Dacă dispare, ce se întâmplă cu listele angajaților clienților mei și cu portalul pe care l-am arătat clienților?",
+ "would_change_my_mind": "Dacă nu pot exporta oricând toate datele în Excel, sau dacă importul din programul meu MM iese prost și nu merge curat la testul din prima lună, renunț.",
+ "price_too_cheap": 15,
+ "price_cheap": 40,
+ "price_expensive": 120,
+ "price_too_expensive": 220
+}

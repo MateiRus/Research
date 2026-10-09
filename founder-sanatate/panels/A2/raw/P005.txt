@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ar însemna să urc într-o platformă externă, de la un SRL pe care nu-l cunosc, datele de aptitudine ale mii de angajați, iar eu am citit prea multe despre amenzile ANSPDCP ca să risc asta. Plus că angajatorii nu plătesc în plus, deja mă negociază la 80 de lei pe angajat, iar tabelul Excel al asistentei ne ajunge.",
+  "objection": "Cine răspunde dacă se scurg datele angajaților de pe platforma lor? Eu rămân operatorul în fața ANSPDCP și a clienților, iar un contract de persoană împuternicită nu mă scoate din răspundere. În plus, nu văd un angajator care să plătească pentru asta.",
+  "would_change_my_mind": "Dacă aș vedea 2-3 cabinete din zonă care îl folosesc deja de un an fără incidente, dacă mi-ar arăta unde sunt găzduite datele și un audit de securitate independent, și dacă cel puțin câțiva clienți mi-ar spune că îl vor și acceptă să plătească separat.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 90,
+  "price_too_expensive": 180
+}

@@ -1,0 +1,13 @@
+{
+ "id": "P008",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Țin scadențele în Excel și asistenta sună angajatorii, iar așa merge de ani de zile. Nu dau datele angajaților unui SRL necunoscut doar ca să arăt mai modern, mai ales când seara mă ocup deja de fișe și facturi.",
+ "objection": "Dacă scapă ceva din date, eu răspund în fața angajatorului, a angajatului și a autorității de protecția datelor, nu firma care face portalul. Mai trebuie și un export săptămânal în plus, pe lângă ce am deja de făcut.",
+ "would_change_my_mind": "Un cabinet cunoscut din zonă, care folosește portalul de un an, să-mi spună că n-a avut probleme cu datele. Aș vrea și o lună de probă pe câțiva clienți, cu exportul făcut de ei, fără muncă în plus din partea mea.",
+ "price_too_cheap": 8,
+ "price_cheap": 15,
+ "price_expensive": 40,
+ "price_too_expensive": 80
+}

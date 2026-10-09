@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "După controlul ITM mi-e frică să nu mai pierd o scadență la fișele de aptitudine, iar cu trei ture și plecări dese, Excelul meu nu ține pasul. Dacă într-adevăr nu intră date medicale, doar scadențe și apt/inapt, 39 € pe lună e puțin față de o amendă, și prima lună e gratis fără contract.",
+  "objection": "Concluzia apt/condiționat/inapt tot ține de sănătatea angajaților, iar eu nu vreau așa ceva pe serverele unui SRL necunoscut. Vreau să știu unde sunt datele, cine are acces și ce se întâmplă dacă se scurg sau dacă renunț.",
+  "would_change_my_mind": "Un acord de prelucrare a datelor (GDPR) semnat, servere în UE și posibilitatea de a șterge totul la cerere. Aș merge și pe varianta fără concluzia apt/inapt, doar cu datele de scadență.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 120
+}

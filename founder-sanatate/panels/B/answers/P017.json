@@ -1,0 +1,13 @@
+{
+ "id": "P017",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "Cu 500-1.000 de angajați aș fi la 79 €/lună plus TVA, plus SMS-uri, și orice abonament nou trebuie să treacă de director, care întreabă de ce nu e inclus la furnizorul de medicina muncii. Pentru scadențe țin deja un Excel, deci nu simt încă o durere care să justifice o cheltuială nouă.",
+ "objection": "Ar trebui să primesc scadențarul de la furnizorul de medicina muncii, în prețul pe care îl plătesc deja. Nu vreau încă un abonament de aprobat și încă o listă de angajați de ținut la zi, cu turele și rotația mare de la noi.",
+ "would_change_my_mind": "Dacă furnizorul meu de medicina muncii l-ar include în contract, sau dacă aș avea o variantă gratuită ori foarte ieftină care importă singură lista din Excel și m-ar scuti de muncă de două ori.",
+ "price_too_cheap": 8,
+ "price_cheap": 20,
+ "price_expensive": 55,
+ "price_too_expensive": 90
+}

@@ -1,0 +1,63 @@
+{
+ "business": "A · Scadențar MM + portal angajator (cabinete MM independente) — anul 3",
+ "unit": "client-lună",
+ "price": 65,
+ "variable": [
+  {
+   "label": "API LLM (maparea importurilor)",
+   "cost": 2
+  },
+  {
+   "label": "Găzduire și stocare incrementală",
+   "cost": 1
+  },
+  {
+   "label": "E-mailuri tranzacționale",
+   "cost": 0.5
+  },
+  {
+   "label": "Comisioane de plată și facturare",
+   "cost": 0.5
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Găzduire UE (VM + backup + monitorizare)",
+   "cost": 45
+  },
+  {
+   "label": "Domeniu, e-mail tranzacțional, unelte",
+   "cost": 25
+  },
+  {
+   "label": "Asigurare RC profesională + cyber (600 €/an)",
+   "cost": 50
+  },
+  {
+   "label": "Contabilitate suplimentară",
+   "cost": 30
+  },
+  {
+   "label": "Deplasări de vânzare în Nord-Vest",
+   "cost": 80
+  }
+ ],
+ "startup": [],
+ "days_per_month": 1,
+ "capacity_per_day": 25,
+ "plan_per_day": 16,
+ "ramp_per_day": [
+  23,
+  24,
+  25,
+  25,
+  25,
+  25,
+  25,
+  25,
+  25,
+  25,
+  25,
+  25
+ ]
+}

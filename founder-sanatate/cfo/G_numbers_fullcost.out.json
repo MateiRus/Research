@@ -1,0 +1,145 @@
+{
+ "business": "G \u00b7 cost complet (timpul fondatorului inclus) \u2014 anul 1",
+ "unit": "client-lun\u0103",
+ "price": 89.0,
+ "variable_per_unit": 44.5,
+ "contribution": 44.5,
+ "contribution_pct": 0.5,
+ "fixed_monthly": 230.0,
+ "startup": 3900.0,
+ "plan_per_day": 12.0,
+ "margin_at_plan": 0.2846441947565543,
+ "breakeven_per_day": 5.168539325842697,
+ "capacity_per_day": 13,
+ "year1_revenue": 1780.0,
+ "year1_profit": -1870.0,
+ "year1_after_startup": -5770.0,
+ "payback_month": null,
+ "cash_needed": 5770.0,
+ "months": [
+  {
+   "month": 1,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -4130.0
+  },
+  {
+   "month": 2,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -4360.0
+  },
+  {
+   "month": 3,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -4590.0
+  },
+  {
+   "month": 4,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -4820.0
+  },
+  {
+   "month": 5,
+   "per_day": 1.0,
+   "units": 1.0,
+   "revenue": 89.0,
+   "variable": 44.5,
+   "fixed": 230.0,
+   "profit": -185.5,
+   "cumulative": -5005.5
+  },
+  {
+   "month": 6,
+   "per_day": 1.0,
+   "units": 1.0,
+   "revenue": 89.0,
+   "variable": 44.5,
+   "fixed": 230.0,
+   "profit": -185.5,
+   "cumulative": -5191.0
+  },
+  {
+   "month": 7,
+   "per_day": 2.0,
+   "units": 2.0,
+   "revenue": 178.0,
+   "variable": 89.0,
+   "fixed": 230.0,
+   "profit": -141.0,
+   "cumulative": -5332.0
+  },
+  {
+   "month": 8,
+   "per_day": 2.0,
+   "units": 2.0,
+   "revenue": 178.0,
+   "variable": 89.0,
+   "fixed": 230.0,
+   "profit": -141.0,
+   "cumulative": -5473.0
+  },
+  {
+   "month": 9,
+   "per_day": 3.0,
+   "units": 3.0,
+   "revenue": 267.0,
+   "variable": 133.5,
+   "fixed": 230.0,
+   "profit": -96.5,
+   "cumulative": -5569.5
+  },
+  {
+   "month": 10,
+   "per_day": 3.0,
+   "units": 3.0,
+   "revenue": 267.0,
+   "variable": 133.5,
+   "fixed": 230.0,
+   "profit": -96.5,
+   "cumulative": -5666.0
+  },
+  {
+   "month": 11,
+   "per_day": 4.0,
+   "units": 4.0,
+   "revenue": 356.0,
+   "variable": 178.0,
+   "fixed": 230.0,
+   "profit": -52.0,
+   "cumulative": -5718.0
+  },
+  {
+   "month": 12,
+   "per_day": 4.0,
+   "units": 4.0,
+   "revenue": 356.0,
+   "variable": 178.0,
+   "fixed": 230.0,
+   "profit": -52.0,
+   "cumulative": -5770.0
+  }
+ ],
+ "flags": [
+  "Year 1 loses money on operations (-$1,870).",
+  "The startup spend is not earned back within year 1."
+ ]
+}

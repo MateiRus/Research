@@ -1,0 +1,13 @@
+{
+ "id": "P005",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Furnizorul de medicina muncii ne anunță deja când expiră fișele și vine la sediu o dată pe trimestru, iar eu țin o listă în Excel. Nu văd de ce aș plăti 39 € pe lună pentru încă o aplicație, când ar trebui să fie inclusă în ce plătim deja furnizorului.",
+ "objection": "Fac deja asta cu Excel și cu furnizorul, iar încă o platformă înseamnă încă o parolă și încă o listă de întreținut. Nu am chef să încarc datele angajaților la un SRL pe care nu îl cunosc, nici să mă ocup de consimțământul pentru SMS-uri.",
+ "would_change_my_mind": "Dacă l-ar oferi gratuit sau inclus în contractul furnizorului meu de medicina muncii, sau dacă ar prelua singur lista și programările fără muncă de la mine.",
+ "price_too_cheap": 5,
+ "price_cheap": 15,
+ "price_expensive": 35,
+ "price_too_expensive": 60
+}

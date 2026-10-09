@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Prețul nu mă sperie, pentru 10.000 de angajați și 300 de clienți e mărunțiș. Dar să dau datele angajaților mei unui SRL din Oradea pe care nu-l cunosc, într-un portal cu marca mea, nu fac cu una cu două. Dacă pățește ceva, clienții mă văd pe mine, nu pe ei.",
+  "objection": "Cine răspunde dacă scapă ceva? Angajatorul nu are voie să vadă nimic medical, iar eu rămân cel care dă explicații la ADP și la client dacă portalul arată mai mult decât trebuie sau e spart. Mai e și munca de pus 300 de firme pe un portal nou, când acum merge cu Excel și cu asistenta care sună.",
+  "would_change_my_mind": "Un audit de securitate făcut de un terț, o poliță de asigurare care acoperă scurgerile de date și 2-3 cabinete de dimensiunea mea care îl folosesc deja de un an, pe care să le pot suna.",
+  "price_too_cheap": 30,
+  "price_cheap": 80,
+  "price_expensive": 250,
+  "price_too_expensive": 500
+}

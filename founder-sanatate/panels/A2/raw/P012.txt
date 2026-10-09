@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nu am timp de proiecte noi, iar datele angajaților clienților mei sunt responsabilitatea mea. Să le dau unui SRL mic pe care nu îl cunosc, doar ca să fac clienților o listă de scadențe, nu mi se pare o prioritate. Clienții mei nu mi-au cerut un portal, iar scadențele le urmărim deja cu asistenta.",
+  "objection": "Cine răspunde dacă ceva merge prost cu datele angajaților, iar asistenta mea ajunge să facă export și verificări în fiecare săptămână în plus, peste munca ei de acum?",
+  "would_change_my_mind": "Un client important care îl cere explicit, sau o referință de la un alt cabinet de medicina muncii din zonă care îl folosește deja, plus confirmarea scrisă că asistenta nu are nimic de făcut în plus după configurare.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 100,
+  "price_too_expensive": 200
+}

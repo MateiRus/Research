@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Mason",
+  "age": 45,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 29391000,
+  "behaviour": "Buget strâns",
+  "behaviour_how": "Orice abonament nou trebuie aprobat de director; preferă gratuitul.",
+  "objection": "Platforma noastră de HR/salarizare probabil face deja asta.",
+  "habit": "furnizorul de medicina muncii vine la sediu o dată pe trimestru"
+ },
+ {
+  "id": "P002",
+  "name": "Elle",
+  "age": 37,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 8164000,
+  "behaviour": "Excel-ul merge",
+  "behaviour_how": "Are un tabel cu scadențele fișelor și crede că e suficient.",
+  "objection": "Platforma noastră de HR/salarizare probabil face deja asta.",
+  "habit": "o dată pe an negociezi abonamentele medicale ale angajaților"
+ },
+ {
+  "id": "P003",
+  "name": "Dana",
+  "age": 36,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 25466000,
+  "behaviour": "Speriat de ITM",
+  "behaviour_how": "A avut recent un control ITM sau o amendă.",
+  "objection": "Nu vreau date medicale despre angajați în aplicații externe.",
+  "habit": "ai trei ture și oameni care pleacă și vin des"
+ },
+ {
+  "id": "P004",
+  "name": "Noah",
+  "age": 60,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 17302000,
+  "behaviour": "Totul într-o platformă",
+  "behaviour_how": "Folosește deja o platformă de HR/salarizare și vrea totul acolo.",
+  "objection": "Nu vreau date medicale despre angajați în aplicații externe.",
+  "habit": "ai trei ture și oameni care pleacă și vin des"
+ },
+ {
+  "id": "P005",
+  "name": "Ana",
+  "age": 36,
+  "segment": "HR sau administrator la un IMM din Bihor, 50-150 de angajați",
+  "income": 8268000,
+  "behaviour": "Gândește în beneficii",
+  "behaviour_how": "Se gândește la abonamente medicale și beneficii, nu la conformitate.",
+  "objection": "Ar trebui să fie inclus în ce plătim deja furnizorului de medicina muncii.",
+  "habit": "furnizorul de medicina muncii vine la sediu o dată pe trimestru"
+ },
+ {
+  "id": "P006",
+  "name": "Nadia",
+  "age": 60,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 21185000,
+  "behaviour": "Lasă furnizorul MM să urmărească",
+  "behaviour_how": "Furnizorul de medicina muncii îl anunță când expiră fișele.",
+  "objection": "Nu e o problemă reală: n-am luat niciodată amendă pentru asta.",
+  "habit": "ai trei ture și oameni care pleacă și vin des"
+ },
+ {
+  "id": "P007",
+  "name": "Isla",
+  "age": 52,
+  "segment": "HR sau administrator la un IMM din Bihor, 50-150 de angajați",
+  "income": 2113000,
+  "behaviour": "Excel-ul merge",
+  "behaviour_how": "Are un tabel cu scadențele fișelor și crede că e suficient.",
+  "objection": "Avem Excel și furnizorul de medicina muncii ne anunță.",
+  "habit": "o dată pe an negociezi abonamentele medicale ale angajaților"
+ },
+ {
+  "id": "P008",
+  "name": "Tariq",
+  "age": 32,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 9644000,
+  "behaviour": "Excel-ul merge",
+  "behaviour_how": "Are un tabel cu scadențele fișelor și crede că e suficient.",
+  "objection": "Încă un abonament și încă o parolă pentru oamenii mei.",
+  "habit": "furnizorul de medicina muncii vine la sediu o dată pe trimestru"
+ },
+ {
+  "id": "P009",
+  "name": "Caleb",
+  "age": 29,
+  "segment": "Manager de beneficii la un angajator cu mai multe locații, 500-1.000 de angajați",
+  "income": 32302000,
+  "behaviour": "Lasă furnizorul MM să urmărească",
+  "behaviour_how": "Furnizorul de medicina muncii îl anunță când expiră fișele.",
+  "objection": "Nu vreau date medicale despre angajați în aplicații externe.",
+  "habit": "furnizorul de medicina muncii vine la sediu o dată pe trimestru"
+ },
+ {
+  "id": "P010",
+  "name": "Freya",
+  "age": 47,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 22404000,
+  "behaviour": "Gândește în beneficii",
+  "behaviour_how": "Se gândește la abonamente medicale și beneficii, nu la conformitate.",
+  "objection": "Avem Excel și furnizorul de medicina muncii ne anunță.",
+  "habit": "o dată pe an negociezi abonamentele medicale ale angajaților"
+ },
+ {
+  "id": "P011",
+  "name": "Sara",
+  "age": 57,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 26292000,
+  "behaviour": "Lasă furnizorul MM să urmărească",
+  "behaviour_how": "Furnizorul de medicina muncii îl anunță când expiră fișele.",
+  "objection": "Nu e o problemă reală: n-am luat niciodată amendă pentru asta.",
+  "habit": "ai trei ture și oameni care pleacă și vin des"
+ },
+ {
+  "id": "P012",
+  "name": "Aria",
+  "age": 41,
+  "segment": "HR sau administrator la un IMM din Bihor, 50-150 de angajați",
+  "income": 5469000,
+  "behaviour": "Totul într-o platformă",
+  "behaviour_how": "Folosește deja o platformă de HR/salarizare și vrea totul acolo.",
+  "objection": "Încă un abonament și încă o parolă pentru oamenii mei.",
+  "habit": "o dată pe an negociezi abonamentele medicale ale angajaților"
+ },
+ {
+  "id": "P013",
+  "name": "Jordan",
+  "age": 42,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 29712000,
+  "behaviour": "Lasă furnizorul MM să urmărească",
+  "behaviour_how": "Furnizorul de medicina muncii îl anunță când expiră fișele.",
+  "objection": "Avem Excel și furnizorul de medicina muncii ne anunță.",
+  "habit": "o dată pe an negociezi abonamentele medicale ale angajaților"
+ },
+ {
+  "id": "P014",
+  "name": "Rafael",
+  "age": 30,
+  "segment": "HR sau administrator la un IMM din Bihor, 50-150 de angajați",
+  "income": 3564000,
+  "behaviour": "Speriat de ITM",
+  "behaviour_how": "A avut recent un control ITM sau o amendă.",
+  "objection": "Nu e o problemă reală: n-am luat niciodată amendă pentru asta.",
+  "habit": "jumătate din zi o petreci cu pontajul și salarizarea"
+ },
+ {
+  "id": "P015",
+  "name": "Liam",
+  "age": 31,
+  "segment": "HR sau administrator la un IMM din Bihor, 50-150 de angajați",
+  "income": 5615000,
+  "behaviour": "Buget strâns",
+  "behaviour_how": "Orice abonament nou trebuie aprobat de director; preferă gratuitul.",
+  "objection": "Platforma noastră de HR/salarizare probabil face deja asta.",
+  "habit": "ai trei ture și oameni care pleacă și vin des"
+ },
+ {
+  "id": "P016",
+  "name": "Sofia",
+  "age": 58,
+  "segment": "Manager de beneficii la un angajator cu mai multe locații, 500-1.000 de angajați",
+  "income": 93985000,
+  "behaviour": "Excel-ul merge",
+  "behaviour_how": "Are un tabel cu scadențele fișelor și crede că e suficient.",
+  "objection": "Avem Excel și furnizorul de medicina muncii ne anunță.",
+  "habit": "ai trei ture și oameni care pleacă și vin des"
+ },
+ {
+  "id": "P017",
+  "name": "Poppy",
+  "age": 41,
+  "segment": "Manager de beneficii la un angajator cu mai multe locații, 500-1.000 de angajați",
+  "income": 100687000,
+  "behaviour": "Buget strâns",
+  "behaviour_how": "Orice abonament nou trebuie aprobat de director; preferă gratuitul.",
+  "objection": "Ar trebui să fie inclus în ce plătim deja furnizorului de medicina muncii.",
+  "habit": "ai trei ture și oameni care pleacă și vin des"
+ },
+ {
+  "id": "P018",
+  "name": "Yara",
+  "age": 38,
+  "segment": "Manager de beneficii la un angajator cu mai multe locații, 500-1.000 de angajați",
+  "income": 89510000,
+  "behaviour": "Prudent GDPR",
+  "behaviour_how": "Se teme de orice date medicale despre angajați.",
+  "objection": "Nu e o problemă reală: n-am luat niciodată amendă pentru asta.",
+  "habit": "o dată pe an negociezi abonamentele medicale ale angajaților"
+ },
+ {
+  "id": "P019",
+  "name": "Lena",
+  "age": 45,
+  "segment": "HR sau administrator la un IMM din Bihor, 50-150 de angajați",
+  "income": 5403000,
+  "behaviour": "Speriat de ITM",
+  "behaviour_how": "A avut recent un control ITM sau o amendă.",
+  "objection": "Nu vreau date medicale despre angajați în aplicații externe.",
+  "habit": "jumătate din zi o petreci cu pontajul și salarizarea"
+ },
+ {
+  "id": "P020",
+  "name": "Pablo",
+  "age": 52,
+  "segment": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+  "income": 17757000,
+  "behaviour": "Excel-ul merge",
+  "behaviour_how": "Are un tabel cu scadențele fișelor și crede că e suficient.",
+  "objection": "Încă un abonament și încă o parolă pentru oamenii mei.",
+  "habit": "ai trei ture și oameni care pleacă și vin des"
+ }
+]

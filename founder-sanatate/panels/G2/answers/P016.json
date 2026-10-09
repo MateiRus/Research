@@ -1,0 +1,13 @@
+{
+ "id": "P016",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "La cabinet am contract CNAS cu listă fixă și plata pe capitație, deci câteva programări în plus nu îmi aduc bani în plus. Programul meu trimite deja SMS de reminder și nu mi-am propus să fac o listă separată de controale pierdute.",
+ "objection": "Nu văd de unde îmi revine banul. 69 € pe lună plus TVA pentru o listă pe care asistenta o poate scoate și din programul actual, plus bătaia de cap cu un export de date de la un SRL pe care nu îl cunosc.",
+ "would_change_my_mind": "Dacă programul meu actual ar avea deja funcția asta și mi-ar fi arătat un audit gratuit cu zeci de pacienți cronici reali pierduți, pentru un preț de 20-25 € pe lună.",
+ "price_too_cheap": 10,
+ "price_cheap": 20,
+ "price_expensive": 45,
+ "price_too_expensive": 80
+}

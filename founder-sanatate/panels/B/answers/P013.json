@@ -1,0 +1,13 @@
+{
+ "id": "P013",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Avem Excel, iar furnizorul de medicina muncii ne anunță când expiră fișele, așa că nu simt că am o problemă de rezolvat. Nu vreau încă o aplicație de ținut la zi și încă o plată lunară pentru ceva ce se face deja gratis.",
+ "objection": "Plătesc 39 €/lună pentru ceva ce îmi spune deja furnizorul. În plus, ar trebui să încarc și să actualizez datele angajaților, adică muncă în plus pentru mine, plus grija cu GDPR și consimțământul pentru SMS-uri.",
+ "would_change_my_mind": "Dacă am avea un control ITM cu amenzi pentru fișe expirate sau schimbăm furnizorul și acesta nu ne mai anunță, aș reconsidera. Ar conta și ca aplicația să preia singură datele de la furnizor, fără încărcat Excel manual.",
+ "price_too_cheap": 9,
+ "price_cheap": 19,
+ "price_expensive": 39,
+ "price_too_expensive": 69
+}

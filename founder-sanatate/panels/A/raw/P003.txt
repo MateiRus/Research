@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Nu văd ce câștig concret: nu-mi aduce clienți noi, doar mai multă muncă cu importuri și remindere. Scadențele le țin deja sub control, iar 59 € pe lună plus SMS-uri înseamnă un abonament în plus, într-un business unde concurez pe preț.",
+  "objection": "Nu-mi aduce bani imediat. Plătesc lunar pentru ceva ce angajatorii nu au cerut și nu l-ar plăti, iar eu rămân cu încă o aplicație de ținut la zi.",
+  "would_change_my_mind": "Dacă aș vedea că angajatorii mari îl cer sau că mă ajută să țin sau să câștig contracte la renegocierea anuală, iar prețul ar fi în jur de 30-35 € pe lună, cu SMS-urile incluse.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

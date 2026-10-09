@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Nu văd ce câștig concret: clienții mei sunt IMM-uri locale care sunt mulțumite cu lista de scadențe pe care le-o trimit eu. Nu pierd contracte pentru că n-am portal, iar un abonament care nu aduce bani imediat îl tai oricum la prima revizuire de costuri.",
+  "objection": "E încă un abonament și încă o treabă de ținut la zi, iar clienții nu mi-l cer și nu plătesc în plus pentru el. Mai mult, pun datele angajaților mei pe serverul unui SRL pe care nu-l cunosc, și dacă se întâmplă ceva, răspund eu în fața angajatorului.",
+  "would_change_my_mind": "Dacă doi-trei angajatori mari mi-ar spune în scris că mă aleg sau mă păstrez la renegociere pentru că am portal, sau dacă l-ar plăti ei direct, fără cost pentru mine.",
+  "price_too_cheap": 8,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}

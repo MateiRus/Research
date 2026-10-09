@@ -8,8 +8,9 @@ platforme terțe) 5 înseamnă „puțin / ușor / mic”.
 
 Scor total = suma(pondere x scor) / 5, deci pe o scară 0-100 (20 = totul 1, 100 = totul 5).
 
-Notele (scorurile) sunt estimările mele, sprijinite pe notele de cercetare; justificarea
-pe scurt e în câmpul `de_ce` și, pe larg, în analiza_founder.md.
+Notele (scorurile) sunt estimările mele, sprijinite pe notele de cercetare. Justificarea
+ponderilor și a notelor-cheie e în analiza_founder.md, secțiunile A și B (motivul fiecărui
+flag e în câmpul de după flag).
 
     python3 -I scoring.py            # scrie scoring.csv, scoring_table.md, sensitivity.md
 """
@@ -128,6 +129,29 @@ OPP = [
     ("V", "F4 fundături", "Scor de risc individual în fluxul medicului (SCORE2/FINDRISC) sau model propriu",
      [2, 2, 2, 2, 3, 3, 2, 1, 1, 2, 2, 1, 3, 2, 2, 3, 5], "X",
      "V: MDSW clasa IIa, fără excepție CDS în UE; validare clinică inaccesibilă"),
+    # --- adăugate la reluare (9 oct 2026): restul oportunităților din analiza laterală, ca tabelul să le acopere pe toate
+    #     (O24 nu e notat: e unealtă de vânzare, nu afacere; O18 apare și ca modul în E)
+    ("W", "O6", "Check-in administrativ după chirurgia de zi (oftalmologie, ortopedie)",
+     [2, 2, 3, 2, 3, 3, 3, 2, 3, 3, 3, 4, 3, 2, 3, 3, 3], "W",
+     "R: la granița triajului; răspundere pentru semnale ratate (PLD din 9.12.2026)"),
+    ("Y", "O13", "Platformă de operare pentru programe de prevenție a diabetului (tip DPP), plătite de angajatori",
+     [2, 1, 3, 1, 3, 4, 3, 3, 2, 3, 3, 4, 4, 1, 3, 3, 4], "X",
+     "P: niciun program sau plătitor DPP găsit în România"),
+    ("Z", "O18", "Dispecerat de capacitate pentru campanii de invitații (endoscopie, imagistică), ca produs separat",
+     [2, 2, 3, 2, 3, 4, 3, 5, 4, 4, 4, 5, 3, 2, 3, 3, 3], "W",
+     "volum: campaniile sunt rare; merge mai bine ca modul (în E sau G)"),
+    ("AA", "O20", "Monitor local de performanță pentru AI marcat CE (imagistică, screening)",
+     [1, 2, 4, 1, 4, 3, 1, 4, 2, 3, 3, 4, 4, 1, 4, 3, 4], "X",
+     "D/P: niciun utilizator român de AI marcat CE găsit; fără acces la radiologie; obligațiile Art. 26 abia din 2028"),
+    ("AB", "O22", "Jurnal de evenimente și escaladare pentru cămine și îngrijire la domiciliu",
+     [2, 1, 3, 2, 2, 5, 4, 4, 4, 4, 4, 5, 4, 2, 2, 4, 2], "W",
+     "piață: căminele din Bihor neverificate; bugete mici, piață fragmentată"),
+    ("AC", "O23", "Predarea la pensionare: ultimul examen MM → medicul de familie",
+     [1, 1, 4, 2, 2, 5, 3, 4, 3, 4, 4, 5, 2, 1, 3, 4, 3], "X",
+     "P: niciun plătitor identificat"),
+    ("AD", "O26", "Coordonator pentru părinții din România ai familiilor din diaspora (B2C)",
+     [2, 2, 3, 3, 3, 4, 2, 4, 3, 1, 4, 4, 4, 1, 3, 3, 2], "W",
+     "P/S: B2C (consumatorii plătesc doar ca „membri captivi”); serviciu cu om, nu scalează solo"),
 ]
 
 
@@ -168,13 +192,13 @@ def main():
             w.writerow(r)
 
     flagtxt = {"": "—", "W": "⚠", "X": "⛔"}
-    L = ["| Loc | Cod | Oportunitate | " + " | ".join(ORDER) + " | **Scor /100** | Flag | Motivul flagului |",
-         "|---:|---|---|" + "---:|" * len(ORDER) + "---:|---|---|",
-         "| | | **Pondere** | " + " | ".join(str(base[c]) for c in ORDER) + " | 100 | | |"]
+    L = ["| Loc | Cod | Origine | Oportunitate | " + " | ".join(ORDER) + " | **Scor /100** | Flag | Motivul flagului |",
+         "|---:|---|---|---|" + "---:|" * len(ORDER) + "---:|---|---|",
+         "| | | | **Pondere** | " + " | ".join(str(base[c]) for c in ORDER) + " | 100 | | |"]
     for r in rows:
         loc = str(r.get("loc_eligibil", "")) if r["flag"] != "X" else "excl."
-        L.append("| %s | %s | %s | %s | **%.1f** | %s | %s |" % (
-            loc, r["cod"], r["oportunitate"], " | ".join(str(r[c]) for c in ORDER),
+        L.append("| %s | %s | %s | %s | %s | **%.1f** | %s | %s |" % (
+            loc, r["cod"], r["origine"], r["oportunitate"], " | ".join(str(r[c]) for c in ORDER),
             r["scor"], flagtxt[r["flag"]], r["motiv_flag"] or "—"))
     with open(os.path.join(HERE, "scoring_table.md"), "w", encoding="utf-8") as fh:
         fh.write("\n".join(L) + "\n")

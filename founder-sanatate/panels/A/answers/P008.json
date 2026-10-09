@@ -1,0 +1,13 @@
+{
+ "id": "P008",
+ "buys": true,
+ "purchases_first_month": 1,
+ "reason_code": "need",
+ "reason": "Scadențele le țin în Excel și pe hârtie, iar asistenta sună angajatorii când își amintește, deci pierd controale de reînnoire. Pentru 59 € pe lună, cu import făcut de ei și fără contract, merită încercat o lună.",
+ "objection": "Angajatorul nu are voie să vadă nimic medical. Dacă portalul arată ceva ce nu trebuie sau datele scapă, eu răspund în fața clientului și a ANSPDCP, nu firma din Oradea. Mă mai îngrijorează și consimțământul angajaților pentru SMS, pe care nu-l am strâns acum.",
+ "would_change_my_mind": "Să văd portalul pe date de test, ca să mă conving că angajatorul vede doar „apt / apt condiționat / expirat”, fără nimic medical. Plus un contract de împuternicit clar, care spune cine răspunde la o scurgere de date.",
+ "price_too_cheap": 15,
+ "price_cheap": 35,
+ "price_expensive": 90,
+ "price_too_expensive": 150
+}

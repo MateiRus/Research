@@ -1,0 +1,142 @@
+{
+ "business": "A \u00b7 Scaden\u021bar MM + portal angajator (cabinete MM independente) \u2014 anul 2",
+ "unit": "client-lun\u0103",
+ "price": 65.0,
+ "variable_per_unit": 4.0,
+ "contribution": 61.0,
+ "contribution_pct": 0.9384615384615385,
+ "fixed_monthly": 230.0,
+ "startup": 0.0,
+ "plan_per_day": 16.0,
+ "margin_at_plan": 0.7173076923076923,
+ "breakeven_per_day": 3.7704918032786887,
+ "capacity_per_day": 25,
+ "year1_revenue": 12870.0,
+ "year1_profit": 9318.0,
+ "year1_after_startup": 9318.0,
+ "payback_month": 1,
+ "cash_needed": 0.0,
+ "months": [
+  {
+   "month": 1,
+   "per_day": 11.0,
+   "units": 11.0,
+   "revenue": 715.0,
+   "variable": 44.0,
+   "fixed": 230.0,
+   "profit": 441.0,
+   "cumulative": 441.0
+  },
+  {
+   "month": 2,
+   "per_day": 12.0,
+   "units": 12.0,
+   "revenue": 780.0,
+   "variable": 48.0,
+   "fixed": 230.0,
+   "profit": 502.0,
+   "cumulative": 943.0
+  },
+  {
+   "month": 3,
+   "per_day": 13.0,
+   "units": 13.0,
+   "revenue": 845.0,
+   "variable": 52.0,
+   "fixed": 230.0,
+   "profit": 563.0,
+   "cumulative": 1506.0
+  },
+  {
+   "month": 4,
+   "per_day": 14.0,
+   "units": 14.0,
+   "revenue": 910.0,
+   "variable": 56.0,
+   "fixed": 230.0,
+   "profit": 624.0,
+   "cumulative": 2130.0
+  },
+  {
+   "month": 5,
+   "per_day": 15.0,
+   "units": 15.0,
+   "revenue": 975.0,
+   "variable": 60.0,
+   "fixed": 230.0,
+   "profit": 685.0,
+   "cumulative": 2815.0
+  },
+  {
+   "month": 6,
+   "per_day": 16.0,
+   "units": 16.0,
+   "revenue": 1040.0,
+   "variable": 64.0,
+   "fixed": 230.0,
+   "profit": 746.0,
+   "cumulative": 3561.0
+  },
+  {
+   "month": 7,
+   "per_day": 17.0,
+   "units": 17.0,
+   "revenue": 1105.0,
+   "variable": 68.0,
+   "fixed": 230.0,
+   "profit": 807.0,
+   "cumulative": 4368.0
+  },
+  {
+   "month": 8,
+   "per_day": 18.0,
+   "units": 18.0,
+   "revenue": 1170.0,
+   "variable": 72.0,
+   "fixed": 230.0,
+   "profit": 868.0,
+   "cumulative": 5236.0
+  },
+  {
+   "month": 9,
+   "per_day": 19.0,
+   "units": 19.0,
+   "revenue": 1235.0,
+   "variable": 76.0,
+   "fixed": 230.0,
+   "profit": 929.0,
+   "cumulative": 6165.0
+  },
+  {
+   "month": 10,
+   "per_day": 20.0,
+   "units": 20.0,
+   "revenue": 1300.0,
+   "variable": 80.0,
+   "fixed": 230.0,
+   "profit": 990.0,
+   "cumulative": 7155.0
+  },
+  {
+   "month": 11,
+   "per_day": 21.0,
+   "units": 21.0,
+   "revenue": 1365.0,
+   "variable": 84.0,
+   "fixed": 230.0,
+   "profit": 1051.0,
+   "cumulative": 8206.0
+  },
+  {
+   "month": 12,
+   "per_day": 22.0,
+   "units": 22.0,
+   "revenue": 1430.0,
+   "variable": 88.0,
+   "fixed": 230.0,
+   "profit": 1112.0,
+   "cumulative": 9318.0
+  }
+ ],
+ "flags": []
+}

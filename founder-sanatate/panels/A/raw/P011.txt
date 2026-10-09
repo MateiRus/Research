@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Lucrez de ani în Excel și pe hârtie, iar asistenta sună angajatorii; merge cum merge, dar merge. Nu am chef să mut datele angajaților clienților mei la un SRL pe care nu îl cunosc și să învăț încă un program.",
+  "objection": "Datele sunt la mine în Excel, nu sunt curate, și nu am timp să stau să verific ce a importat altcineva. Dacă greșește o scadență sau trimite un SMS unui angajat care nu era în regulă, răspund eu față de client, nu ei.",
+  "would_change_my_mind": "Să văd la un alt cabinet din zonă, cu care pot vorbi, că funcționează de câteva luni, și să-mi facă importul pe datele mele reale în perioada gratuită, ca să văd rezultatul înainte să decid.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 80,
+  "price_too_expensive": 130
+}

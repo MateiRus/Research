@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Programul nostru trimite deja SMS-uri de reminder și nu am o problemă mare cu controalele pierdute, laboratorul nostru nu e clinică de cronici. Nu am chef să leg încă un furnizor de datele pacienților.",
+  "objection": "Mi-e teamă de GDPR: dacă un export din programul meu ajunge la un SRL extern și ceva scapă, răspund eu în fața autorității, nu ei. Plus că 69 € pe fiecare punct de recoltare se adună, iar eu am deja un program care face recall.",
+  "would_change_my_mind": "Dacă producătorul programului meu ar include lista asta ca funcție în programul actual, fără export către terți, sau dacă auditul gratuit ar arăta zeci de controale pierdute pe lună, la mine, în cifre clare.",
+  "price_too_cheap": 15,
+  "price_cheap": 29,
+  "price_expensive": 69,
+  "price_too_expensive": 120
+}

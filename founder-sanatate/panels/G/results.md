@@ -1,0 +1,66 @@
+# Buyer panel: G · Bucle deschise: listă de lucru pentru controale scadente, rezultate anormale fără programare și trimiteri neînchise
+
+**0 buy · 20 pass** (0% buy) out of 20 simulated buyers. Seed 2026, so the same cards can be dealt again.
+
+These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
+
+## By segment
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici | 9 | 0% |
+| Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți | 7 | 0%  (thin) |
+| Laborator independent de analize medicale, cu contract CAS și 2-6 puncte de recoltare proprii | 4 | 0%  (thin) |
+
+## By buying behaviour
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Prudent cu datele | 3 | 0%  (thin) |
+| Mulțumit de programul de cabinet | 4 | 0%  (thin) |
+| Copleșit de CNAS | 3 | 0%  (thin) |
+| Interesat de calitate | 2 | 0%  (thin) |
+| Orientat pe venit | 3 | 0%  (thin) |
+| Asistenta sună | 4 | 0%  (thin) |
+| Sceptic față de startup-uri | 1 | 0%  (thin) |
+
+## By income
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| $890,000 and up | 7 | 0%  (thin) |
+| $173,000 to $890,000 | 7 | 0%  (thin) |
+| under $173,000 | 6 | 0%  (thin) |
+
+## Why they pass
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+| trust | 7 | "Nu-mi permit să dau date de pacienți diabetici și cardiaci unui SRL necunoscut și să le trimit mesaje pe numele clinicii, cu riscul unei amenzi GDPR. În plus, exportul zilnic din programul nostru e deja o problemă, nimeni nu știe să-l facă." (P001) · "Programul meu trimite deja SMS de reminder și nu am consimțământ de la pacienții vechi, iar după amenzile GDPR din presă nu risc să contactez oameni fără acord. Nu văd de ce aș plăti 129 € pe lună pentru ceva ce asistentele pot face din lista programului." (P002) |
+| need | 6 | "Programul nostru trimite deja SMS-uri de reamintire, iar eu cu o asistentă ținem evidența controalelor la pacienții cronici. 129 € pe lună, adică aproape 1.550 € pe an, e mult pentru un cabinet cu contract CNAS și o listă de 2.000 de pacienți." (P005) · "Programul nostru trimite deja SMS-uri de reminder și sunt mulțumită de el. Laboratorul nu are control scadent de programat, iar rezultatele în afara intervalului merg la medicul trimițător, nu la noi." (P007) |
+| price | 3 | "La medicina de familie cu contract CNAS banii vin mai ales din capitație, deci câteva programări în plus nu îmi aduc destul cât să justifice 129 de euro pe lună. Controalele scadente le țin deja în evidență cu asistenta, iar de laborator primesc PDF-uri pe e-mail." (P014) · "129 de euro pe lună pentru câteva programări în plus nu se justifică la cabinetul meu. Programul pe care îl am trimite deja SMS-uri de reminder, iar rezultatele de la laboratoare le primesc pe e-mail și le văd singură." (P016) |
+| convenience | 2 | "Ideea de a recupera controalele neprogramate îmi place, dar exportul zilnic din programul nostru e o problemă și nimeni de la noi nu știe să-l facă. Nu plătesc pentru ceva care îmi mai adaugă o sarcină asistentelor." (P006) · "Prețul nu e problema, 129 € pe lună nu mă sperie. Dar totul pornește de la un export zilnic din programul nostru, iar la noi nimeni nu știe să-l facă. Dacă nu merge singur, rămâne încă o listă pe care asistentele n-au timp s-o sune." (P011) |
+| timing | 1 | "Programul nostru trimite deja SMS-uri, iar eu sunt înecat în raportări CNAS și e-SănătateaMea. Nu mai iau un proiect nou, cu exporturi zilnice și încă un furnizor care îmi atinge datele pacienților." (P004) |
+| values | 1 | "Pacientul e responsabil să revină, iar asistentele mele au deja destule de făcut fără încă o listă de sunat. Îmi place ideea de prevenție, dar nu simt că am o problemă pentru care să plătesc lunar." (P010) |
+
+## Why they buy
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+
+## What would flip a no
+
+- Un acord de prelucrare a datelor (DPA) clar, cu date găzduite în UE, referințe de la 2-3 clinici cu contract CAS din Oradea sau Cluj și integrare cu programul nostru, fără export manual, instalată de ei.
+- Dovada că firma nu primește date de sănătate identificabile sau are un contract de prelucrare clar, plus un audit gratuit care arată concret câți dintre pacienții mei au deja consimțământ valid și câte consultații s-ar recupera.
+- Un contract de prelucrare a datelor (DPA) semnat, date găzduite în UE, un audit făcut pe date anonimizate sau pseudonimizate, o clauză clară că responsabilitatea medicală rămâne la clinică, plus referințe de la alte două clinici din Cluj sau Oradea cu contract CAS.
+- Dacă furnizorul producătorului programului nostru l-ar integra direct, fără export manual, cu acord GDPR clar și DPA semnat, și dacă auditul gratuit ar arăta zeci de pacienți pierduți, nu doar câțiva.
+- Dacă s-ar integra direct cu programul meu, fără export manual, ar costea sub 50 € pe lună și ar avea un acord de prelucrare a datelor clar, verificat de un jurist.
+- Să-mi arate pe datele noastre, fără ca eu să fac nimic, un număr concret de pacienți pierduți, și să se conecteze singuri la programul nostru, cu un contract clar de prelucrare a datelor.
+- Dacă s-ar integra direct în programul meu, fără export manual, cu acord de prelucrare a datelor (DPA) clar, date găzduite în UE și dovada că prinde bucle reale la laboratorul meu în auditul gratuit.
+- Un aviz scris de la un jurist sau de la DPO că mesajele neutre sunt în regulă, plus mesaje aprobate de medicul clinicii înainte să plece. Aș mai vrea referințe de la 2-3 clinici cu contract CAS din Cluj sau Timișoara și un audit care să-mi arate pe datele mele, fără pacienți identificabili, câte controale scadente au rămas neprogramate.
+- Un contract clar de prelucrare a datelor (GDPR), mesaje aprobate de mine care nu pomenesc rezultate, și referințe de la alte cabinete de familie din Oradea sau Cluj care l-au folosit. Prețul ar trebui să fie și sub 50 € pe lună.
+- Dacă auditul gratuit pe ultimele 6 luni mi-ar arăta un număr mare de pacienți cronici cu control scadent, neprogramați, iar integrarea ar merge cu programul meu fără efort din partea personalului și cu un acord clar de prelucrare a datelor.
+- Să se conecteze ei direct la programul nostru sau să-mi facă ei exportul o dată, să meargă automat, fără ca eu sau asistentele să facem ceva. Plus un acord GDPR clar și un audit gratuit care să-mi arate pe datele noastre câți pacienți chiar nu au revenit.
+- Să se conecteze ei singuri la programul nostru, fără ca eu sau asistentele să facem vreun export, și să fie utilă pentru un laborator, nu doar pentru clinici cu consultații.
+
+20 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.

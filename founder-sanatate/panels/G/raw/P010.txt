@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Pacientul e responsabil să revină, iar asistentele mele au deja destule de făcut fără încă o listă de sunat. Îmi place ideea de prevenție, dar nu simt că am o problemă pentru care să plătesc lunar.",
+  "objection": "Nu știu cât timp în plus înseamnă pentru asistente, dacă exportul din programul meu merge fără bătăi de cap și cum stau cu datele pacienților (GDPR, consimțăminte) la un SRL din afară. Nu vreau să trimit pacienții pe un link străin în numele clinicii.",
+  "would_change_my_mind": "Dacă auditul gratuit pe ultimele 6 luni mi-ar arăta un număr mare de pacienți cronici cu control scadent, neprogramați, iar integrarea ar merge cu programul meu fără efort din partea personalului și cu un acord clar de prelucrare a datelor.",
+  "price_too_cheap": 30,
+  "price_cheap": 70,
+  "price_expensive": 150,
+  "price_too_expensive": 280
+}

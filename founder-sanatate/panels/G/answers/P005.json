@@ -1,0 +1,13 @@
+{
+ "id": "P005",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "Programul nostru trimite deja SMS-uri de reamintire, iar eu cu o asistentă ținem evidența controalelor la pacienții cronici. 129 € pe lună, adică aproape 1.550 € pe an, e mult pentru un cabinet cu contract CNAS și o listă de 2.000 de pacienți.",
+ "objection": "Nu vreau încă un instrument în care să export zilnic CSV și să mă ocup de el, plus încă un furnizor care primește date de sănătate ale pacienților. După amenzile GDPR din presă, mă tem de riscul legat de consimțământ și de datele trimise unui SRL pe care nu îl cunosc.",
+ "would_change_my_mind": "Dacă s-ar integra direct cu programul meu, fără export manual, ar costea sub 50 € pe lună și ar avea un acord de prelucrare a datelor clar, verificat de un jurist.",
+ "price_too_cheap": 15,
+ "price_cheap": 30,
+ "price_expensive": 70,
+ "price_too_expensive": 120
+}

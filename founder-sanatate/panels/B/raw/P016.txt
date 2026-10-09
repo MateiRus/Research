@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Am un Excel cu scadențele fișelor și furnizorul de medicina muncii mă anunță oricum. Nu simt că am o problemă care să justifice încă o aplicație și 79 € pe lună.",
+  "objection": "Cu trei ture și oameni care vin și pleacă, mi-e teamă că ar trebui să încarc și să actualizez lista în două locuri, deci muncă în plus față de Excel. Nu văd ce rezolvă ce nu rezolv deja. Mă mai îngrijorează să dau datele angajaților unui SRL necunoscut și să le cer consimțământul pentru SMS-uri.",
+  "would_change_my_mind": "Dacă s-ar sincroniza direct cu lista de personal din HR/pontaj, fără reintroducere manuală, și dacă ar prinde automat angajații noi și pe cei care pleacă. Aș vrea și o referință de la un angajator cunoscut din Bihor.",
+  "price_too_cheap": 9,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

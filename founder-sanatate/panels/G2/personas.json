@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Mason",
+  "age": 59,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 1229000,
+  "behaviour": "Prudent cu datele",
+  "behaviour_how": "Se teme de amenzi GDPR și de orice mesaj către pacient care poate fi înțeles greșit.",
+  "objection": "Exportul din programul nostru e o problemă; nimeni nu știe să-l facă.",
+  "habit": "o dată pe lună te chinui cu raportarea CNAS"
+ },
+ {
+  "id": "P002",
+  "name": "Elle",
+  "age": 39,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 309000,
+  "behaviour": "Mulțumit de programul de cabinet",
+  "behaviour_how": "Programul actual trimite deja SMS de reminder pentru programări.",
+  "objection": "Nu am consimțământ pentru SMS de la pacienții vechi.",
+  "habit": "ai văzut în presă amenzi GDPR pentru rezultate trimise pe WhatsApp"
+ },
+ {
+  "id": "P003",
+  "name": "Dana",
+  "age": 53,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 1608000,
+  "behaviour": "Prudent cu datele",
+  "behaviour_how": "Se teme de amenzi GDPR și de orice mesaj către pacient care poate fi înțeles greșit.",
+  "objection": "Cine e de vină dacă sistemul nu trimite un mesaj și pacientul pățește ceva?",
+  "habit": "pacienții te sună pe telefonul personal"
+ },
+ {
+  "id": "P004",
+  "name": "Noah",
+  "age": 57,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 1525000,
+  "behaviour": "Copleșit de CNAS",
+  "behaviour_how": "Timpul lui merge pe raportări CNAS, e-SănătateaMea și hârtii; orice proiect nou e o povară.",
+  "objection": "Programul nostru trimite deja SMS-uri.",
+  "habit": "ai văzut în presă amenzi GDPR pentru rezultate trimise pe WhatsApp"
+ },
+ {
+  "id": "P005",
+  "name": "Ana",
+  "age": 42,
+  "segment": "Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți",
+  "income": 126000,
+  "behaviour": "Interesat de calitate",
+  "behaviour_how": "Vrea să arate pacienților că are grijă de ei și citește despre prevenție.",
+  "objection": "Programul nostru trimite deja SMS-uri.",
+  "habit": "ai văzut în presă amenzi GDPR pentru rezultate trimise pe WhatsApp"
+ },
+ {
+  "id": "P006",
+  "name": "Nadia",
+  "age": 63,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 1477000,
+  "behaviour": "Orientat pe venit",
+  "behaviour_how": "Cumpără doar ce arată clar consultații sau analize în plus.",
+  "objection": "Exportul din programul nostru e o problemă; nimeni nu știe să-l facă.",
+  "habit": "dimineața verifici lista de programări și rezultatele sosite peste noapte"
+ },
+ {
+  "id": "P007",
+  "name": "Isla",
+  "age": 48,
+  "segment": "Laborator independent de analize medicale, cu contract CAS și 2-6 puncte de recoltare proprii",
+  "income": 869000,
+  "behaviour": "Mulțumit de programul de cabinet",
+  "behaviour_how": "Programul actual trimite deja SMS de reminder pentru programări.",
+  "objection": "Programul nostru trimite deja SMS-uri.",
+  "habit": "ai văzut în presă amenzi GDPR pentru rezultate trimise pe WhatsApp"
+ },
+ {
+  "id": "P008",
+  "name": "Tariq",
+  "age": 44,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 1163000,
+  "behaviour": "Asistenta sună",
+  "behaviour_how": "Asistentele sună pacienții când au timp; nimeni nu măsoară cine a revenit.",
+  "objection": "Nu vreau ca un mesaj despre un rezultat anormal să sperie pacientul sau să mă facă răspunzător.",
+  "habit": "lucrezi cu două-trei laboratoare și primești PDF-uri pe e-mail"
+ },
+ {
+  "id": "P009",
+  "name": "Caleb",
+  "age": 51,
+  "segment": "Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți",
+  "income": 173000,
+  "behaviour": "Asistenta sună",
+  "behaviour_how": "Asistentele sună pacienții când au timp; nimeni nu măsoară cine a revenit.",
+  "objection": "Nu vreau ca un mesaj despre un rezultat anormal să sperie pacientul sau să mă facă răspunzător.",
+  "habit": "dimineața verifici lista de programări și rezultatele sosite peste noapte"
+ },
+ {
+  "id": "P010",
+  "name": "Freya",
+  "age": 65,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 480000,
+  "behaviour": "Interesat de calitate",
+  "behaviour_how": "Vrea să arate pacienților că are grijă de ei și citește despre prevenție.",
+  "objection": "Pacientul e responsabil să revină; nu e treaba noastră să-l alergăm.",
+  "habit": "dimineața verifici lista de programări și rezultatele sosite peste noapte"
+ },
+ {
+  "id": "P011",
+  "name": "Sara",
+  "age": 61,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 890000,
+  "behaviour": "Asistenta sună",
+  "behaviour_how": "Asistentele sună pacienții când au timp; nimeni nu măsoară cine a revenit.",
+  "objection": "Exportul din programul nostru e o problemă; nimeni nu știe să-l facă.",
+  "habit": "dimineața verifici lista de programări și rezultatele sosite peste noapte"
+ },
+ {
+  "id": "P012",
+  "name": "Aria",
+  "age": 35,
+  "segment": "Laborator independent de analize medicale, cu contract CAS și 2-6 puncte de recoltare proprii",
+  "income": 710000,
+  "behaviour": "Copleșit de CNAS",
+  "behaviour_how": "Timpul lui merge pe raportări CNAS, e-SănătateaMea și hârtii; orice proiect nou e o povară.",
+  "objection": "Exportul din programul nostru e o problemă; nimeni nu știe să-l facă.",
+  "habit": "o dată pe lună te chinui cu raportarea CNAS"
+ },
+ {
+  "id": "P013",
+  "name": "Jordan",
+  "age": 49,
+  "segment": "Laborator independent de analize medicale, cu contract CAS și 2-6 puncte de recoltare proprii",
+  "income": 526000,
+  "behaviour": "Asistenta sună",
+  "behaviour_how": "Asistentele sună pacienții când au timp; nimeni nu măsoară cine a revenit.",
+  "objection": "Pacientul e responsabil să revină; nu e treaba noastră să-l alergăm.",
+  "habit": "pacienții te sună pe telefonul personal"
+ },
+ {
+  "id": "P014",
+  "name": "Rafael",
+  "age": 65,
+  "segment": "Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți",
+  "income": 125000,
+  "behaviour": "Orientat pe venit",
+  "behaviour_how": "Cumpără doar ce arată clar consultații sau analize în plus.",
+  "objection": "129 de euro pe lună pentru câteva programări în plus?",
+  "habit": "lucrezi cu două-trei laboratoare și primești PDF-uri pe e-mail"
+ },
+ {
+  "id": "P015",
+  "name": "Liam",
+  "age": 39,
+  "segment": "Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți",
+  "income": 143000,
+  "behaviour": "Prudent cu datele",
+  "behaviour_how": "Se teme de amenzi GDPR și de orice mesaj către pacient care poate fi înțeles greșit.",
+  "objection": "Programul nostru trimite deja SMS-uri.",
+  "habit": "pacienții te sună pe telefonul personal"
+ },
+ {
+  "id": "P016",
+  "name": "Sofia",
+  "age": 54,
+  "segment": "Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți",
+  "income": 107000,
+  "behaviour": "Mulțumit de programul de cabinet",
+  "behaviour_how": "Programul actual trimite deja SMS de reminder pentru programări.",
+  "objection": "129 de euro pe lună pentru câteva programări în plus?",
+  "habit": "lucrezi cu două-trei laboratoare și primești PDF-uri pe e-mail"
+ },
+ {
+  "id": "P017",
+  "name": "Poppy",
+  "age": 56,
+  "segment": "Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți",
+  "income": 160000,
+  "behaviour": "Copleșit de CNAS",
+  "behaviour_how": "Timpul lui merge pe raportări CNAS, e-SănătateaMea și hârtii; orice proiect nou e o povară.",
+  "objection": "129 de euro pe lună pentru câteva programări în plus?",
+  "habit": "pacienții te sună pe telefonul personal"
+ },
+ {
+  "id": "P018",
+  "name": "Yara",
+  "age": 36,
+  "segment": "Cabinet de medicină de familie cu contract CNAS, 1-2 medici, listă de 1.500-3.000 de pacienți",
+  "income": 87000,
+  "behaviour": "Sceptic față de startup-uri",
+  "behaviour_how": "A avut un furnizor de software care a dispărut și l-a lăsat fără date.",
+  "objection": "Programul nostru trimite deja SMS-uri.",
+  "habit": "dimineața verifici lista de programări și rezultatele sosite peste noapte"
+ },
+ {
+  "id": "P019",
+  "name": "Lena",
+  "age": 55,
+  "segment": "Laborator independent de analize medicale, cu contract CAS și 2-6 puncte de recoltare proprii",
+  "income": 745000,
+  "behaviour": "Orientat pe venit",
+  "behaviour_how": "Cumpără doar ce arată clar consultații sau analize în plus.",
+  "objection": "Cine e de vină dacă sistemul nu trimite un mesaj și pacientul pățește ceva?",
+  "habit": "dimineața verifici lista de programări și rezultatele sosite peste noapte"
+ },
+ {
+  "id": "P020",
+  "name": "Pablo",
+  "age": 49,
+  "segment": "Clinică independentă multi-specialitate (diabet, cardiologie, endocrinologie), cu contract CAS, 5-20 de medici",
+  "income": 1776000,
+  "behaviour": "Mulțumit de programul de cabinet",
+  "behaviour_how": "Programul actual trimite deja SMS de reminder pentru programări.",
+  "objection": "Nu am consimțământ pentru SMS de la pacienții vechi.",
+  "habit": "lucrezi cu două-trei laboratoare și primești PDF-uri pe e-mail"
+ }
+]

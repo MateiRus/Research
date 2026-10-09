@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Prețul nu mă sperie, dar nu dau acces la datele pacienților unui SRL mic pe care nu îl cunosc, nici măcar pseudonimizate. O amendă GDPR m-ar costa mult mai mult decât câștigă lista asta. Iar exportul din programul nostru e o problemă, nimeni nu știe să-l facă.",
+  "objection": "Datele pacienților pleacă din clinică spre un furnizor mic, iar dacă un SMS sau un apel e înțeles greșit sau există o scurgere de date, răspund eu în fața ANSPDCP și a pacienților. Mă îndoiesc și că ei chiar pot scoate exportul din programul nostru.",
+  "would_change_my_mind": "Să văd pe un export real al clinicii mele, făcut de ei fără ca personalul meu să piardă timp, că găsesc multe controale pierdute. În plus, să am avizul scris al juristului sau al responsabilului GDPR și referințe de la o altă clinică din Oradea sau Cluj care lucrează deja cu ei.",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 120,
+  "price_too_expensive": 250
+}

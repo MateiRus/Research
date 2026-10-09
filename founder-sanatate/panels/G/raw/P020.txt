@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Programul nostru trimite deja SMS de reminder, iar listele cu controale scadente le scoate asistenta din program când are timp. Nu simt nevoia să adaug încă un sistem pentru care trebuie să export zilnic CSV.",
+  "objection": "Nu am consimțământ pentru SMS de la pacienții vechi, deci tocmai pe cei pe care i-aș recupera nu pot să-i contactez. Mai am și grija datelor medicale (GDPR) trimise unui SRL extern, plus munca în plus pentru export zilnic.",
+  "would_change_my_mind": "Dacă auditul gratuit ar arăta un număr mare de pacienți pierduți, iar serviciul ar funcționa direct integrat în programul meu, fără export manual, și cu un acord clar de prelucrare a datelor și o variantă de apel doar prin asistentă, fără SMS, pentru cei fără consimțământ.",
+  "price_too_cheap": 30,
+  "price_cheap": 70,
+  "price_expensive": 180,
+  "price_too_expensive": 320
+}

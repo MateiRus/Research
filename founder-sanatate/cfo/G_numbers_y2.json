@@ -1,0 +1,63 @@
+{
+ "business": "G · Controale pierdute (clinici independente de boli cronice) — anul 2",
+ "unit": "client-lună",
+ "price": 89,
+ "variable": [
+  {
+   "label": "API LLM (maparea exporturilor)",
+   "cost": 2
+  },
+  {
+   "label": "Găzduire și stocare incrementală",
+   "cost": 1.5
+  },
+  {
+   "label": "E-mailuri tranzacționale",
+   "cost": 0.5
+  },
+  {
+   "label": "Comisioane de plată și facturare",
+   "cost": 0.5
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Găzduire UE (VM + backup + monitorizare)",
+   "cost": 45
+  },
+  {
+   "label": "Domeniu, e-mail tranzacțional, unelte",
+   "cost": 25
+  },
+  {
+   "label": "Asigurare RC profesională + cyber (600 €/an)",
+   "cost": 50
+  },
+  {
+   "label": "Contabilitate suplimentară",
+   "cost": 30
+  },
+  {
+   "label": "Deplasări de vânzare în Nord-Vest",
+   "cost": 80
+  }
+ ],
+ "startup": [],
+ "days_per_month": 1,
+ "capacity_per_day": 13,
+ "plan_per_day": 12,
+ "ramp_per_day": [
+  5,
+  5,
+  6,
+  6,
+  7,
+  7,
+  8,
+  8,
+  9,
+  9,
+  10,
+  10
+ ]
+}

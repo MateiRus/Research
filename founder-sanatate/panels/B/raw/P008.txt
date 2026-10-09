@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Am deja un tabel Excel cu scadențele fișelor și mie îmi merge. Nu vreau încă un abonament și încă o parolă pentru oamenii mei, pentru ceva ce fac în zece minute pe lună.",
+  "objection": "Încă un abonament și încă o parolă, iar la 39 €/lună plus SMS-uri nu văd ce îmi aduce în plus față de Excel. Mai trebuie să încarc eu lista de fiecare dată, deci tot muncă manuală rămâne. În plus, nu știu ce se întâmplă cu datele angajaților mei la un SRL mic din Oradea.",
+  "would_change_my_mind": "Dacă aș vedea că nu trebuie să mai țin deloc Excel-ul, că șefii de tură primesc singuri alertele fără conturi noi, iar furnizorul de medicina muncii ar lucra direct cu lista generată. Și dacă un alt HR din zonă mi-ar confirma că l-a folosit la un control ITM.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

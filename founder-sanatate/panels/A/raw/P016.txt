@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Programul meu actual emite fișele și, din ce știu, acoperă deja scadențele, așa că nu simt că am o problemă de rezolvat. Nu aș pune datele a 10.000 de angajați într-un add-on de la un SRL mic din Oradea.",
+  "objection": "Un SRL mic: mai există peste doi ani? Ce fac cu datele și cu portalul clienților mei dacă dispar? Și încă o aplicație de întreținut seara, pe lângă fișe și facturi.",
+  "would_change_my_mind": "Integrare directă cu programul meu MM, fără import manual din Excel, plus garanția scrisă că pot exporta toate datele oricând, plus referințe de la un cabinet de dimensiunea mea.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

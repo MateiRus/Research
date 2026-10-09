@@ -1,0 +1,13 @@
+{
+ "id": "P001",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Nu-mi permit să dau date de pacienți diabetici și cardiaci unui SRL necunoscut și să le trimit mesaje pe numele clinicii, cu riscul unei amenzi GDPR. În plus, exportul zilnic din programul nostru e deja o problemă, nimeni nu știe să-l facă.",
+ "objection": "GDPR: cine răspunde dacă un SMS e înțeles greșit sau datele ajung unde nu trebuie? Și cine îmi face exportul zilnic din program, că la noi nu merge simplu.",
+ "would_change_my_mind": "Un acord de prelucrare a datelor (DPA) clar, cu date găzduite în UE, referințe de la 2-3 clinici cu contract CAS din Oradea sau Cluj și integrare cu programul nostru, fără export manual, instalată de ei.",
+ "price_too_cheap": 30,
+ "price_cheap": 60,
+ "price_expensive": 150,
+ "price_too_expensive": 300
+}

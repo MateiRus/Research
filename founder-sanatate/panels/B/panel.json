@@ -1,0 +1,91 @@
+{
+ "n": 20,
+ "seed": 2026,
+ "customer": {
+  "business": "B · Scadențar MM pentru angajatori (HR), indiferent de furnizorul de medicina muncii",
+  "target": "Manageri HR, responsabili SSM sau directori generali la angajatori din Bihor cu 50-1.000 de angajați (producție, logistică, comerț, servicii)",
+  "where": "Bihor (Oradea, parcurile industriale), vânzare prin rețeaua locală",
+  "age": [
+   28,
+   60
+  ],
+  "segments": [
+   {
+    "name": "HR la un angajator de producție sau logistică din Bihor, 150-300 de angajați în ture",
+    "share": 0.5,
+    "income": [
+     8000000,
+     40000000
+    ]
+   },
+   {
+    "name": "HR sau administrator la un IMM din Bihor, 50-150 de angajați",
+    "share": 0.3,
+    "income": [
+     2000000,
+     10000000
+    ]
+   },
+   {
+    "name": "Manager de beneficii la un angajator cu mai multe locații, 500-1.000 de angajați",
+    "share": 0.2,
+    "income": [
+     30000000,
+     120000000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Excel-ul merge",
+    "share": 0.25,
+    "how": "Are un tabel cu scadențele fișelor și crede că e suficient."
+   },
+   {
+    "name": "Lasă furnizorul MM să urmărească",
+    "share": 0.2,
+    "how": "Furnizorul de medicina muncii îl anunță când expiră fișele."
+   },
+   {
+    "name": "Speriat de ITM",
+    "share": 0.15,
+    "how": "A avut recent un control ITM sau o amendă."
+   },
+   {
+    "name": "Buget strâns",
+    "share": 0.15,
+    "how": "Orice abonament nou trebuie aprobat de director; preferă gratuitul."
+   },
+   {
+    "name": "Totul într-o platformă",
+    "share": 0.1,
+    "how": "Folosește deja o platformă de HR/salarizare și vrea totul acolo."
+   },
+   {
+    "name": "Gândește în beneficii",
+    "share": 0.1,
+    "how": "Se gândește la abonamente medicale și beneficii, nu la conformitate."
+   },
+   {
+    "name": "Prudent GDPR",
+    "share": 0.05,
+    "how": "Se teme de orice date medicale despre angajați."
+   }
+  ],
+  "objections": [
+   "Avem Excel și furnizorul de medicina muncii ne anunță.",
+   "Nu e o problemă reală: n-am luat niciodată amendă pentru asta.",
+   "Încă un abonament și încă o parolă pentru oamenii mei.",
+   "Nu vreau date medicale despre angajați în aplicații externe.",
+   "Ar trebui să fie inclus în ce plătim deja furnizorului de medicina muncii.",
+   "Platforma noastră de HR/salarizare probabil face deja asta."
+  ],
+  "habits": [
+   "jumătate din zi o petreci cu pontajul și salarizarea",
+   "ai trei ture și oameni care pleacă și vin des",
+   "furnizorul de medicina muncii vine la sediu o dată pe trimestru",
+   "o dată pe an negociezi abonamentele medicale ale angajaților"
+  ]
+ },
+ "pitch": "„Scadențar MM pentru angajatori”, de la un SRL din Oradea.\nÎncărcați lista angajaților și datele ultimelor fișe de aptitudine (Excel). Aplicația arată ce expiră în 30/60/90 de zile, trimite remindere angajaților (SMS sau e-mail, cu consimțământ) și șefilor de tură, și pregătește lista „de trimis la medicina muncii luna aceasta” pentru furnizorul dumneavoastră, oricare ar fi el.\nFără date medicale: doar datele de scadență și concluzia de pe fișă (apt / apt condiționat / inapt), pe care oricum o primiți.\nRaport lunar pentru conducere și istoric pentru un control ITM.\nPreț: 39 €/lună + TVA până la 250 de angajați, 79 €/lună până la 1.000. SMS la cost (aprox. 0,05-0,07 €). Prima lună gratuită, fără contract pe termen lung."
+}

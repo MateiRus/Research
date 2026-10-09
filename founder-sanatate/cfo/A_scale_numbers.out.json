@@ -1,0 +1,144 @@
+{
+ "business": "A \u00b7 scenariul \u201espre 3k\u201d: ~20 h/s\u0103pt din luna 13 \u2014 anul 1",
+ "unit": "client-lun\u0103",
+ "price": 65.0,
+ "variable_per_unit": 4.0,
+ "contribution": 61.0,
+ "contribution_pct": 0.9384615384615385,
+ "fixed_monthly": 230.0,
+ "startup": 2980.0,
+ "plan_per_day": 47.0,
+ "margin_at_plan": 0.8631751227495909,
+ "breakeven_per_day": 3.7704918032786887,
+ "capacity_per_day": 50,
+ "year1_revenue": 3510.0,
+ "year1_profit": 534.0,
+ "year1_after_startup": -2446.0,
+ "payback_month": null,
+ "cash_needed": 3825.0,
+ "months": [
+  {
+   "month": 1,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -3210.0
+  },
+  {
+   "month": 2,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -3440.0
+  },
+  {
+   "month": 3,
+   "per_day": 0.0,
+   "units": 0.0,
+   "revenue": 0.0,
+   "variable": 0.0,
+   "fixed": 230.0,
+   "profit": -230.0,
+   "cumulative": -3670.0
+  },
+  {
+   "month": 4,
+   "per_day": 2.0,
+   "units": 2.0,
+   "revenue": 130.0,
+   "variable": 8.0,
+   "fixed": 230.0,
+   "profit": -108.0,
+   "cumulative": -3778.0
+  },
+  {
+   "month": 5,
+   "per_day": 3.0,
+   "units": 3.0,
+   "revenue": 195.0,
+   "variable": 12.0,
+   "fixed": 230.0,
+   "profit": -47.0,
+   "cumulative": -3825.0
+  },
+  {
+   "month": 6,
+   "per_day": 4.0,
+   "units": 4.0,
+   "revenue": 260.0,
+   "variable": 16.0,
+   "fixed": 230.0,
+   "profit": 14.0,
+   "cumulative": -3811.0
+  },
+  {
+   "month": 7,
+   "per_day": 5.0,
+   "units": 5.0,
+   "revenue": 325.0,
+   "variable": 20.0,
+   "fixed": 230.0,
+   "profit": 75.0,
+   "cumulative": -3736.0
+  },
+  {
+   "month": 8,
+   "per_day": 6.0,
+   "units": 6.0,
+   "revenue": 390.0,
+   "variable": 24.0,
+   "fixed": 230.0,
+   "profit": 136.0,
+   "cumulative": -3600.0
+  },
+  {
+   "month": 9,
+   "per_day": 7.0,
+   "units": 7.0,
+   "revenue": 455.0,
+   "variable": 28.0,
+   "fixed": 230.0,
+   "profit": 197.0,
+   "cumulative": -3403.0
+  },
+  {
+   "month": 10,
+   "per_day": 8.0,
+   "units": 8.0,
+   "revenue": 520.0,
+   "variable": 32.0,
+   "fixed": 230.0,
+   "profit": 258.0,
+   "cumulative": -3145.0
+  },
+  {
+   "month": 11,
+   "per_day": 9.0,
+   "units": 9.0,
+   "revenue": 585.0,
+   "variable": 36.0,
+   "fixed": 230.0,
+   "profit": 319.0,
+   "cumulative": -2826.0
+  },
+  {
+   "month": 12,
+   "per_day": 10.0,
+   "units": 10.0,
+   "revenue": 650.0,
+   "variable": 40.0,
+   "fixed": 230.0,
+   "profit": 380.0,
+   "cumulative": -2446.0
+  }
+ ],
+ "flags": [
+  "The startup spend is not earned back within year 1."
+ ]
+}
