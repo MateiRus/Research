@@ -372,13 +372,14 @@ Verified official European price lists were not reachable. Third-party evidence 
 - **Per-practitioner PMS pricing in Western Europe (~€120–150)** is a ceiling reference only. A Romanian private clinic is unlikely to pay Doctolib-level prices per doctor. **[Speculative]**
 - **Usage or active-patient pricing** (Canvas per MAP, Terra consumption, Redox per connection/transaction, Heidi usage-linked) works for infrastructure and API products. A solo founder could charge, for example, per result delivered or per active monitored patient, which lines cost up with SMS and LLM spend. Accurx's SMS-fragment cost issue shows why messaging cost must be passed through. **[Plausible]**
 
-### Gaps
-- **Official 2026 European list prices** for Doctolib, Semble, Heidi, Tandem, Nabla and Cliniko were not verified, because vendor pages were blocked.
-- **No European recall/reminder-specific vendor prices** were retrieved (e.g., UK/DE dental recall tools, Doctolib reminder add-ons). This is the most important missing benchmark for a Romanian recall product.
-- **Romanian clinic willingness to pay** for any of these categories was not researched here and is left to other researchers.
 - **Opportunity summary for the solo founder** (synthesis, not a finding). In order of fit with ~€25k, 10–12 h/week, and Python/SQL/APEX/LLM/n8n skills:
   1. Recall/reminder and results-delivery automation that attaches to existing Romanian clinic, lab or dental software, sold per location per month (Lighthouse/Accurx/Lifen pattern). **[Plausible]**
   2. A GDPR-native wearable-data-to-clinician dashboard for a narrow niche (e.g., cardiology or sports medicine clinics), built on Thryve/Terra APIs rather than device integrations built from scratch. **[Speculative]**
   3. Romanian-language documentation templates and post-visit patient summaries using LLM APIs, positioned as administrative (not decision support) to stay outside MDR. **[Speculative]**, with regulatory risk signalled by Tandem's Class IIa.
 
   Avoid: US-style RPM billing models, national record retrieval, enterprise scribes, and anything needing Class IIa+ certification early. **[Strong emerging]**
+
+### Gaps
+- **Official 2026 European list prices** for Doctolib, Semble, Heidi, Tandem, Nabla and Cliniko were not verified, because vendor pages were blocked.
+- **No European recall/reminder-specific vendor prices** were retrieved (e.g., UK/DE dental recall tools, Doctolib reminder add-ons). This is the most important missing benchmark for a Romanian recall product.
+- **Romanian clinic willingness to pay** for any of these categories was not researched here and is left to other researchers.
