@@ -1,0 +1,33 @@
+{"name": "R0 (replica, fara churn)", "mrr_m12": 650, "mrr_m18": 1040, "mrr_m24": 1430, "mrr_m36": 1625, "clients_m12": 10.0, "clients_m24": 22.0, "clients_m36": 25.0, "y1_profit": 534, "month_1k": 18, "month_3k": null, "min_cum": -3825, "cum_m36": 22229}
+{"name": "R0 + churn 1,5%/luna + 20% refund garantie", "mrr_m12": 522, "mrr_m18": 777, "mrr_m24": 1010, "mrr_m36": 1417, "clients_m12": 8.0, "clients_m24": 15.5, "clients_m36": 21.8, "y1_profit": -198, "month_1k": 24, "month_3k": null, "min_cum": -3853, "cum_m36": 13230}
+{"name": "R0 cu timp realist + churn", "mrr_m12": 522, "mrr_m18": 642, "mrr_m24": 767, "mrr_m36": 984, "clients_m12": 8.0, "clients_m24": 11.8, "clients_m36": 15.1, "y1_profit": -198, "month_1k": null, "month_3k": null, "min_cum": -3853, "cum_m36": 8036}
+{"name": "Plan v1", "mrr_m12": 758, "mrr_m18": 996, "mrr_m24": 1218, "mrr_m36": 1605, "clients_m12": 10.2, "clients_m24": 16.5, "clients_m36": 21.7, "y1_profit": 1747, "month_1k": 19, "month_3k": null, "min_cum": -4060, "cum_m36": 19968}
+{"name": "Plan v2", "mrr_m12": 758, "mrr_m18": 1280, "mrr_m24": 1747, "mrr_m36": 2562, "clients_m12": 10.2, "clients_m24": 23.6, "clients_m36": 34.6, "y1_profit": 1747, "month_1k": 15, "month_3k": null, "min_cum": -4060, "cum_m36": 22156}
+{"name": "Plan v3", "mrr_m12": 758, "mrr_m18": 1280, "mrr_m24": 2171, "mrr_m36": 3185, "clients_m12": 10.2, "clients_m24": 23.6, "clients_m36": 34.6, "y1_profit": 1747, "month_1k": 15, "month_3k": 34, "min_cum": -4060, "cum_m36": 26358}
+{"name": "Plan v3 fara modul", "mrr_m12": 758, "mrr_m18": 1280, "mrr_m24": 1747, "mrr_m36": 2562, "clients_m12": 10.2, "clients_m24": 23.6, "clients_m36": 34.6, "y1_profit": 1747, "month_1k": 15, "month_3k": null, "min_cum": -4060, "cum_m36": 18556}
+{"name": "Plan v3 pesimist", "mrr_m12": 304, "mrr_m18": 518, "mrr_m24": 791, "mrr_m36": 1111, "clients_m12": 4.7, "clients_m24": 10.7, "clients_m36": 15.0, "y1_profit": -1031, "month_1k": 32, "month_3k": null, "min_cum": -4675, "cum_m36": -781}
+
+R0_with_churn
+(3, 0.0, 0, -230, -3670)
+(4, 2.0, 130, -108, -3778)
+(6, 3.9, 255, 9, -3817)
+(9, 5.9, 385, 92, -3713)
+(12, 8.0, 522, 220, -3178)
+(15, 10.0, 652, 343, -2271)
+(18, 12.0, 777, 460, -1006)
+(21, 13.8, 896, 572, 599)
+(24, 15.5, 1010, 679, 2529)
+(30, 18.8, 1223, 879, 7311)
+(36, 21.8, 1417, 1061, 13230)
+v3
+(3, 3.0, 222, -20, -4060)
+(4, 4.0, 293, 47, -4013)
+(6, 5.5, 409, 90, -3810)
+(9, 7.9, 587, 303, -3068)
+(12, 10.2, 758, 465, -1833)
+(15, 13.9, 1031, 173, -1570)
+(18, 17.3, 1280, 398, -610)
+(21, 20.5, 1703, 808, 1393)
+(24, 23.6, 2171, 1264, 4719)
+(30, 29.4, 2701, 1770, 14097)
+(36, 34.6, 3185, 2233, 26358)
