@@ -1,0 +1,26 @@
+# Lucru izolat conform, la cheie · ILLUSTRUS S.R.L., Oradea
+
+- **Problema:**
+  - HG 1091/2006 cere supraveghere și legătură cu exteriorul pentru lucrătorul izolat (N02 Î2);
+  - un deces la muncă aduce dosar penal administratorului (Aleșd: 2 ani cu suspendare; R §1);
+  - în Bihor nu există o ofertă locală de alarmă cu dispecerat (N03 §3).
+- **Clientul:** managerul HSE al unei fabrici din Oradea, pentru cei 5–15% din oameni care lucrează izolat (mentenanță, tura de noapte); apoi utilitățile locale.
+- **Oferta și prețul:**
+  - test de semnal gratuit;
+  - pilot de 60 de zile, plătit cu 2.500 lei, cu dispozitive împrumutate și documentele SSM/GDPR incluse;
+  - apoi 12 EUR pe lucrător pe lună, cu dispozitivul cumpărat de client (650 lei), sau 16 EUR cu dispozitiv inclus, sau 6 EUR pe dispeceratul propriu al clientului;
+  - garanția: luna gratuită dacă o alarmă nu e preluată în 60 de secunde.
+- **Cifrele (estimări, unealta CFO):**
+  - contribuție 7,33 EUR pe lucrător-lună în anul 1 (61%);
+  - prag ~72 de lucrători în anul 1;
+  - anul 1: −4.468 EUR pe operațiuni (−5.108 EUR cu pornirea și încasările unice);
+  - numerar necesar ~8.400 EUR (11.013 EUR fără încasările unice);
+  - MRR 840 / 2.160 / 2.400 EUR în lunile 12 / 24 / 36;
+  - verdict calculat: **Not yet**.
+- **Dovezile:**
+  - panel simulat: 4/30 cumpără la ambele variante; managerii HSE de fabrică 3/6 la oferta refăcută;
+  - board: 2 × FUND IF, 1 × PASS (media 4,0);
+  - golul de ofertă e confirmat din note, cel de cerere nu;
+  - **niciun test real încă**.
+- **La ce folosesc banii:** avocat și contract (2.500 EUR), parcul de dispozitive de pilot (~2.000 EUR), testul end-to-end cu paza, asigurarea RC, deplasări.
+- **Cererea:** 3 teste de semnal și un pilot plătit până la 17 ianuarie 2027.

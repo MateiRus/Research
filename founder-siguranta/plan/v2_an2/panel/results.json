@@ -1,0 +1,202 @@
+{
+ "business": "Alarmă Lucrător Izolat (ILLUSTRUS, Oradea): dispozitiv certificat + platformă + dispecerat externalizat 24/7, abonament pe lucrător",
+ "seed": 2026,
+ "dealt": 30,
+ "answered": 30,
+ "skipped": [],
+ "buys": 4,
+ "passes": 26,
+ "buy_rate": 0.13333333333333333,
+ "by_segment": [
+  [
+   "Manager HSE (sănătate, securitate, mediu) la o fabrică mare din Oradea, parte dintr-un grup multinațional (1.000–2.500 de angajați; 5–15% lucrează izolat: mentenanță, tura de noapte, logistică)",
+   6,
+   0.5
+  ],
+  [
+   "Șef serviciu intern SSM la o utilitate publică locală (apă-canal, salubritate sau termoficare; 400–750 de angajați; cumpără prin SEAP, are sindicat)",
+   6,
+   0.16666666666666666
+  ],
+  [
+   "Patron de firmă privată de exploatare forestieră din zona Aleșd–Beiuș (10–40 de angajați; decide și plătește singur)",
+   6,
+   0.0
+  ],
+  [
+   "Administrator de serviciu extern SSM din Oradea (40–150 de firme-client; recomandă măsuri în evaluarea riscurilor, nu plătește el)",
+   6,
+   0.0
+  ],
+  [
+   "Director de firmă de pază din Oradea (80–300 de agenți, mulți singuri pe post noaptea; are dispecerat propriu de alarme pentru obiective)",
+   6,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Marcat de un accident",
+   5,
+   0.6
+  ],
+  [
+   "Deschis la tehnologie",
+   4,
+   0.25
+  ],
+  [
+   "Legat de procedură",
+   4,
+   0.0
+  ],
+  [
+   "Se mișcă doar la control",
+   6,
+   0.0
+  ],
+  [
+   "Taie din costuri",
+   6,
+   0.0
+  ],
+  [
+   "Conservator",
+   5,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$18,304,000 and up",
+   10,
+   0.4
+  ],
+  [
+   "under $2,044,000",
+   10,
+   0.0
+  ],
+  [
+   "$2,044,000 to $18,304,000",
+   10,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   11,
+   [
+    "Nu pot semna singur nimic care mă obligă la bani. Pilotul ar trebui să treacă prin director, grup, achiziții și sindicat, iar în 3 luni nu se întâmplă asta. Testul gratuit de o zi mi-ar părea interesant, dar nu e o cumpărare.",
+    "Nu pot semna singur nimic care să mă oblige la bani: am nevoie de aprobarea directorului, de acordul sindicatului și de procedură prin SEAP. În 3 luni nu cred că ajung la o semnătură, deși testul gratuit mă interesează."
+   ],
+   [
+    "P001",
+    "P004"
+   ]
+  ],
+  [
+   "need",
+   4,
+   [
+    "După accidentul din zonă mă gândesc serios la dosarul penal, dar la noi în pădure nu e semnal, iar un dispozitiv care nu merge în pădure nu mă apără de nimic. Nu semnez nimic plătit înainte să văd cu ochii mei că merge pe parcelele mele și înainte să vorbesc cu serviciul SSM cu care lucrez de ani.",
+    "Clienții mei lucrează de obicei în echipă și au radio și telefon, așa că nu văd un risc care să justifice o cheltuială nouă. Nu aș propune la 2 clienți un abonament lunar pe lucrător când ei vor să taie costurile la SSM."
+   ],
+   [
+    "P002",
+    "P005"
+   ]
+  ],
+  [
+   "price",
+   4,
+   [
+    "Am deja plătit GPS, EIP și dispecerat propriu, iar 9 EUR pe agent pe lună înmulțit cu sute de agenți e un cost nou pe care nu-l pot trece în contractele cu clienții. Pilotul de 500 EUR e mic, dar nu semnez nimic plătit înainte să văd dacă agenții poartă dispozitivul.",
+    "100 de lei pe om pe lună e mai mult decât plătesc pe tot SSM-ul, iar 70 de lei tot mi se pare mult pentru oameni în pădure. Serviciul meu SSM mă acoperă de ani buni și nu vreau încă o cheltuială lunară pe 12 luni."
+   ],
+   [
+    "P007",
+    "P011"
+   ]
+  ],
+  [
+   "habit",
+   4,
+   [
+    "Eu mă mișcă doar controlul: dacă ITM sau un auditor nu cere ceva scris despre lucrul izolat, nu semnez nimic. Am dispecerat propriu și agenții merg de ani de zile cu stațiile și rondele existente, așa că nu văd urgență.",
+    "Mă mișc doar când vine ITM-ul sau un auditor și cere ceva scris. Fără o cerință clară, nu merg la 2 clienți să le propun o cheltuială nouă pe lucrător și lună, mai ales când comisionul de 15% m-ar face să par interesat."
+   ],
+   [
+    "P008",
+    "P009"
+   ]
+  ],
+  [
+   "timing",
+   3,
+   [
+    "Eu mă mișc doar când vine ITM-ul sau un auditor și cere ceva scris, iar acum nu am nimic de felul ăsta pe masă. Nu semnez nimic care mă costă bani doar ca să fiu mai prevăzător.",
+    "Eu mă mișc doar când vine ITM-ul sau un auditor și cere ceva scris, iar lucrul izolat nu mi-a fost cerut până acum. Colaborez de ani de zile cu serviciul extern SSM și fără el nu pornesc nimic, iar la noi orice cheltuială trece prin SEAP și prin sindicat."
+   ],
+   [
+    "P003",
+    "P006"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   3,
+   [
+    "Am văzut de aproape un accident grav și știu ce înseamnă dosarul penal pentru administrator. Testul e gratuit, iar 500 EUR pentru pilot și pachetul de documente intră ușor în bugetul meu, fără aprobări mari de la grup. Dacă testul merge, semnez pilotul.",
+    "După accidentul pe care l-am văzut de aproape, nu mai vreau oameni singuri noaptea fără nimic care să sune dacă cad. Testul e gratuit, iar 2.500 lei pentru pilot nu trec de aprobările grupului, așa că aș semna pilotul după ce văd raportul din pasul 1, probabil în luna a doua sau a treia."
+   ],
+   [
+    "P017",
+    "P021"
+   ]
+  ],
+  [
+   "trust",
+   1,
+   [
+    "Testul gratuit de o zi răspunde exact la întrebarea mea, adică dacă există semnal în cămine și în zonele greu accesibile, iar pilotul de 2.500 lei e mic pentru bugetul fabricii. Dacă testul iese bine, aș semna pilotul în următoarele 3 luni, nu în prima lună."
+   ],
+   [
+    "P016"
+   ]
+  ]
+ ],
+ "flip": [
+  "Referințe de la o fabrică similară din grup sau din țară, certificări și polița de răspundere arătate în scris, plus acordul prealabil al sindicatului și al directorului pentru pilot.",
+  "Testul gratuit să arate scris că alarma ajunge din cele mai grele parcele ale mele și ca serviciul meu SSM să spună că e bun pentru ITM.",
+  "Un control ITM sau o cerință scrisă de auditor pentru lucrul izolat, plus testul gratuit în pădurea mea care să arate că semnalul chiar merge pe teren și că sindicatul acceptă.",
+  "Acordul scris al sindicatului și al directorului după testul gratuit, plus dovada că răspunderea în caz de alarmă ratată e clar împărțită prin contract și acoperită de asigurare.",
+  "Un caz concret, la un client de-al meu, în care ITM sau o evaluare de risc cere explicit măsuri pentru lucrul izolat, plus un preț sub 6 EUR pe lucrător pe lună și ieșire oricând, fără comision pentru mine.",
+  "Un control ITM sau un audit care să ceară explicit măsuri pentru lucrul izolat, plus recomandarea serviciului meu extern SSM și acordul sindicatului după testul gratuit.",
+  "Dacă testul gratuit arată că merge cu aparatura mea existentă (EIP/GPS) sau că agenții îl acceptă, iar prețul scade sub 4-5 EUR pe agent pe lună, fără contract lung, aș lua pilotul.",
+  "Un control ITM sau un audit care îmi cere explicit documentația pentru lucrul izolat, plus referințe de la o firmă de pază comparabilă care folosește sistemul de câteva luni fără căderi.",
+  "O cerință scrisă de la ITM sau de la un auditor pentru lucrul izolat, plus un caz local din Bihor documentat, cu un client care a trecut controlul având dosarul făcut de ei.",
+  "Un control ITM sau un audit care îmi cere în scris măsuri pentru lucrul izolat, sau un accident grav în Bihor la o utilitate ca a noastră, plus un preț sub 5 EUR pe lucrător pe lună.",
+  "Un preț sub 8 EUR pe om pe lună, fără contract de 12 luni, plus testul gratuit care arată că semnalul merge în parcelele mele, iar serviciul meu SSM să spună că ITM chiar cere asta.",
+  "Un acord scris și semnat de sindicat pe modelul lor, plus o utilitate similară din țară care folosește deja sistemul și îmi confirmă că lucrătorii îl poartă.",
+  "Un test gratuit în pădurea mea, în cele mai slabe locuri de semnal, cu raport scris care arată că alarma ajunge, plus o altă firmă forestieră din zonă care îl folosește deja și spune că oamenii l-au acceptat.",
+  "Dacă sindicatul ar semna în scris, înainte de orice plată, acordul pentru testul gratuit, iar ITM-ul ar cere explicit asta la următorul control. Atunci aș face doar pasul 1 și aș discuta pilotul după raport.",
+  "Referințe de la alte firme din Bihor care folosesc sistemul de cel puțin un an. În plus, o clauză clară de răspundere și o poliță de asigurare pe care o văd în scris. Aș vrea și să pot recomanda fără comision, ca să nu apar cu interes personal.",
+  "Referințe de la 2-3 firme din Bihor care folosesc sistemul de cel puțin un an, plus o vizită la dispecerat și rezultatele testului gratuit, fără ca eu să mă angajez la ceva.",
+  "Testul gratuit să arate semnal bun în cele mai grele posturi ale mele, iar un alt director de firmă de pază să-mi confirme că folosește sistemul de un an fără alarme pierdute sau false.",
+  "Un accident real sau un control ITM care să arate că metoda actuală nu e suficientă, plus aprobarea scrisă a grupului. Testul gratuit de o zi l-aș accepta, dar nu înseamnă că cumpăr.",
+  "Dacă ITM-ul sau un client important ar cere în scris protecție pentru lucrul izolat la posturile de noapte și testul gratuit ar arăta că dispozitivul chiar acoperă locuri unde radioul nu merge.",
+  "Un test gratuit făcut de ei pe posturile mele cele mai grele, cu rezultate bune la semnal și baterie. Apoi o referință de la o altă firmă de pază din zonă care îl folosește de un an, plus o clauză scrisă că răspund ei financiar dacă alarma nu ajunge din vina sistemului.",
+  "Testul gratuit din pădurea mea să arate semnal bun și zero alarme false, iar prețul să fie sub 8 EUR pe lucrător pe lună, fără contract de 12 luni.",
+  "Un raport de test real, făcut gratuit la unul dintre clienții mei, cu ore exacte și alarme preluate sub 60 de secunde, plus 2-3 referințe verificabile de la firme care îl folosesc de luni de zile. Aș vrea și varianta fără comision, sau cu comisionul declarat transparent clientului.",
+  "Un test gratuit în care alarmele intră fără probleme în dispeceratul meu, plus o referință de la o firmă de pază care folosește deja serviciul, la maximum 6-7 EUR pe lucrător pe lună și fără contract de 12 luni.",
+  "Un client de referință din Bihor cu cel puțin 3-6 luni de funcționare, jurnal real de alarme cu timpii de preluare, dovada că dispeceratul are turi acoperite 24/7 cu înlocuitori, plus un test al meu, neanunțat, noaptea, preluat în sub 60 de secunde.",
+  "Un acord scris în prealabil cu sindicatul și aprobarea grupului, plus un exemplu dintr-o altă fabrică mare din grup sau din regiune în care lucrătorii poartă dispozitivul fără probleme.",
+  "Dacă ITM sau o inspecție mi-ar cere explicit lucrul izolat pentru oamenii din pădure și dispozitivul ar merge dovedit fără semnal GSM bun, la maximum 5-6 EUR pe om pe lună."
+ ],
+ "purchases_first_month_per_buyer": 0.25,
+ "price_answers": 30
+}

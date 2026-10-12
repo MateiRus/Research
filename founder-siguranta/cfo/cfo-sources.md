@@ -1,0 +1,42 @@
+# De unde vine fiecare număr din `cfo/*.json`
+
+Skill-ul cere sursele în ordinea: (1) ofertele și facturile fondatorului (nu există încă), (2) prețuri publice verificabile, (3) estimarea mea, marcată. **Aproape tot e la nivelul (3).** Înainte să se cheltuiască bani, fiecare cifră trebuie verificată cu o ofertă reală. Prescurtări: R = raportul; N04, N05 = notele 04 și 05.
+
+- **Unitatea:** lucrător-lună (un lucrător echipat, plătit, pe o lună). `days_per_month = 1`, deci „per day” din unealtă înseamnă lucrători activi în luna respectivă. Unealta afișează „$”; toate sumele sunt **EUR**, fără TVA.
+- **Prețul C (de bază):** 12 EUR/lucrător/lună, clientul cumpără dispozitivul cu ~130 EUR. Este recomandarea cercetării pentru primii clienți (R §7, estimare). E în intervalul acceptabil al panelului simulat (v1: 6–20 EUR; v2: 4–16 EUR; `../pricing/`).
+- **Prețul B:** 14 EUR cu dispozitiv inclus (pitch-ul v2) și 20 EUR (prețul de listă propus în R §7).
+- **Dispozitivul:** Teltonika TMT250, 88,50 EUR fără TVA (R §4 ← Sectron; **fapt**). Vânzarea la 130 EUR, cu configurare, e ipoteza din R §7 (**estimare**). În scenariul pesimist dispozitivul e de 130 EUR, pentru cazul în care TMT250 merge doar pe 2G și trebuie înlocuit (R §4, „de verificat”).
+- **Pierderi și defecte:** 10%/an din valoarea dispozitivului (R §7 / N05 §4, estimare). La structura C, înlocuirea o plătește clientul. Rămâne 0,25 EUR/lună pentru logistică (estimarea mea).
+- **SIM IoT:** 1,50 EUR/lună (R §7, estimare fără sursă; N05 §4 Gaps: niciun tarif RO găsit).
+- **Dispecerat externalizat:** 2,50 EUR/lucrător/lună, ancorat pe suplimentul ARC StaySafe de 1,85 GBP (~2,2 EUR) (N05 §4, estimare). Nu există tarif românesc. În pesimist: 4 EUR.
+- **Minim lunar la firma de pază:** 150 EUR (estimarea mea). R §6 spune doar că „poate exista un minim lunar”.
+- **Comisionul canalului:** 15% (R §7, estimare), aplicat la 30% din venit din anul 2. În anul 1 vinde doar fondatorul: panelul arată că serviciile externe SSM nu recomandă fără referințe (`../panel/`).
+- **Garanția „luna gratuită”:** 3% din venit, adică o lună gratuită la aproximativ 3% din lunile-client (estimarea mea). Trebuie re-estimată după testul de 50 de alarme.
+- **Asigurarea RC profesională + cyber:** 150 EUR/lună (~1.800 EUR/an). **Nicio ofertă găsită** (N05 §6 Gaps). E cea mai incertă cifră fixă.
+- **Găzduire, gateway SMS, contabilitate, deplasări, SIM-uri de test:** 60 + 20 + 30 + 100 + 15 EUR/lună (estimări).
+- **Inginer de rezervă la apel (din anul 2):** 150 EUR/lună. E prețul minim al faptului că alarma nu poate depinde de un singur student (estimarea mea).
+- **Pornirea (6.546 EUR):**
+  - avocat 2.500 EUR (contract, subcontractul de dispecerat, art. 28 GDPR, clauze de răspundere, opinie despre Legea 333/2003; R §5 cere toate acestea, costul e necunoscut);
+  - consultant SSM 500 EUR;
+  - parcul de pilot: 23 × 88,50 EUR = 2.036 EUR;
+  - 3 dispozitive LTE alternative de test: 530 EUR (3 × ~177 EUR, prețul GH5200 din R §4 ca reper);
+  - testul end-to-end cu paza: 300 EUR;
+  - găzduire în construcție 180 EUR, materiale 300 EUR, deplasări 200 EUR.
+  - Totul sunt estimări; suma e în intervalul de 3.600–6.600 EUR din R §6.
+- **Personalul la scară:**
+  - la 200 de lucrători: 0,25 normă la 300 EUR;
+  - la 1.000: 2 norme × 1.200 EUR cost complet (reperul de cost pe normă e din R §7 / N05 §4, estimare).
+- **Modelul de ore** (estimare; toate cifrele sunt în `build_model.py`):
+  - disponibil: 48 h/lună (~11 h/săpt);
+  - fix: întreținerea platformei 8 h, vânzarea 10 h;
+  - primul pilot: 45 h (include construirea modelelor de documente); următorii: 20 h, întinși pe 3 luni (pregătire + 60 de zile);
+  - jumătate de pilot eșuat la fiecare client câștigat (în pesimist: unul întreg);
+  - suportul: 3 h/client/lună plus 0,05 h/lucrător/lună.
+  - **Construcția platformei** (80–160 h, R §6) intră în lunile 1–5, înaintea primului client.
+- **Rampa:** un client nou nu mai des de o dată la 3 luni (în pesimist, la 6 luni; în varianta de 20 h/săpt, la 2 luni din anul 2). Fiecare client începe cu 20 de lucrători și crește cu 10 la fiecare 6 luni, până la 40. În pesimist: 15 → 25.
+  - **Calibrare pe panel:** 4 din 30 de cumpărători simulați „cumpără” la ambele variante de ofertă (13%). Skill-ul spune să tratezi rata ca limită superioară, deci conversia reală din conversații calificate e probabil sub 10%. La ~2–3 conversații calificate pe lună rezultă cam un client la 3–4 luni.
+  - **Mărimea clientului:** o fabrică are 5–15% lucrători izolați (N05 §1, estimare), iar pilotul are 20–30 de lucrători (R §6).
+- **Încasările unice** (adunate de mine, nu de unealtă):
+  - taxa de pilot de 500 EUR (2.500 lei, oferta v2), încasată și la piloții care nu se convertesc;
+  - la structura C, marja de 41,50 EUR pe dispozitivul vândut.
+- **Costul timpului fondatorului** nu e inclus în numerar. La 20 EUR/h, cele ~48 h/lună ar fi ~960 EUR/lună. Cu acest cost, niciun scenariu de 10–12 h/săpt nu e profitabil în 36 de luni (calculul meu: 36 × 960 = 34.560 EUR față de +10.978 EUR cumulat în scenariul de bază).

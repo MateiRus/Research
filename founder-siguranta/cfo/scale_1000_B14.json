@@ -1,0 +1,85 @@
+{
+ "business": "Lucru izolat conform, la cheie (ILLUSTRUS) · stare stabilă la 1000 de lucrători · structura B · vedere amortizată",
+ "unit": "lucrător-lună",
+ "price": 14,
+ "variable": [
+  {
+   "label": "Dispozitiv 88.50 EUR amortizat pe 36 de luni",
+   "cost": 2.46
+  },
+  {
+   "label": "Pierderi și defecte (10%/an din valoarea dispozitivului)",
+   "cost": 0.74
+  },
+  {
+   "label": "SIM IoT multi-rețea",
+   "cost": 1.5
+  },
+  {
+   "label": "Dispecerat externalizat (firmă de pază), pe lucrător",
+   "cost": 2.5
+  },
+  {
+   "label": "Comision serviciu extern SSM (15% x 30% din venit)",
+   "cost": 0.63
+  },
+  {
+   "label": "Garanția „luna gratuită dacă alarma nu e preluată în 60 s” (3% din venit)",
+   "cost": 0.42
+  },
+  {
+   "label": "Facturare și încasare (0,5%)",
+   "cost": 0.07
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "2 angajați (suport, instalare, vânzare) x 1.200 EUR cost complet",
+   "cost": 2400
+  },
+  {
+   "label": "Găzduire UE la scară + monitorizare",
+   "cost": 150
+  },
+  {
+   "label": "Asigurare RC profesională + cyber la scară",
+   "cost": 300
+  },
+  {
+   "label": "Contabilitate și salarizare",
+   "cost": 80
+  },
+  {
+   "label": "Deplasări",
+   "cost": 200
+  }
+ ],
+ "startup": [
+  {
+   "label": "Avocat: contract abonament + subcontract dispecerat, art. 28 GDPR, clauze de răspundere, opinie L333/2003",
+   "cost": 2500
+  },
+  {
+   "label": "Revizia modelelor de documente SSM/DPIA de un consultant SSM",
+   "cost": 500
+  },
+  {
+   "label": "Test end-to-end cu firma de pază: 50 de alarme simulate, zi și noapte",
+   "cost": 300
+  },
+  {
+   "label": "Găzduire în cele 3 luni de construcție",
+   "cost": 180
+  },
+  {
+   "label": "Materiale de vânzare: ghidul „Lucru izolat după HG 1091/2006”, pagină web",
+   "cost": 300
+  },
+  {
+   "label": "Deplasări de descoperire și teste de semnal gratuite",
+   "cost": 200
+  }
+ ],
+ "days_per_month": 1,
+ "plan_per_day": 1000
+}

@@ -1,0 +1,87 @@
+{
+ "business": "Lucru izolat conform, la cheie (ILLUSTRUS) · Varianta B: dispozitiv inclus, 14 EUR/lună (pitch-ul v2); aceleași ore și aceeași rampă · anul 2 · vedere numerar",
+ "unit": "lucrător-lună",
+ "price": 14,
+ "variable": [
+  {
+   "label": "Pierderi și defecte (10%/an din valoarea dispozitivului)",
+   "cost": 0.74
+  },
+  {
+   "label": "SIM IoT multi-rețea",
+   "cost": 1.5
+  },
+  {
+   "label": "Dispecerat externalizat (firmă de pază), pe lucrător",
+   "cost": 2.5
+  },
+  {
+   "label": "Comision serviciu extern SSM (15% x 30% din venit)",
+   "cost": 0.63
+  },
+  {
+   "label": "Garanția „luna gratuită dacă alarma nu e preluată în 60 s” (3% din venit)",
+   "cost": 0.42
+  },
+  {
+   "label": "Facturare și încasare (0,5%)",
+   "cost": 0.07
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Găzduire UE: VM + bază de date + backup + monitorizare",
+   "cost": 60
+  },
+  {
+   "label": "Gateway SMS/voce pentru escaladare și test zilnic",
+   "cost": 20
+  },
+  {
+   "label": "Asigurare RC profesională + cyber (~1.800 EUR/an, fără ofertă reală)",
+   "cost": 150
+  },
+  {
+   "label": "Minim lunar la firma de pază (dispecerat), peste tariful pe lucrător",
+   "cost": 150
+  },
+  {
+   "label": "Contabilitate suplimentară",
+   "cost": 30
+  },
+  {
+   "label": "Deplasări în Bihor (teste de semnal, instruiri, schimb de dispozitive)",
+   "cost": 100
+  },
+  {
+   "label": "SIM-uri de test și de rezervă",
+   "cost": 15
+  },
+  {
+   "label": "Inginer de rezervă la apel pentru platformă (retainer)",
+   "cost": 150
+  }
+ ],
+ "startup": [
+  {
+   "label": "Dispozitive cumpărate pentru lucrătorii noi din anul 2 (110 x 88.50 EUR + 10% rezervă)",
+   "cost": 10708.5
+  }
+ ],
+ "days_per_month": 1,
+ "plan_per_day": 180,
+ "ramp_per_day": [
+  70,
+  70,
+  100,
+  100,
+  100,
+  140,
+  140,
+  140,
+  160,
+  160,
+  160,
+  180
+ ]
+}

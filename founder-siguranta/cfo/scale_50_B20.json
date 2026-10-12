@@ -1,0 +1,93 @@
+{
+ "business": "Lucru izolat conform, la cheie (ILLUSTRUS) · stare stabilă la 50 de lucrători · structura B · vedere amortizată",
+ "unit": "lucrător-lună",
+ "price": 20,
+ "variable": [
+  {
+   "label": "Dispozitiv 88.50 EUR amortizat pe 36 de luni",
+   "cost": 2.46
+  },
+  {
+   "label": "Pierderi și defecte (10%/an din valoarea dispozitivului)",
+   "cost": 0.74
+  },
+  {
+   "label": "SIM IoT multi-rețea",
+   "cost": 1.5
+  },
+  {
+   "label": "Dispecerat externalizat (firmă de pază), pe lucrător",
+   "cost": 2.5
+  },
+  {
+   "label": "Comision serviciu extern SSM (15% x 30% din venit)",
+   "cost": 0.9
+  },
+  {
+   "label": "Garanția „luna gratuită dacă alarma nu e preluată în 60 s” (3% din venit)",
+   "cost": 0.6
+  },
+  {
+   "label": "Facturare și încasare (0,5%)",
+   "cost": 0.1
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Găzduire UE: VM + bază de date + backup + monitorizare",
+   "cost": 60
+  },
+  {
+   "label": "Gateway SMS/voce pentru escaladare și test zilnic",
+   "cost": 20
+  },
+  {
+   "label": "Asigurare RC profesională + cyber (~1.800 EUR/an, fără ofertă reală)",
+   "cost": 150
+  },
+  {
+   "label": "Minim lunar la firma de pază (dispecerat), peste tariful pe lucrător",
+   "cost": 150
+  },
+  {
+   "label": "Contabilitate suplimentară",
+   "cost": 30
+  },
+  {
+   "label": "Deplasări în Bihor (teste de semnal, instruiri, schimb de dispozitive)",
+   "cost": 100
+  },
+  {
+   "label": "SIM-uri de test și de rezervă",
+   "cost": 15
+  }
+ ],
+ "startup": [
+  {
+   "label": "Avocat: contract abonament + subcontract dispecerat, art. 28 GDPR, clauze de răspundere, opinie L333/2003",
+   "cost": 2500
+  },
+  {
+   "label": "Revizia modelelor de documente SSM/DPIA de un consultant SSM",
+   "cost": 500
+  },
+  {
+   "label": "Test end-to-end cu firma de pază: 50 de alarme simulate, zi și noapte",
+   "cost": 300
+  },
+  {
+   "label": "Găzduire în cele 3 luni de construcție",
+   "cost": 180
+  },
+  {
+   "label": "Materiale de vânzare: ghidul „Lucru izolat după HG 1091/2006”, pagină web",
+   "cost": 300
+  },
+  {
+   "label": "Deplasări de descoperire și teste de semnal gratuite",
+   "cost": 200
+  }
+ ],
+ "days_per_month": 1,
+ "plan_per_day": 50
+}
