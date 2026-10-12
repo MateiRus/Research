@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nu pot semna eu un pilot sau un contract de 24 de luni. Trebuie aprobarea directorului, a grupului și discutat cu sindicatul, iar într-o fabrică de grup un furnizor local mic nu trece ușor de procedurile de achiziție în 3 luni.",
+  "objection": "Cine răspunde dacă alarma nu ajunge și omul moare? Nu știu cine poartă răspunderea între dumneavoastră, firma de pază și rețeaua de date, iar contractul de 24 de luni mă leagă fără garanții clare.",
+  "would_change_my_mind": "O poliță de răspundere civilă și un contract clar al răspunderii pentru alarmă ratată sau întârziată, plus acordul scris al grupului și al sindicatului pentru un pilot gratuit, fără obligații de cumpărare.",
+  "price_too_cheap": 4,
+  "price_cheap": 8,
+  "price_expensive": 20,
+  "price_too_expensive": 35
+}

@@ -1,0 +1,13 @@
+{
+ "id": "P001",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Nu pot semna singur nimic care mă obligă la bani. Pilotul ar trebui să treacă prin director, grup, achiziții și sindicat, iar în 3 luni nu se întâmplă asta. Testul gratuit de o zi mi-ar părea interesant, dar nu e o cumpărare.",
+ "objection": "Cine răspunde dacă alarma nu ajunge și omul moare? O lună gratis nu înlocuiește răspunderea unui om mort. Un furnizor mic din Oradea, fără referințe într-un grup multinațional, nu trece ușor de auditul grupului, de GDPR și de sindicat, care va vedea un dispozitiv de urmărire.",
+ "would_change_my_mind": "Referințe de la o fabrică similară din grup sau din țară, certificări și polița de răspundere arătate în scris, plus acordul prealabil al sindicatului și al directorului pentru pilot.",
+ "price_too_cheap": 3,
+ "price_cheap": 7,
+ "price_expensive": 15,
+ "price_too_expensive": 30
+}

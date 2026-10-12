@@ -1,0 +1,13 @@
+{
+ "id": "P012",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Am nevoie de așa ceva după observațiile ITM pe evaluarea riscurilor, dar nu pot semna singură. Trebuie să treacă pe la director și la sindicat, iar în 3 luni nu cred că ajung la o semnătură care obligă bani. Testul gratuit l-aș accepta, pilotul plătit nu îl văd semnat până atunci.",
+ "objection": "Oamenii n-o să poarte dispozitivul, iar sindicatul o să spună că îi urmărim, chiar dacă locația se trimite doar la alarmă. Fără acordul sindicatului nu pot porni nimic, iar dacă îl forțez, rămân eu cu problema.",
+ "would_change_my_mind": "Un acord scris și semnat de sindicat pe modelul lor, plus o utilitate similară din țară care folosește deja sistemul și îmi confirmă că lucrătorii îl poartă.",
+ "price_too_cheap": 4,
+ "price_cheap": 8,
+ "price_expensive": 15,
+ "price_too_expensive": 25
+}

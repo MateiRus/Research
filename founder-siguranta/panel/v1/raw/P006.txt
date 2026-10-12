@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu mă mișc doar când ITM-ul sau un auditor cere ceva în scris, iar acum nu cere nimeni așa ceva. Lucrez de ani de zile cu serviciul extern SSM și nu aduc un furnizor nou fără ca el să-l valideze, iar un contract de 24 de luni prin SEAP nu se semnează ușor.",
+  "objection": "Alarmele false o să ne încurce munca, iar oamenii o să scoată dispozitivul după două săptămâni. Mai e și sindicatul: dacă îi pun să poarte ceva care îi localizează, apar discuții, și nu am buget aprobat pentru așa ceva.",
+  "would_change_my_mind": "Dacă ITM-ul sau un auditor ar cere în scris monitorizarea lucrătorilor izolați, iar serviciul meu extern SSM ar recomanda soluția. Ar ajuta și un pilot gratuit, fără să cumpăr dispozitivele, cu rată de alarme false dovedită.",
+  "price_too_cheap": 3,
+  "price_cheap": 6,
+  "price_expensive": 14,
+  "price_too_expensive": 25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "P021",
+ "buys": true,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "După accidentul pe care l-am văzut de aproape, nu mai vreau oameni singuri noaptea fără nimic care să sune dacă cad. Testul e gratuit, iar 2.500 lei pentru pilot nu trec de aprobările grupului, așa că aș semna pilotul după ce văd raportul din pasul 1, probabil în luna a doua sau a treia.",
+ "objection": "O firmă mică din Oradea poate ține un dispecerat 24/7 fără să cadă? Dacă alarma nu e preluată într-o noapte reală, răspunderea penală tot la noi ajunge, nu la ei.",
+ "would_change_my_mind": "Dacă în test alarmele nu ajung în 60 de secunde sau semnalul nu prinde în halele și locurile grele, nu semnez pilotul. Aș vrea și o dovadă clară de dispecerat 24/7 cu înlocuitori, plus referințe de la alți clienți industriali.",
+ "price_too_cheap": 4,
+ "price_cheap": 9,
+ "price_expensive": 20,
+ "price_too_expensive": 35
+}

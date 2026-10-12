@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "La noi merge cu radioul, telefonul și regula de a lucra în doi, iar nu mă apuc să introduc un sistem nou chiar dacă ITM-ul a avut observații la evaluarea riscurilor. Oamenii nu vor purta dispozitivul, iar sindicatul va spune că îi urmărim.",
+  "objection": "Sindicatul și oamenii vor vedea un dispozitiv de urmărire, nu unul de siguranță. Mi-e teamă de conflict, de purtat zilnic și de alarme false, iar un sistem nou înseamnă încă o răspundere pe capul meu.",
+  "would_change_my_mind": "Dacă sindicatul ar semna în scris, înainte de orice plată, acordul pentru testul gratuit, iar ITM-ul ar cere explicit asta la următorul control. Atunci aș face doar pasul 1 și aș discuta pilotul după raport.",
+  "price_too_cheap": 3,
+  "price_cheap": 6,
+  "price_expensive": 14,
+  "price_too_expensive": 25
+}

@@ -1,0 +1,13 @@
+{
+ "id": "P010",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "Eu mă mișc doar când ITM-ul sau un auditor cere ceva scris, iar nimeni nu mi-a cerut alarmă pentru lucrători singuri. 100 de lei pe om pe lună, înmulțit cu sute de oameni și contract de 24 de luni, e mai mult decât cheltuim pe tot SSM-ul, și prin SEAP nu trece așa ceva fără obligație legală.",
+ "objection": "Nu e cerut de nicio lege sau control, iar prețul pe om pe lună, pe 24 de luni, depășește tot bugetul meu de SSM. Nu pot justifica cheltuiala în fața conducerii și a sindicatului fără un control care s-o ceară.",
+ "would_change_my_mind": "Un control ITM sau o recomandare scrisă de auditor care să ceară explicit monitorizarea lucrătorilor izolați, plus un preț mult mai mic, doar pentru cei din stațiile de pompare și turele de noapte, fără contract de 24 de luni.",
+ "price_too_cheap": 3,
+ "price_cheap": 6,
+ "price_expensive": 12,
+ "price_too_expensive": 20
+}

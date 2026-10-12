@@ -1,0 +1,106 @@
+{
+ "n": 30,
+ "seed": 2026,
+ "customer": {
+  "business": "Alarmă Lucrător Izolat (ILLUSTRUS, Oradea): dispozitiv certificat + platformă + dispecerat externalizat 24/7, abonament pe lucrător",
+  "target": "decidenți și influențatori SSM (securitate și sănătate în muncă) din Bihor care au oameni ce lucrează singuri sau nevăzuți: utilități locale, exploatare forestieră privată, fabrici mari, firme de pază, servicii externe SSM",
+  "where": "Bihor (Oradea și județul), România",
+  "age": [
+   28,
+   62
+  ],
+  "segments": [
+   {
+    "name": "Șef serviciu intern SSM la o utilitate publică locală (apă-canal, salubritate sau termoficare; 400–750 de angajați; cumpără prin SEAP, are sindicat)",
+    "share": 0.2,
+    "income": [
+     10000000,
+     40000000
+    ]
+   },
+   {
+    "name": "Patron de firmă privată de exploatare forestieră din zona Aleșd–Beiuș (10–40 de angajați; decide și plătește singur)",
+    "share": 0.2,
+    "income": [
+     300000,
+     3000000
+    ]
+   },
+   {
+    "name": "Manager HSE (sănătate, securitate, mediu) la o fabrică mare din Oradea, parte dintr-un grup multinațional (1.000–2.500 de angajați; 5–15% lucrează izolat: mentenanță, tura de noapte, logistică)",
+    "share": 0.2,
+    "income": [
+     50000000,
+     400000000
+    ]
+   },
+   {
+    "name": "Director de firmă de pază din Oradea (80–300 de agenți, mulți singuri pe post noaptea; are dispecerat propriu de alarme pentru obiective)",
+    "share": 0.2,
+    "income": [
+     500000,
+     6000000
+    ]
+   },
+   {
+    "name": "Administrator de serviciu extern SSM din Oradea (40–150 de firme-client; recomandă măsuri în evaluarea riscurilor, nu plătește el)",
+    "share": 0.2,
+    "income": [
+     100000,
+     1500000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Se mișcă doar la control",
+    "share": 0.2,
+    "how": "Investește în SSM doar când ITM-ul (inspectoratul de muncă) sau un auditor cere ceva scris."
+   },
+   {
+    "name": "Marcat de un accident",
+    "share": 0.15,
+    "how": "A avut sau a văzut de aproape un accident grav în zonă și se teme de dosarul penal al administratorului."
+   },
+   {
+    "name": "Taie din costuri",
+    "share": 0.2,
+    "how": "Compară orice cost nou cu ce plătește deja pe SSM, EIP și GPS; vrea preț mic și fără contract lung."
+   },
+   {
+    "name": "Conservator",
+    "share": 0.15,
+    "how": "Crede că radioul, telefonul și regula de a lucra în doi sunt suficiente; nu-i plac sistemele noi."
+   },
+   {
+    "name": "Deschis la tehnologie",
+    "share": 0.15,
+    "how": "A introdus deja GPS pe flotă sau aplicații; vrea date și rapoarte, dar cere dovezi că merge."
+   },
+   {
+    "name": "Legat de procedură",
+    "share": 0.15,
+    "how": "Nu poate decide singur: are nevoie de aprobarea directorului, a grupului, a sindicatului sau de o achiziție publică."
+   }
+  ],
+  "objections": [
+   "Oamenii n-o să poarte așa ceva, iar sindicatul o să spună că-i urmărim",
+   "Lucrăm în echipă și avem radio și telefon, nu e cazul la noi",
+   "Cine răspunde dacă alarma nu ajunge și omul moare?",
+   "100 de lei pe om pe lună e mai mult decât plătesc pe tot SSM-ul",
+   "O firmă mică din Oradea poate ține un dispecerat 24/7 fără să cadă?",
+   "Alarmele false o să ne încurce munca",
+   "N-avem semnal în pădure sau în cămine",
+   "Nu pot cumpăra fără licitație sau fără aprobarea grupului"
+  ],
+  "habits": [
+   "ai o echipă care lucrează noaptea, câte unul sau doi",
+   "ai avut anul trecut un control ITM cu observații pe evaluarea riscurilor",
+   "folosești deja GPS pe mașini și știi cât costă",
+   "citești presa locală despre accidente din Bihor",
+   "vorbești des cu sindicatul sau cu reprezentanții angajaților",
+   "lucrezi cu un serviciu extern SSM de mulți ani și ai încredere în el"
+  ]
+ },
+ "pitch": "„Lucru izolat conform, la cheie” — ILLUSTRUS, Oradea. Pentru oamenii care lucrează singuri sau nevăzuți (cămine, stații de pompare, pădure, ture de noapte, posturi de pază). Un dispozitiv certificat prins de vestă sau cască trimite alarma dacă omul cade și nu se mai mișcă sau apasă SOS; un dispecer îl sună în sub 60 de secunde, apoi pe responsabilul dumneavoastră și, la nevoie, 112. Fiecare pas e salvat cu ora exactă, pentru dosarul SSM și ITM.\nPasul 1, gratuit și fără semnătură: într-o zi testăm semnalul cu 3 dispozitive în cele 10 locuri cele mai grele ale dumneavoastră și primiți raportul scris.\nPasul 2, pilot plătit de 60 de zile, până la 20 de lucrători: 2.500 lei (~500 EUR) fără TVA, o singură dată. Dispozitivele vi le împrumutăm noi. Include pachetul de documente făcut de noi: completarea evaluării riscurilor pentru lucrul izolat (cu serviciul dumneavoastră SSM), nota de informare a lucrătorilor, modelul de acord și procesul-verbal cu sindicatul, DPIA (evaluarea de impact asupra datelor), procedura de răspuns la alarmă și instruirea la sediu. Documentele rămân ale dumneavoastră chiar dacă renunțați.\nPasul 3, doar dacă pilotul a mers: 14 EUR (~70 lei) pe lucrător pe lună, fără TVA, dispozitiv inclus, numai pentru lucrătorii expuși; contract de 12 luni din care puteți ieși oricând în primele 3 luni. Dacă aveți dispecerat propriu 24/7, alarmele intră la dispecerii dumneavoastră în ecranul nostru: 9 EUR (~45 lei) pe lucrător pe lună.\nGaranție: dacă o alarmă, de test sau reală, nu e preluată în 60 de secunde, luna respectivă e gratuită pentru toată echipa. Contract cu răspunderea fiecăruia scrisă clar și asigurare de răspundere civilă profesională. Locația se trimite doar la alarmă, dispozitivul se oprește după program, datele se șterg după 30 de zile, fără puls sau date medicale. Serviciile externe SSM care ne recomandă primesc 15% din abonament."
+}

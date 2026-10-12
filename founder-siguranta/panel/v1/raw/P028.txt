@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nu pot semna singură nimic care mă obligă la bani: trebuie aprobarea directorului, a grupului și să treacă prin sindicat. În 3 luni nu ajung realist până la un pilot cu dispozitive cumpărate.",
+  "objection": "Oamenii n-o să poarte dispozitivul, iar sindicatul o să spună că-i urmărim, chiar dacă locația se trimite doar la alarmă. Plus contractul de 24 de luni și dispeceratul unei firme de pază externe, pe care grupul nu o cunoaște.",
+  "would_change_my_mind": "Un acord scris în prealabil cu sindicatul și aprobarea grupului, plus un pilot fără achiziție de dispozitive și fără obligații pe 24 de luni.",
+  "price_too_cheap": 5,
+  "price_cheap": 9,
+  "price_expensive": 18,
+  "price_too_expensive": 30
+}

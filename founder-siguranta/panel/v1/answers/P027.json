@@ -1,0 +1,13 @@
+{
+ "id": "P027",
+ "buys": true,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Pilotul de 90 de zile cu ținte clare și abonament doar dacă le atinge îmi permite să propun serviciul la 2 clienți cu echipe de noapte fără să-mi asum risc. Dar semnez acordul abia după ce văd dispeceratul și un test real, deci nu în prima lună.",
+ "objection": "Nu știu dacă o firmă mică din Oradea și o firmă de pază țin dispecerat 24/7 fără să cadă, nici dacă detecția căderii nu dă alarme false. Dacă recomand și nu răspunde cineva într-o noapte, pierd clientul.",
+ "would_change_my_mind": "Să văd dispeceratul funcționând, să primesc numele firmei de pază și referințe de la o firmă care l-a folosit, plus un contract cu penalizări dacă alarma nu e preluată în 60 de secunde.",
+ "price_too_cheap": 6,
+ "price_cheap": 10,
+ "price_expensive": 22,
+ "price_too_expensive": 32
+}

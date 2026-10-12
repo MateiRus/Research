@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Am dispecerat propriu și nu vreau ca alarma oamenilor mei să ajungă la o altă firmă de pază din Oradea, practic un concurent. Radioul, telefonul și regula de a lucra în doi mi-au ajuns până acum, iar 20 EUR pe agent pe lună, cu contract de 24 de luni, nu intră în marja unui contract de pază.",
+  "objection": "Cine răspunde dacă alarma nu ajunge și omul moare? Și de ce să dau alarmele agenților mei unui concurent, când am dispecerat propriu?",
+  "would_change_my_mind": "Dacă alarma ar ajunge la dispeceratul meu, nu la altă firmă de pază, iar contractul nu m-ar lega 24 de luni, aș discuta un pilot cu dispozitive cumpărate pe câțiva agenți.",
+  "price_too_cheap": 4,
+  "price_cheap": 8,
+  "price_expensive": 14,
+  "price_too_expensive": 22
+}

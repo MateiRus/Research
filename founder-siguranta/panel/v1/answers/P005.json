@@ -1,0 +1,13 @@
+{
+ "id": "P005",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "Clienții mei taie costurile la SSM, EIP și GPS, iar 20 EUR pe lucrător pe lună cu contract de 24 de luni e prea mult de propus. Cei mai mulți lucrează în echipă, cu radio și telefon, așa că nu le-aș recomanda activ.",
+ "objection": "Contract de 24 de luni și un cost lunar nou pe fiecare lucrător, când clienții mei se uită la fiecare leu. Nu pot să le cer asta fără să văd că e obligatoriu sau că o cere ITM.",
+ "would_change_my_mind": "Un preț sub 8 EUR pe lucrător pe lună, fără contract lung (lunar sau 3 luni), sau o cerință clară de la ITM pentru lucrătorii izolați.",
+ "price_too_cheap": 3,
+ "price_cheap": 6,
+ "price_expensive": 12,
+ "price_too_expensive": 20
+}

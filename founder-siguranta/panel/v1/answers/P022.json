@@ -1,0 +1,13 @@
+{
+ "id": "P022",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "Am dispecerat propriu 24/7 și agenții au radio și telefon, deci nu plătesc 20 EUR pe om pe llună pentru alt dispecerat. Nu mă mișc decât dacă ITM-ul sau un auditor îmi cere ceva în scris.",
+ "objection": "Alarma ar ajunge la dispeceratul unei alte firme de pază, un concurent din Oradea, și nu la al meu. Contractul de 24 de luni pentru 200 de agenți înseamnă un cost fix mare, fără nicio obligație legală care să mă forțeze.",
+ "would_change_my_mind": "Dacă ITM-ul sau un auditor ar cere explicit un sistem de alarmă pentru lucrătorul singur, iar alarma ar putea intra în dispeceratul meu propriu, la un preț mult mai mic și fără contract de 24 de luni.",
+ "price_too_cheap": 4,
+ "price_cheap": 7,
+ "price_expensive": 14,
+ "price_too_expensive": 22
+}

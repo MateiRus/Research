@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Am dispecerat propriu și deja plătesc SSM, EIP și GPS. La 150 de agenți, 20 EUR pe cap înseamnă 3.000 EUR pe lună plus contract de 24 de luni, iar eu tai costuri, nu adaug. În plus, alarma ar merge la dispeceratul unei alte firme de pază, adică la un concurent.",
+  "objection": "Plătesc un contract lung și dau alarmele agenților mei pe mâna dispeceratului unei firme concurente din Oradea, când eu am dispecerat propriu. Și mă întreb dacă o firmă mică ține 24/7 fără să cadă.",
+  "would_change_my_mind": "Alarma să poată fi direcționată către dispeceratul meu, cu un preț sub 8 EUR pe lucrător pe lună, fără contract de 24 de luni, sau cu un pilot gratuit în care dispozitivele nu se cumpără.",
+  "price_too_cheap": 3,
+  "price_cheap": 6,
+  "price_expensive": 11,
+  "price_too_expensive": 16
+}

@@ -1,0 +1,13 @@
+{
+ "id": "P030",
+ "buys": true,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "După ce am văzut de aproape un accident grav, mă gândesc mereu la dosarul penal al administratorului și la ce putem dovedi că am făcut pentru omul care lucrează singur la o stație de pompare sau la un cămin. Testul gratuit nu mă costă nimic, iar pilotul de 2.500 lei intră la achiziție directă, deci îl pot semna dacă testul merge. În prima lună probabil doar fac testul, nu semnez.",
+ "objection": "Majoritatea lucrează în echipă și au radio și telefon, așa că trebuie să arăt clar câți sunt cu adevărat izolați. Mă mai îngrijorează sindicatul și datele de localizare, iar dacă alarma sună fals prea des, oamenii lasă dispozitivul în dulap și rămân cu o procedură pe hârtie pe care nu o respectă nimeni.",
+ "would_change_my_mind": "Un test în care alarma ajunge la dispecer în sub 60 de secunde în stațiile și căminele noastre, plus acordul scris al sindicatului la dispozitiv. Dacă testul arată că nu avem destui oameni cu adevărat izolați, nu semnez pilotul.",
+ "price_too_cheap": 4,
+ "price_cheap": 8,
+ "price_expensive": 16,
+ "price_too_expensive": 28
+}

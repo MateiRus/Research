@@ -1,0 +1,13 @@
+{
+ "id": "P017",
+ "buys": true,
+ "purchases_first_month": 1,
+ "reason_code": "need",
+ "reason": "Am văzut de aproape un accident grav și știu ce înseamnă dosarul penal pentru administrator. Testul e gratuit, iar 500 EUR pentru pilot și pachetul de documente intră ușor în bugetul meu, fără aprobări mari de la grup. Dacă testul merge, semnez pilotul.",
+ "objection": "N-avem semnal în pădure sau în cămine. Dacă dispozitivul nu ia semnal în locurile cele mai grele, nu rezolvă nimic, iar eu rămân cu o hârtie care spune că am știut de risc. Mă mai îngrijorează sindicatul și faptul că 60 de secunde la dispecer nu înseamnă 60 de secunde până ajunge cineva la om.",
+ "would_change_my_mind": "Raportul de testare din pasul 1 să arate semnal slab sau lipsă în mai mult de câteva dintre cele 10 locuri, fără o soluție clară (alt tip de rețea, repetor). Atunci nu semnez pilotul.",
+ "price_too_cheap": 4,
+ "price_cheap": 8,
+ "price_expensive": 18,
+ "price_too_expensive": 30
+}

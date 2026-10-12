@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Testul gratuit l-aș accepta, dar nu semnez nimic plătit în 3 luni. Orice cost nou îl compar cu ce plătesc deja pe GPS și EIP, iar la 200 de agenți abonamentul crește repede. Am dispecerat propriu, deci aș vrea să văd întâi dacă ecranul lor se leagă la sistemul meu.",
+  "objection": "O firmă mică din Oradea poate ține un dispecerat 24/7 fără să cadă? Și cine plătește dacă alarma nu ajunge la mine și se întâmplă ceva cu un agent?",
+  "would_change_my_mind": "Un test gratuit în care alarmele intră fără probleme în dispeceratul meu, plus o referință de la o firmă de pază care folosește deja serviciul, la maximum 6-7 EUR pe lucrător pe lună și fără contract de 12 luni.",
+  "price_too_cheap": 3,
+  "price_cheap": 5,
+  "price_expensive": 9,
+  "price_too_expensive": 14
+}

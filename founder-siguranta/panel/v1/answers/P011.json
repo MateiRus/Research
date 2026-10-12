@@ -1,0 +1,13 @@
+{
+ "id": "P011",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "price",
+ "reason": "100 de lei pe om pe lună e mai mult decât plătesc pe tot serviciul SSM, iar contractul de 24 de luni nu mă interesează. Tai din costuri, nu adaug abonamente pe fiecare om.",
+ "objection": "Prețul pe cap, înmulțit cu toți oamenii din pădure, plus 24 de luni legat de contract. În plus, în pădure nu știu dacă ar fi semnal și dacă dispozitivul rezistă la ploaie, noroi și motoferăstrău.",
+ "would_change_my_mind": "Un preț de maximum 5-6 EUR pe om pe lună, fără contract lung, și dovadă că merge în pădure fără semnal bun. Sau dacă firma mea de SSM mi-l recomandă și mi-l include în pachetul pe care îl plătesc deja.",
+ "price_too_cheap": 2,
+ "price_cheap": 4,
+ "price_expensive": 8,
+ "price_too_expensive": 14
+}

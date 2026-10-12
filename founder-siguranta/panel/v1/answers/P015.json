@@ -1,0 +1,13 @@
+{
+ "id": "P015",
+ "buys": true,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "După accidentul pe care l-am văzut de aproape și după observațiile ITM pe evaluarea riscurilor, am clienți cu oameni singuri în ture de noapte sau la stații, iar un jurnal cu ora exactă a fiecărui pas îi ajută la dosarul SSM. Pilotul de 90 de zile fără abonament e un risc mic, așa că aș propune acordul la 2-3 clienți, dar nu în prima lună, pentru că mai întâi citesc contractul.",
+ "objection": "Cine răspunde dacă alarma nu ajunge sau dispeceratul nu sună la timp și omul moare? Dacă recomand eu serviciul, nu vreau să rămân cu răspunderea. Mai e contractul de 24 de luni, greu de vândut unui client care nu a văzut încă dovezi.",
+ "would_change_my_mind": "Un contract în care răspunderea dispeceratului și a furnizorului pentru alarme nesoluționate e scrisă clar, cu asigurare, plus dovada că dispeceratul a rezolvat alarme reale la alți clienți.",
+ "price_too_cheap": 6,
+ "price_cheap": 11,
+ "price_expensive": 20,
+ "price_too_expensive": 32
+}

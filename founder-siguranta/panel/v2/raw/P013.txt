@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Am pus GPS pe utilaje și îmi plac datele, dar în pădure, pe dealurile din Bihor, nu știu dacă prinde semnal, iar oamenii mei nu vor purta așa ceva fără să se plângă. Testul gratuit l-aș lăsa să vină, dar nu semnez nimic cu bani în următoarele 3 luni.",
+  "objection": "Oamenii n-o să-l poarte, iar sindicatul o să spună că-i urmărim. Mai am și îndoieli că merge în zone fără semnal și că alarma nu sună fals la fiecare cădere de buștean sau când omul stă nemișcat la pauză.",
+  "would_change_my_mind": "Un test gratuit în pădurea mea, în cele mai slabe locuri de semnal, cu raport scris care arată că alarma ajunge, plus o altă firmă forestieră din zonă care îl folosește deja și spune că oamenii l-au acceptat.",
+  "price_too_cheap": 3,
+  "price_cheap": 7,
+  "price_expensive": 14,
+  "price_too_expensive": 25
+}

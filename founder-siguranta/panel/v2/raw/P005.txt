@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Clienții mei lucrează de obicei în echipă și au radio și telefon, așa că nu văd un risc care să justifice o cheltuială nouă. Nu aș propune la 2 clienți un abonament lunar pe lucrător când ei vor să taie costurile la SSM.",
+  "objection": "Încă o taxă lunară pe cap de lucrător pe lângă ce plătesc deja la SSM, EIP și GPS. În plus, comisionul de 15% pentru mine mă pune într-o poziție neplăcută față de client: pare că recomand pe bani, nu pe risc real.",
+  "would_change_my_mind": "Un caz concret, la un client de-al meu, în care ITM sau o evaluare de risc cere explicit măsuri pentru lucrul izolat, plus un preț sub 6 EUR pe lucrător pe lună și ieșire oricând, fără comision pentru mine.",
+  "price_too_cheap": 3,
+  "price_cheap": 6,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

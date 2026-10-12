@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Am radio, telefon și regula de a lucra în doi, iar dispecerat am al meu. Nu semnez ceva nou pe baza unei promisiuni, mai ales când mulți dintre agenții mei sunt în cămine și hale unde nu e semnal.",
+  "objection": "N-avem semnal în pădure sau în cămine. Dacă dispozitivul nu trimite alarma exact acolo unde omul e singur, am plătit degeaba și rămân cu răspunderea. Mai mult, agenții mei vor vedea încă un aparat de supraveghere pe ei.",
+  "would_change_my_mind": "Testul gratuit să arate semnal bun în cele mai grele posturi ale mele, iar un alt director de firmă de pază să-mi confirme că folosește sistemul de un an fără alarme pierdute sau false.",
+  "price_too_cheap": 3,
+  "price_cheap": 5,
+  "price_expensive": 9,
+  "price_too_expensive": 14
+}

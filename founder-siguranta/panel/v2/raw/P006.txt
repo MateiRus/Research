@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Eu mă mișc doar când vine ITM-ul sau un auditor și cere ceva scris, iar lucrul izolat nu mi-a fost cerut până acum. Colaborez de ani de zile cu serviciul extern SSM și fără el nu pornesc nimic, iar la noi orice cheltuială trece prin SEAP și prin sindicat.",
+  "objection": "Alarmele false o să ne încurce munca, iar oamenii o să vadă dispozitivul ca pe o urmărire, așa că sindicatul se va opune. Pe lângă asta, un pilot de 2.500 lei nu-l pot da fără procedură, iar pentru 400-750 de oameni abonamentul lunar ajunge o sumă mare.",
+  "would_change_my_mind": "Un control ITM sau un audit care să ceară explicit măsuri pentru lucrul izolat, plus recomandarea serviciului meu extern SSM și acordul sindicatului după testul gratuit.",
+  "price_too_cheap": 3,
+  "price_cheap": 7,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

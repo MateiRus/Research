@@ -1,0 +1,9 @@
+
+=== NOTE PENTRU TOȚI MEMBRII PANELULUI (identice pentru toți) ===
+- Ești român și conduci, deții sau gestionezi organizația descrisă mai sus. Prenumele de pe card e doar un substituent.
+- Cifra anuală în „$” de pe card este cifra de afaceri anuală aproximativă a ORGANIZAȚIEI tale, în EUR, nu salariul tău.
+- Toate prețurile sunt în EUR pe lucrător pe lună, fără TVA, cu dispozitivul inclus. Dă cele patru răspunsuri de preț ca sume lunare în EUR pe lucrător.
+- „buys” = true doar dacă, realist, în următoarele 3 luni ai semna ceva care te obligă la bani (pilotul cu cumpărarea dispozitivelor sau un contract de abonament), din bugetul organizației tale. Dacă ești la un serviciu extern SSM: „buys” = true doar dacă ai semna un acord de recomandare și l-ai propune activ la cel puțin 2 clienți în următoarele 3 luni; prețurile sunt cele pe care le-ai considera potrivite pentru clienții tăi.
+- „purchases_first_month” = 1 dacă ai semna în prima lună, altfel 0.
+- Scrie câmpurile text în română.
+- Nu poți crea fișiere în această sesiune. Nu folosi unelte. Răspunde DOAR cu obiectul JSON descris mai sus: fără bloc de cod markdown, fără alt text.

@@ -1,0 +1,13 @@
+{
+ "id": "P008",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Eu mă mișcă doar controlul: dacă ITM sau un auditor nu cere ceva scris despre lucrul izolat, nu semnez nimic. Am dispecerat propriu și agenții merg de ani de zile cu stațiile și rondele existente, așa că nu văd urgență.",
+ "objection": "O firmă mică din Oradea poate ține un sistem de alarmă 24/7 fără să cadă? Dacă ecranul lor se blochează într-o noapte când un agent singur e la pământ, răspunderea o port eu, nu ei.",
+ "would_change_my_mind": "Un control ITM sau un audit care îmi cere explicit documentația pentru lucrul izolat, plus referințe de la o firmă de pază comparabilă care folosește sistemul de câteva luni fără căderi.",
+ "price_too_cheap": 2,
+ "price_cheap": 5,
+ "price_expensive": 11,
+ "price_too_expensive": 18
+}

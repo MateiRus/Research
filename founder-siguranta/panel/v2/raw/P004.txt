@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nu pot semna singur nimic care să mă oblige la bani: am nevoie de aprobarea directorului, de acordul sindicatului și de procedură prin SEAP. În 3 luni nu cred că ajung la o semnătură, deși testul gratuit mă interesează.",
+  "objection": "Cine răspunde dacă alarma nu ajunge și omul moare? Dacă dispecerul sau rețeaua cad, eu am semnat pentru un sistem pe care l-am pus în procedură. Mai e și sindicatul, care va întreba ce date se colectează despre oameni.",
+  "would_change_my_mind": "Acordul scris al sindicatului și al directorului după testul gratuit, plus dovada că răspunderea în caz de alarmă ratată e clar împărțită prin contract și acoperită de asigurare.",
+  "price_too_cheap": 4,
+  "price_cheap": 8,
+  "price_expensive": 16,
+  "price_too_expensive": 25
+}

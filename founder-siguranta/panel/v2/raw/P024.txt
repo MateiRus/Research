@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Plătesc deja pentru SSM, EIP și GPS și tai din costuri, nu adaug altele. Pe munte, în pădure, nu am încredere că semnalul ține, iar alarmele false îmi opresc echipa din lucru.",
+  "objection": "Alarmele false și lipsa semnalului în pădure: oamenii se enervează, nu mai poartă dispozitivul, iar eu plătesc lunar pentru ceva ce nu merge unde am nevoie.",
+  "would_change_my_mind": "Testul gratuit din pădurea mea să arate semnal bun și zero alarme false, iar prețul să fie sub 8 EUR pe lucrător pe lună, fără contract de 12 luni.",
+  "price_too_cheap": 3,
+  "price_cheap": 6,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

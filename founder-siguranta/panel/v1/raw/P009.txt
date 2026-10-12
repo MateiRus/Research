@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Mă mișc doar când ITM-ul sau un auditor cere ceva în scris, iar acum niciun client nu mi-a cerut așa ceva. Nu recomand activ la 2 clienți o alarmă de 20 EUR pe lucrător pe lună cu contract de 24 de luni, fără un motiv de control.",
+  "objection": "Clienții mei nu plătesc nimic în plus fără o obligație legală clară, iar 24 de luni de contract pentru un furnizor pe care nu-l cunosc e un risc. Dacă recomand și nu merge, răspund eu în fața clientului.",
+  "would_change_my_mind": "Dacă ITM-ul sau un auditor ar cere explicit un sistem de alarmă pentru lucrătorii izolați la un client, sau dacă aș vedea un caz documentat de la altă firmă din Bihor, cu un pilot fără obligații pentru client.",
+  "price_too_cheap": 4,
+  "price_cheap": 8,
+  "price_expensive": 14,
+  "price_too_expensive": 22
+}

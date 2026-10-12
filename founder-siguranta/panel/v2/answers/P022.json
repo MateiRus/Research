@@ -1,0 +1,13 @@
+{
+ "id": "P022",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "need",
+ "reason": "Agenții mei au radio și telefon, iar dispeceratul meu îi sună oricum la verificările de ture. Nu dau bani pe așa ceva până nu vine ITM-ul sau un auditor și îmi cere ceva scris pentru lucrul izolat.",
+ "objection": "Avem deja radio, telefon și dispecerat propriu, deci nu văd ce rezolvă în plus. Mai e un abonament pe cap de agent, iar la 150-200 de oameni costul se simte, mai ales dacă dispozitivele dau alarme false noaptea.",
+ "would_change_my_mind": "Dacă ITM-ul sau un client important ar cere în scris protecție pentru lucrul izolat la posturile de noapte și testul gratuit ar arăta că dispozitivul chiar acoperă locuri unde radioul nu merge.",
+ "price_too_cheap": 2,
+ "price_cheap": 4,
+ "price_expensive": 9,
+ "price_too_expensive": 15
+}

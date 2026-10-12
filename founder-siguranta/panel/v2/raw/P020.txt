@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "La noi merge cu radioul, telefonul și regula de a lucra în doi, și nu-mi place să introduc sisteme noi. Orice cheltuială pe un sistem nou trece prin grup și prin achiziții, deci nu semnez nimic în 3 luni, nici măcar un pilot de 2.500 lei.",
+  "objection": "Nu pot cumpăra fără licitație sau aprobarea grupului. Mai am și întrebări despre datele angajaților (sindicat, DPIA, GDPR) și despre ce se întâmplă dacă alarma nu ajunge la timp sau dispecerul din Oradea nu cunoaște fabrica noastră.",
+  "would_change_my_mind": "Un accident real sau un control ITM care să arate că metoda actuală nu e suficientă, plus aprobarea scrisă a grupului. Testul gratuit de o zi l-aș accepta, dar nu înseamnă că cumpăr.",
+  "price_too_cheap": 4,
+  "price_cheap": 7,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

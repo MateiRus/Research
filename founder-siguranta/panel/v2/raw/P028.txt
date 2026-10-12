@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Pasul 1 gratuit l-aș accepta poate, dar în următoarele 3 luni nu semnez nimic cu bani: orice contract trece prin director, grup și achiziții, iar sindicatul ar vedea dispozitivul ca urmărire. Nu pot garanta că oamenii îl poartă.",
+  "objection": "Oamenii n-o să poarte așa ceva, iar sindicatul o să spună că-i urmărim. Fără acordul lor și fără aprobarea grupului, nu pot semna nici măcar un pilot.",
+  "would_change_my_mind": "Un acord scris în prealabil cu sindicatul și aprobarea grupului, plus un exemplu dintr-o altă fabrică mare din grup sau din regiune în care lucrătorii poartă dispozitivul fără probleme.",
+  "price_too_cheap": 4,
+  "price_cheap": 8,
+  "price_expensive": 16,
+  "price_too_expensive": 28
+}

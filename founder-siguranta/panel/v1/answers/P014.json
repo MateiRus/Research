@@ -1,0 +1,13 @@
+{
+ "id": "P014",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Noi ne descurcăm cu radioul, telefonul și regula de a lucra în doi, iar nu-mi plac sistemele noi. Oamenii n-o să poarte dispozitivul, iar sindicatul o să spună că-i urmărim.",
+ "objection": "Sindicatul îl vede ca urmărire a oamenilor, iar lucrătorii nu-l poartă. Pe deasupra, un contract de 24 de luni prin SEAP e greu de justificat pentru ceva nou, cu 400-750 de angajați.",
+ "would_change_my_mind": "Dacă ITM-ul ar cere explicit așa ceva după controlul pe evaluarea riscurilor, sau dacă sindicatul ar semna în scris acordul pentru un pilot mic, fără contract lung.",
+ "price_too_cheap": 3,
+ "price_cheap": 6,
+ "price_expensive": 12,
+ "price_too_expensive": 20
+}

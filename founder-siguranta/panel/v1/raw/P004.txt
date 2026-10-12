@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nu pot semna singur nimic care mă obligă la bani: trebuie aprobarea directorului, discuția cu sindicatul și o procedură prin SEAP, iar în 3 luni nu ajung până acolo. Un contract de 24 de luni cu o firmă necunoscută din Oradea nu trece ușor.",
+  "objection": "Cine răspunde dacă alarma nu ajunge și omul moare? Dacă îmi pun lucrătorii să poarte dispozitivul și sistemul cade sau dispeceratul nu sună la timp, răspund eu în fața ITM și a familiei. Mai e și sindicatul, care va vedea în el urmărire.",
+  "would_change_my_mind": "Un pilot gratuit, fără achiziție de dispozitive, cu acordul scris al sindicatului și al directorului, plus referințe de la o altă utilitate publică și clarificarea răspunderii contractuale dacă alarma nu ajunge.",
+  "price_too_cheap": 5,
+  "price_cheap": 10,
+  "price_expensive": 20,
+  "price_too_expensive": 35
+}

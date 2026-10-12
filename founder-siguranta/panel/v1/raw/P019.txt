@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Am radio, telefon și regula de lucru în doi, iar dispecerat propriu. Nu bag bani în dispozitive noi și într-un contract de 24 de luni pentru ceva ce nu-mi cer clienții.",
+  "objection": "N-avem semnal în pădure sau în cămine, iar un dispozitiv care nu trimite alarma exact când trebuie e doar încă o jucărie. Plus că agenții mei îl vor lăsa în dulap sau se vor plânge că îi urmărești, iar alarma o primește dispeceratul altei firme, adică un concurent.",
+  "would_change_my_mind": "Dovadă de la altă firmă de pază că funcționează la obiective fără semnal, alarma să ajungă la dispeceratul meu și un client care să ceară și să plătească serviciul.",
+  "price_too_cheap": 4,
+  "price_cheap": 7,
+  "price_expensive": 14,
+  "price_too_expensive": 22
+}

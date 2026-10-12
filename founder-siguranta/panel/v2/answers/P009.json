@@ -1,0 +1,13 @@
+{
+ "id": "P009",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "habit",
+ "reason": "Mă mișc doar când vine ITM-ul sau un auditor și cere ceva scris. Fără o cerință clară, nu merg la 2 clienți să le propun o cheltuială nouă pe lucrător și lună, mai ales când comisionul de 15% m-ar face să par interesat.",
+ "objection": "Clienții mei nu cumpără fără aprobarea conducerii sau a grupului, iar eu doar recomand. Dacă recomand un dispozitiv și o alarmă nu e preluată sau apare o problemă de date, îmi pierd credibilitatea la 40-150 de firme.",
+ "would_change_my_mind": "O cerință scrisă de la ITM sau de la un auditor pentru lucrul izolat, plus un caz local din Bihor documentat, cu un client care a trecut controlul având dosarul făcut de ei.",
+ "price_too_cheap": 4,
+ "price_cheap": 8,
+ "price_expensive": 14,
+ "price_too_expensive": 25
+}

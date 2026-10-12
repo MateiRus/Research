@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Mă gândesc serios la stațiile de pompare și la turele de noapte, pentru că mi-e teamă de un dosar penal pe numele administratorului. Dar suntem utilitate publică și cumpărăm prin SEAP. Nu pot semna în 3 luni o achiziție de dispozitive plus un contract de 24 de luni, iar sindicatul ar vedea și el urmărirea locației.",
+  "objection": "Contract de 24 de luni și dispozitive cumpărate prin SEAP, într-o instituție unde nimic nu se aprobă repede. Mai am și GPS pe mașini, deci știu ce costă și cât de greu e să convingi oamenii să poarte ceva. Nu știu dacă lucrătorii îl poartă, dacă sindicatul acceptă și dacă o firmă de pază din Oradea ajunge repede la o stație izolată.",
+  "would_change_my_mind": "Un pilot gratuit, fără achiziția dispozitivelor, sub pragul de achiziție directă, cu acordul scris al sindicatului și cu un exemplu dintr-o altă utilitate care l-a folosit.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

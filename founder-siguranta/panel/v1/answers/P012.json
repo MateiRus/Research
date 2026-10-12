@@ -1,0 +1,13 @@
+{
+ "id": "P012",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "other",
+ "reason": "Nu pot semna singură nimic de felul ăsta: ar trebui aprobarea directorului, acordul sindicatului și o procedură de achiziție în SEAP, iar în 3 luni nu se întâmplă așa ceva. Mai e și faptul că oamenii nu vor purta dispozitivul.",
+ "objection": "Sindicatul va spune că ne urmărim oamenii, iar lucrătorii n-o să poarte dispozitivul în ture. Contractul de 24 de luni nu se potrivește cu o achiziție publică, iar pilotul cu cumpărarea dispozitivelor tot cere o aprobare.",
+ "would_change_my_mind": "Un acord scris de la sindicat și de la director, plus un pilot gratuit, fără cumpărarea dispozitivelor și fără contract lung, pe care să-l pot încadra într-o achiziție directă mică.",
+ "price_too_cheap": 5,
+ "price_cheap": 9,
+ "price_expensive": 16,
+ "price_too_expensive": 25
+}

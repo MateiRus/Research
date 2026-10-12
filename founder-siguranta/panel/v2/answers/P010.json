@@ -1,0 +1,13 @@
+{
+ "id": "P010",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "timing",
+ "reason": "Eu mă mișc doar când ITM-ul sau un auditor cere ceva în scris, iar acum nu mi-a cerut nimeni nimic pe lucrul izolat. Fără o cerință scrisă, nu pot justifica la achiziții o cheltuială nouă, pe lună și pe om.",
+ "objection": "14 EUR pe om pe lună înseamnă mai mult decât cheltuim pe tot SSM-ul. Pe lângă asta, trebuie să trec prin sindicat și prin SEAP, iar eu nu-mi caut singur de lucru.",
+ "would_change_my_mind": "Un control ITM sau un audit care îmi cere în scris măsuri pentru lucrul izolat, sau un accident grav în Bihor la o utilitate ca a noastră, plus un preț sub 5 EUR pe lucrător pe lună.",
+ "price_too_cheap": 1,
+ "price_cheap": 3,
+ "price_expensive": 7,
+ "price_too_expensive": 12
+}

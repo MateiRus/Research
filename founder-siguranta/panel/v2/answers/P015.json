@@ -1,0 +1,13 @@
+{
+ "id": "P015",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "trust",
+ "reason": "Mi-e teamă de dosarul penal, iar după controlul ITM chiar caut soluții. Dar nu semnez un acord de recomandare și nu propun un dispozitiv la clienți înainte să văd ceva dovedit. Testul gratuit l-aș accepta, dar el nu mă obligă la nimic.",
+ "objection": "Cine răspunde dacă alarma nu ajunge și omul moare? Dacă eu l-am recomandat și am luat 15%, rămân cu vina în fața clientului și a procurorului. Contractul spune că fiecare răspunde cât scrie, dar la un accident se uită la cel care a recomandat.",
+ "would_change_my_mind": "Referințe de la alte firme din Bihor care folosesc sistemul de cel puțin un an. În plus, o clauză clară de răspundere și o poliță de asigurare pe care o văd în scris. Aș vrea și să pot recomanda fără comision, ca să nu apar cu interes personal.",
+ "price_too_cheap": 4,
+ "price_cheap": 8,
+ "price_expensive": 16,
+ "price_too_expensive": 25
+}

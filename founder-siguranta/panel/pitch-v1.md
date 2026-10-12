@@ -1,0 +1,5 @@
+ILLUSTRUS, o firmă din Oradea, oferă un serviciu de alarmă pentru oamenii care lucrează singuri sau nevăzuți (cămine, stații de pompare, pădure, ture de noapte).
+Fiecare lucrător poartă un dispozitiv mic certificat, prins de vestă sau de cască. Dacă omul cade și nu se mai mișcă, sau dacă apasă butonul SOS, dispozitivul trimite automat alarma, cu locația doar în momentul alarmei. Fără puls și fără date medicale.
+Alarma ajunge la dispeceratul 24/7 al unei firme de pază din Oradea, care sună lucrătorul în sub 60 de secunde, apoi pe responsabilul dumneavoastră și, dacă e nevoie, 112. Fiecare pas e salvat cu ora exactă, pentru dosarul SSM și pentru ITM.
+Preț: 20 EUR (~100 lei) pe lucrător pe lună, fără TVA, cu dispozitivul inclus, contract de 24 de luni. Alternativ: 12 EUR (~60 lei) pe lună dacă cumpărați dispozitivele (~130 EUR bucata).
+Pilot: 90 de zile la 20–30 de lucrători, fără abonament în pilot, dacă cumpărați dispozitivele; după pilot, abonamentul începe doar dacă s-au atins țintele (alarmele de test ajung toate, purtarea ≥85% din ture).

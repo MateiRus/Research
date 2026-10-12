@@ -1,0 +1,13 @@
+{
+ "id": "P003",
+ "buys": false,
+ "purchases_first_month": 0,
+ "reason_code": "timing",
+ "reason": "Eu mă mișc la SSM doar când vine ITM-ul sau un auditor și cere ceva scris. Până atunci nu semnez nimic, nici măcar un pilot în care trebuie să cumpăr dispozitivele.",
+ "objection": "O firmă mică din Oradea poate ține un dispecerat 24/7 fără să cadă? Dacă într-o noapte nu răspunde nimeni și se întâmplă ceva în pădure, răspund eu în fața ITM-ului, nu ei. Mai e și contractul de 24 de luni, prea lung pentru un lucru pe care nu l-am încercat. În pădure poate nici nu e semnal.",
+ "would_change_my_mind": "Un control ITM sau un auditor care îmi cere explicit sistem de alarmă pentru cei care lucrează singuri. Sau un pilot gratuit, cu dispozitive date de ei, și un contract scris în care dispeceratul răspunde cu despăgubiri dacă nu sună în 60 de secunde.",
+ "price_too_cheap": 5,
+ "price_cheap": 10,
+ "price_expensive": 20,
+ "price_too_expensive": 35
+}

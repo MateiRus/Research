@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nu pot recomanda clienților un serviciu de viață și moarte de la o firmă mică, nedovedită, cu contract de 24 de luni. Dacă ceva merge prost, răspunderea îmi revine mie ca cel care a recomandat.",
+  "objection": "O firmă mică din Oradea poate ține un dispecerat 24/7 fără să cadă? Nu văd nicio referință, niciun client existent și nu știu cine răspunde dacă alarma nu ajunge. În plus, 24 de luni este mult pentru ceva netestat, iar pilotul cere clientului să cumpere dispozitive de câteva mii de euro.",
+  "would_change_my_mind": "Să văd un pilot încheiat la o firmă reală din Bihor, cu rapoarte de alarme de test și timpi de răspuns. Aș vrea și contractul cu firma de pază care face dispeceratul, cu răspundere scrisă și o clauză de ieșire fără penalități dacă țintele nu se ating.",
+  "price_too_cheap": 5,
+  "price_cheap": 10,
+  "price_expensive": 20,
+  "price_too_expensive": 35
+}
